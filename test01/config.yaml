@@ -1,0 +1,16 @@
+# 基本参数
+EPOCHS: 2
+BATCH_SIZE: 32
+LR: 0.00001
+MAXLEN: 64
+POOLING: 'cls' 
+
+# 预训练模型目录
+model_path : 'chinese_roberta_wwm_ext_pytorch'
+
+# 微调后参数存放位置
+SAVE_PATH: 'simcse_sup.pt'
+
+# 数据位置
+TRAIN: 'ICD_train.txt'
+DEV: 'ICD_dev.txt'

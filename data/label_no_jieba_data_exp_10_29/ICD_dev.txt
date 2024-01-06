@@ -1,0 +1,2001 @@
+{"origin": "1型糖尿病性植物神经病变", "entailment": "1型糖尿病性自主神经病", "contradiction": "耳廓血管神经性反应"}
+{"origin": "卵巢恶性肿瘤", "entailment": "卵巢恶性肿瘤", "contradiction": "玻璃状细胞癌"}
+{"origin": "卵巢恶性肿瘤", "entailment": "癌", "contradiction": "颈部多发性脱位"}
+{"origin": "髂腰肌囊性占位", "entailment": "髂肌囊肿", "contradiction": "睾丸和阴囊发育不全"}
+{"origin": "髂腰肌囊性占位", "entailment": "腰部囊肿", "contradiction": "社会化的品行障碍"}
+{"origin": "子宫颈鳞癌2b期放化疗后", "entailment": "子宫颈恶性肿瘤", "contradiction": "睾丸自发破裂"}
+{"origin": "子宫颈鳞癌2b期放化疗后", "entailment": "鳞状细胞癌", "contradiction": "抗精神病药中毒"}
+{"origin": "子宫颈鳞癌2b期放化疗后", "entailment": "恶性肿瘤放疗", "contradiction": "用烟、火和火焰方式故意自害,在街道和公路"}
+{"origin": "子宫颈鳞癌2b期放化疗后", "entailment": "化学治疗", "contradiction": "被折叠物体压伤"}
+{"origin": "肿标升高待查全麻胃肠镜丙泊酚不耐受", "entailment": "肿瘤标记物升高", "contradiction": "暴露于输电线路下造成的损伤, 在街道和公路"}
+{"origin": "无精症输精管梗阻精液淤积症", "entailment": "无精子症", "contradiction": "脂酶(三酰基甘油脂酶)异常"}
+{"origin": "无精症输精管梗阻精液淤积症", "entailment": "输精管梗阻", "contradiction": "人类免疫缺陷病毒[HlV]病造成的其他特指的情况"}
+{"origin": "无精症输精管梗阻精液淤积症", "entailment": "附睾精索精子淤积症", "contradiction": "睡眠呼吸暂停低通气综合征"}
+{"origin": "乳癌术后定期化疗，门诊开药", "entailment": "乳腺恶性肿瘤", "contradiction": "会阴恶性肿瘤"}
+{"origin": "乳癌术后定期化疗，门诊开药", "entailment": "恶性肿瘤术后化疗", "contradiction": "泌尿器官移植物的机械性并发症"}
+{"origin": "右膝关节骨关节炎", "entailment": "单侧膝关节骨性关节病", "contradiction": "胸部损伤"}
+{"origin": "急性b淋巴细胞白血病l2型（标危 cr）化疗", "entailment": "b细胞急性淋巴细胞白血病", "contradiction": "弹响髋"}
+{"origin": "急性b淋巴细胞白血病l2型（标危 cr）化疗", "entailment": "急性淋巴细胞白血病l2", "contradiction": "骶前囊肿"}
+{"origin": "急性b淋巴细胞白血病l2型（标危 cr）化疗", "entailment": "急性淋巴细胞白血病l2型", "contradiction": "脊髓灰质炎样综合征"}
+{"origin": "急性b淋巴细胞白血病l2型（标危 cr）化疗", "entailment": "化学治疗", "contradiction": "肱动脉血栓形成"}
+{"origin": "高甘油3酯脂血症前列腺梗阻未特指", "entailment": "前列腺未指疾患", "contradiction": "牙槽骨骨折"}
+{"origin": "高甘油3酯脂血症前列腺梗阻未特指", "entailment": "高甘油3酯血症", "contradiction": "多毛症"}
+{"origin": "卵巢癌肿瘤细胞减灭术术后", "entailment": "卵巢恶性肿瘤", "contradiction": "肾动脉粥样硬化"}
+{"origin": "卵巢癌肿瘤细胞减灭术术后", "entailment": "癌", "contradiction": "增殖性膀胱炎"}
+{"origin": "卵巢癌肿瘤细胞减灭术术后", "entailment": "卵巢术后", "contradiction": "性早熟"}
+{"origin": "右膝外翻重度左膝内翻轻度", "entailment": "膝外翻", "contradiction": "持续性心房扑动"}
+{"origin": "右膝外翻重度左膝内翻轻度", "entailment": "膝内翻", "contradiction": "先天性阴唇肥厚"}
+{"origin": "双叶甲状腺癌", "entailment": "甲状腺恶性肿瘤", "contradiction": "感觉过敏"}
+{"origin": "双叶甲状腺癌", "entailment": "癌", "contradiction": "与环境污染有关的情况"}
+{"origin": "胸椎破坏伴截瘫", "entailment": "截瘫[双下肢瘫痪]", "contradiction": "蛔虫病伴有肠道并发症"}
+{"origin": "十2指肠降段隆起性病变", "entailment": "胃和十2指肠未指疾病", "contradiction": "急性重症胰腺炎"}
+{"origin": "急慢性炎伴淋巴组织增生", "entailment": "淋巴组织增生", "contradiction": "腺状乳头状瘤病"}
+{"origin": "糖尿病糖尿病周围神经病变糖尿病肾病4期", "entailment": "糖尿病", "contradiction": "十二指肠溃疡慢性或未特指的,伴有出血和穿孔"}
+{"origin": "糖尿病糖尿病周围神经病变糖尿病肾病4期", "entailment": "糖尿病性周围神经病", "contradiction": "小泡型横纹肌肉瘤"}
+{"origin": "糖尿病糖尿病周围神经病变糖尿病肾病4期", "entailment": "糖尿病肾病4期", "contradiction": "其他气体和蒸气的中毒及暴露于该类物质, 意图不确定的, 在体育和运动区域"}
+{"origin": "惊厥(？)", "entailment": "其他和未指惊厥", "contradiction": "浸润性小管性癌"}
+{"origin": "卵圆孔未闭发泡实验阳性", "entailment": "卵圆孔未闭", "contradiction": "苯同类物的毒性效应"}
+{"origin": "左肾缺失", "entailment": "先天性肾缺如", "contradiction": "心间隔未特指的先天性畸形"}
+{"origin": "门诊以胃窦管状腺瘤收入院", "entailment": "胃良性肿瘤", "contradiction": "鳞状上皮内肿瘤III级"}
+{"origin": "门诊以胃窦管状腺瘤收入院", "entailment": "管状腺瘤", "contradiction": "早产儿(孕期等于或大于28整周,但小于32整周)"}
+{"origin": "左腋窝肉芽组织肿", "entailment": "肉芽肿", "contradiction": "输卵管假体置入术后"}
+{"origin": "完全性肺静脉异位引流心下型无梗阻", "entailment": "完全性肺静脉异位引流,心下型", "contradiction": "前列腺充血和出血"}
+{"origin": "右输尿管结石并右肾积液", "entailment": "肾积水伴输尿管结石", "contradiction": "手部肌肉损伤后遗症"}
+{"origin": "胸中段食管鳞癌化疗后", "entailment": "食管胸中段恶性肿瘤", "contradiction": "隆鼻术后恢复期"}
+{"origin": "胸中段食管鳞癌化疗后", "entailment": "鳞状细胞癌", "contradiction": "去氧巴比妥盐类的有害效应"}
+{"origin": "胸中段食管鳞癌化疗后", "entailment": "化学治疗", "contradiction": "微侵袭性滤泡性腺癌"}
+{"origin": "肺曲霉病(?)", "entailment": "肺曲霉菌病", "contradiction": "未特指的性咨询"}
+{"origin": "右肺上叶周围型腺癌", "entailment": "右肺上叶恶性肿瘤", "contradiction": "复发性阿弗他溃疡"}
+{"origin": "右肺上叶周围型腺癌", "entailment": "腺癌", "contradiction": "手术后吸收障碍性骨质疏松"}
+{"origin": "晚孕(上感)", "entailment": "妊娠状态", "contradiction": "晶状体未特指的疾患"}
+{"origin": "晚孕(上感)", "entailment": "上呼吸道感染", "contradiction": "交通事故中专用工业车辆外部人员的损伤"}
+{"origin": "下颌骨发育不全", "entailment": "先天下颌骨颜面发育不全", "contradiction": "显著的行为缺陷,需要加以关注或治疗"}
+{"origin": "左足背砸伤软组织损伤", "entailment": "足部损伤", "contradiction": "其他气体和蒸气的故意自毒及暴露于该类物质, 在贸易和服务区域"}
+{"origin": "左足背砸伤软组织损伤", "entailment": "砸伤", "contradiction": "食物媒介的产气荚膜梭状芽胞杆菌[韦尔希梭状芽胞杆菌]食物中毒"}
+{"origin": "骨转移(左11后肋、右9后肋)", "entailment": "肋骨继发恶性肿瘤", "contradiction": "小汽车乘员在其他和未特指的运输事故中的损伤"}
+{"origin": "骨转移(左11后肋、右9后肋)", "entailment": "转移性肿瘤", "contradiction": "非滤泡性淋巴瘤"}
+{"origin": "新生儿先天性心血管畸形", "entailment": "先天性心脏病", "contradiction": "局部麻醉药的有害效应"}
+{"origin": "母体妊娠糖尿病之新生儿", "entailment": "糖尿病母亲婴儿", "contradiction": "药物性再生障碍性贫血"}
+{"origin": "语言迟缓铁低锌低", "entailment": "言语障碍", "contradiction": "为抗其他特指的单一的传染病采取必要的免疫"}
+{"origin": "语言迟缓铁低锌低", "entailment": "锌缺乏", "contradiction": "转移性硬腺癌"}
+{"origin": "语言迟缓铁低锌低", "entailment": "铁缺乏", "contradiction": "淋巴细胞性间质性肺炎"}
+{"origin": "急性胃肠道功能不全", "entailment": "胃肠功能紊乱", "contradiction": "腹腔感染"}
+{"origin": "全身多脏器功能衰竭心肝肾肺胰腺凝血肠道", "entailment": "凝血功能障碍", "contradiction": "白喉疫苗接种反应"}
+{"origin": "全身多脏器功能衰竭心肝肾肺胰腺凝血肠道", "entailment": "多脏器功能障碍综合征[mods]", "contradiction": "产褥期肠梗阻"}
+{"origin": "右骨盆肿物", "entailment": "骨盆部占位", "contradiction": "跖筋膜炎"}
+{"origin": "右髌骨软化右股骨外髁上方局灶性囊性变", "entailment": "髌骨软骨软化", "contradiction": "胸部冻伤伴组织坏死"}
+{"origin": "右髌骨软化右股骨外髁上方局灶性囊性变", "entailment": "股骨骨囊肿", "contradiction": "非丝虫性睾丸鞘膜乳靡囊肿"}
+{"origin": "非胰岛素依赖型糖尿病伴有酮症酸中毒", "entailment": "2型糖尿病性酮症酸中毒", "contradiction": "听神经良性肿瘤"}
+{"origin": "结肠溃疡型是分化腺癌", "entailment": "结肠恶性肿瘤", "contradiction": "烟草戒断状态伴谵妄态"}
+{"origin": "结肠溃疡型是分化腺癌", "entailment": "腺癌", "contradiction": "未特指的贫困造成的损伤, 在居住的公共设施"}
+{"origin": "宫颈小细胞癌2a2期", "entailment": "子宫颈恶性肿瘤", "contradiction": "颈动脉瘤"}
+{"origin": "宫颈小细胞癌2a2期", "entailment": "小细胞癌", "contradiction": "未特指的霍奇金病"}
+{"origin": "骶尾骨中部骨折", "entailment": "骶骨骨折", "contradiction": "可遗传性肺动脉高压"}
+{"origin": "头痛口干肝肾不足", "entailment": "头痛", "contradiction": "先天性肾病综合征"}
+{"origin": "头痛口干肝肾不足", "entailment": "口干", "contradiction": "妊娠合并肝疾病"}
+{"origin": "进行性掌指角皮病", "entailment": "角化病", "contradiction": "未特指的骑脚踏车人员在非交通事故中的损伤"}
+{"origin": "先天性心脏病合并妊娠", "entailment": "妊娠合并先天性心脏病", "contradiction": "先天性子宫颈狭窄"}
+{"origin": "右侧肋间血管破裂", "entailment": "血管断裂", "contradiction": "被他人运送时跌倒"}
+{"origin": "颅面骨发育不全", "entailment": "颅面骨发育不全", "contradiction": "腹上部浅表损伤"}
+{"origin": "下段胸骨及伤口愈合不良", "entailment": "开放性损伤愈合不良", "contradiction": "原因不明性骨髓纤维化"}
+{"origin": "低级别滤泡性淋巴瘤4期b组", "entailment": "滤泡淋巴瘤", "contradiction": "避孕环嵌顿"}
+{"origin": "急性脑梗死右侧颞枕叶出血性梗死", "entailment": "脑梗死", "contradiction": "前体B细胞急性淋巴细胞白血病"}
+{"origin": "急性脑梗死右侧颞枕叶出血性梗死", "entailment": "多发性脑梗死", "contradiction": "额叶恶性肿瘤"}
+{"origin": "急性脑梗死右侧颞枕叶出血性梗死", "entailment": "出血性脑梗死", "contradiction": "降主动脉瘤"}
+{"origin": "右前臂带状孢疹", "entailment": "带状疱疹", "contradiction": "播散性荚膜组织胞浆菌病"}
+{"origin": "：小房缺；染色体病？", "entailment": "房间隔缺损", "contradiction": "肥胖相关性肾小球肥大症"}
+{"origin": "：小房缺；染色体病？", "entailment": "染色体病", "contradiction": "先天性肛门闭锁伴直肠尿道瘘"}
+{"origin": "双侧髂动脉右侧股浅动脉支架植入术", "entailment": "血管支架植入术后状态", "contradiction": "虹膜异色性白内障"}
+{"origin": "腰背部劳损", "entailment": "腰部劳损", "contradiction": "引产术后"}
+{"origin": "腰背部劳损", "entailment": "背部劳损", "contradiction": "用其他特指的手段进行加害, 在农场"}
+{"origin": "双髋关节退行性改变", "entailment": "双侧髋关节骨性关节病", "contradiction": "视盘肿物"}
+{"origin": "骨关节病;坐骨神经痛肌肉关节酸痛行动不便", "entailment": "骨关节病", "contradiction": "味觉倒错"}
+{"origin": "骨关节病;坐骨神经痛肌肉关节酸痛行动不便", "entailment": "坐骨神经痛", "contradiction": "发育性失认症"}
+{"origin": "骨关节病;坐骨神经痛肌肉关节酸痛行动不便", "entailment": "肌痛", "contradiction": "为抗结核采取必要的免疫[BCG]"}
+{"origin": "骨关节病;坐骨神经痛肌肉关节酸痛行动不便", "entailment": "关节痛", "contradiction": "先天性青光眼"}
+{"origin": "诺卡菌病肺皮肤骨", "entailment": "肺诺卡菌病", "contradiction": "支气管结核(复治,药物敏感)涂阳培阳"}
+{"origin": "诺卡菌病肺皮肤骨", "entailment": "皮肤诺卡菌病", "contradiction": "风湿热,未提及心脏受累"}
+{"origin": "诺卡菌病肺皮肤骨", "entailment": "其他形式的诺卡菌病", "contradiction": "局限性神经性皮炎"}
+{"origin": "右眼假性剥脱综合症", "entailment": "假性囊膜剥脱综合征", "contradiction": "脊髓硬化"}
+{"origin": "肛管末端代谢局灶性增高考虑为痔疮可能性大", "entailment": "痔", "contradiction": "肌上皮瘤"}
+{"origin": "甲状腺右叶乳头状微癌", "entailment": "甲状腺恶性肿瘤", "contradiction": "先天性副肺叶"}
+{"origin": "甲状腺右叶乳头状微癌", "entailment": "乳头状微小癌", "contradiction": "起搏器起搏功能不良"}
+{"origin": "左手中指恶性黑素瘤", "entailment": "手指恶性黑色素瘤", "contradiction": "1型糖尿病性坏死性筋膜炎"}
+{"origin": "左手中指恶性黑素瘤", "entailment": "恶性黑色素瘤", "contradiction": "骶前良性肿瘤"}
+{"origin": "右足跟部皮肤软组织脱套伤", "entailment": "足部套脱伤", "contradiction": "眼和眶损伤后遗症"}
+{"origin": "缺锌重轻度缺铁胃口睡眠差", "entailment": "食欲不振", "contradiction": "心脏肥大"}
+{"origin": "缺锌重轻度缺铁胃口睡眠差", "entailment": "铁缺乏", "contradiction": "混合型高甘油酯血症"}
+{"origin": "缺锌重轻度缺铁胃口睡眠差", "entailment": "锌缺乏", "contradiction": "1型糖尿病性坏死性筋膜炎"}
+{"origin": "缺锌重轻度缺铁胃口睡眠差", "entailment": "睡眠障碍", "contradiction": "踝距腓前韧带断裂"}
+{"origin": "精神异常原因待查", "entailment": "精神障碍", "contradiction": "羊水过少"}
+{"origin": "胸片提示：右上肺可疑结节", "entailment": "肺占位性病变", "contradiction": "小阴唇二度腐蚀伤"}
+{"origin": "肺特指疾患双肺下叶斑片影", "entailment": "肺部阴影", "contradiction": "心脏良性肿瘤"}
+{"origin": "肺特指疾患双肺下叶斑片影", "entailment": "肺病", "contradiction": "放射治疗史"}
+{"origin": "双下肢行走异常", "entailment": "异常步态", "contradiction": "构音困难和构音不全"}
+{"origin": "右肺小细胞癌局限期", "entailment": "右肺恶性肿瘤", "contradiction": "腕和手拇指伸肌腱损伤"}
+{"origin": "右肺小细胞癌局限期", "entailment": "小细胞癌", "contradiction": "下肢供血不足"}
+{"origin": "阑尾开口横结肠管状腺瘤", "entailment": "管状腺瘤", "contradiction": "旅行和运动造成的损伤, 在街道和公路"}
+{"origin": "阑尾开口横结肠管状腺瘤", "entailment": "横结肠良性肿瘤", "contradiction": "固体和液体引起的肺炎"}
+{"origin": "胃窦隆起糜烂异位胰腺", "entailment": "胃内异位胰腺", "contradiction": "掌骨多处骨折"}
+{"origin": "胃窦隆起糜烂异位胰腺", "entailment": "糜烂性胃炎", "contradiction": "管圆线虫病"}
+{"origin": "冠心病缺血性心肌病型心功3-4级", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "其他特指的营养元素缺乏"}
+{"origin": "冠心病缺血性心肌病型心功3-4级", "entailment": "缺血性心肌病", "contradiction": "新生儿一度房室传导阻滞"}
+{"origin": "冠心病缺血性心肌病型心功3-4级", "entailment": "心功能3级(纽约心脏病协会分级)", "contradiction": "内痔不伴有并发症"}
+{"origin": "冠心病缺血性心肌病型心功3-4级", "entailment": "心功能4级(纽约心脏病协会分级)", "contradiction": "神经节苷脂贮积症"}
+{"origin": "网球肘肩部劳损", "entailment": "肱骨外上髁炎[网球肘]", "contradiction": "淋球菌性滑囊炎"}
+{"origin": "网球肘肩部劳损", "entailment": "肩颈部劳损", "contradiction": "上或下脚踏车时人员在脚踏车与两轮或三轮机动车碰撞中的人员损伤"}
+{"origin": "胃癌伴幽门梗阻", "entailment": "胃恶性肿瘤", "contradiction": "潜伏性晚期梅毒"}
+{"origin": "胃癌伴幽门梗阻", "entailment": "幽门梗阻", "contradiction": "虹膜囊肿"}
+{"origin": "胃癌伴幽门梗阻", "entailment": "癌", "contradiction": "专用建筑车辆事故"}
+{"origin": "颈5椎体骨折", "entailment": "颈椎骨折c5", "contradiction": "高球蛋白血症性紫癜"}
+{"origin": "急性脊髓外伤", "entailment": "脊髓损伤", "contradiction": "白癜风"}
+{"origin": "盆腔脉管瘤栓", "entailment": "肿瘤栓子", "contradiction": "泌尿生殖道其他和多处部位内异物"}
+{"origin": "左腋窝淋巴结增生性病变", "entailment": "腋下淋巴结肿大", "contradiction": "兔眼"}
+{"origin": "低锌肛周裂口", "entailment": "锌缺乏", "contradiction": "孕>42周"}
+{"origin": "低锌肛周裂口", "entailment": "肛裂", "contradiction": "冻疮样狼疮型皮肤结节病"}
+{"origin": "房室结双径路+房室结折返性心动过速射频消融术后手术名称：房室结双径路+房室结折返性心动过速射频消融术", "entailment": "心脏射频消融术后", "contradiction": "异尖线虫病"}
+{"origin": "糖尿病周围病变", "entailment": "糖尿病", "contradiction": "先天性重睑不对称"}
+{"origin": "极重度再生障碍性贫血", "entailment": "再生障碍性贫血", "contradiction": "其他特指的结晶性关节病"}
+{"origin": "冠心脏心肌缺血", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "嗅神经损伤"}
+{"origin": "冠心脏心肌缺血", "entailment": "心肌供血不足", "contradiction": "食管肌性肥厚"}
+{"origin": "甲状腺乳头状癌2次术后复发", "entailment": "甲状腺恶性肿瘤", "contradiction": "肺炎球菌性腕关节炎"}
+{"origin": "甲状腺乳头状癌2次术后复发", "entailment": "甲状腺术后", "contradiction": "班氏丝虫病"}
+{"origin": "甲状腺乳头状癌2次术后复发", "entailment": "甲状腺乳头状癌", "contradiction": "耳皮肤原位癌"}
+{"origin": "甲状腺乳头状癌2次术后复发", "entailment": "恶性肿瘤复发", "contradiction": "扁桃体息肉"}
+{"origin": "右前臂软组织劳损", "entailment": "累及上肢多个部位的脱位、扭伤和劳损", "contradiction": "乳汁过少"}
+{"origin": "双膝关节骨关节病", "entailment": "双侧膝关节骨性关节病", "contradiction": "膝部擦伤"}
+{"origin": "右锁骨考虑急性发热性嗜中性皮病病", "entailment": "急性发热性嗜中性皮病", "contradiction": "接触热自来水造成的损伤, 在未特指场所"}
+{"origin": "胸部皮肤破裂伤", "entailment": "胸部开放性损伤", "contradiction": "症状性单核细胞增多"}
+{"origin": "腹部脂肪堆积", "entailment": "腹部脂肪增多症", "contradiction": "小脑梗死"}
+{"origin": "神经系统特指疾患发作性肢体无力待查", "entailment": "神经系统病变", "contradiction": "外部假体装置的安装和调整"}
+{"origin": "神经系统特指疾患发作性肢体无力待查", "entailment": "肢体无力", "contradiction": "胆碱能神经功能亢进"}
+{"origin": "原发性支气管肺癌(左上肺 鳞癌可能 ct4n0m1(骨 )", "entailment": "左肺上叶恶性肿瘤", "contradiction": "乳头状导管原位癌"}
+{"origin": "原发性支气管肺癌(左上肺 鳞癌可能 ct4n0m1(骨 )", "entailment": "鳞状细胞癌", "contradiction": "特发性甲状旁腺功能减退症"}
+{"origin": "原发性支气管肺癌(左上肺 鳞癌可能 ct4n0m1(骨 )", "entailment": "骨继发恶性肿瘤", "contradiction": "恶性蓝痣"}
+{"origin": "原发性支气管肺癌(左上肺 鳞癌可能 ct4n0m1(骨 )", "entailment": "转移性鳞状细胞癌", "contradiction": "垂体腺瘤"}
+{"origin": "膀胱腺癌", "entailment": "膀胱恶性肿瘤", "contradiction": "震动导致的损伤"}
+{"origin": "膀胱腺癌", "entailment": "腺癌", "contradiction": "脑未特指的良性肿瘤"}
+{"origin": "慢性疱疹病毒感染", "entailment": "疱疹病毒病毒感染", "contradiction": "交通事故中轻型货车或篷车与小汽车、轻型货车或篷车碰撞中轻型货车或篷车乘客的损伤"}
+{"origin": "垂体腺瘤伴出血", "entailment": "垂体良性肿瘤", "contradiction": "法-美-英系统:M2型白血病,AML1(CBF-α)/ETO"}
+{"origin": "垂体腺瘤伴出血", "entailment": "垂体腺瘤", "contradiction": "腹疝"}
+{"origin": "垂体腺瘤伴出血", "entailment": "肿瘤伴出血", "contradiction": "新生儿脑脊膜脑损伤"}
+{"origin": "左小腿皮肤剥脱撕裂伤", "entailment": "小腿撕脱伤", "contradiction": "溶酶体酶转译后变体缺陷"}
+{"origin": "右下肢纤维瘤", "entailment": "纤维瘤", "contradiction": "未特指的女性生殖器官良性肿瘤"}
+{"origin": "右下肢纤维瘤", "entailment": "下肢良性肿瘤", "contradiction": "结晶尿"}
+{"origin": "儿童保健,低体重，髋关节发育不良？先心(房间隔缺损)", "entailment": "低体重儿", "contradiction": "未特指的疱疹病毒感染"}
+{"origin": "儿童保健,低体重，髋关节发育不良？先心(房间隔缺损)", "entailment": "先天性髋关节发育不良", "contradiction": "阴茎淋巴管瘘"}
+{"origin": "儿童保健,低体重，髋关节发育不良？先心(房间隔缺损)", "entailment": "房间隔缺损", "contradiction": "未特指的肌神经疾患"}
+{"origin": "双耳异物", "entailment": "耳内异物", "contradiction": "泛发性湿疹"}
+{"origin": "左腋部皮脂腺囊肿", "entailment": "皮脂腺囊肿", "contradiction": "暴露于其他特指的因素下造成的损伤, 在街道和公路"}
+{"origin": "月经不调早孕", "entailment": "月经紊乱", "contradiction": "镇癫痫药、镇静-催眠剂、 抗震颤麻痹药和对精神有影响的药物的故意自毒及暴露于该类药物, 不可归类在他处者, 在农场"}
+{"origin": "月经不调早孕", "entailment": "妊娠状态", "contradiction": "红细胞沉降率升高"}
+{"origin": "绒毛状腺瘤伴癌变", "entailment": "绒毛状腺瘤", "contradiction": "沙门菌肠炎"}
+{"origin": "绒毛状腺瘤伴癌变", "entailment": "腺瘤癌变", "contradiction": "胸部恶性肿瘤"}
+{"origin": "颞叶内侧脑组织局部胶质细胞轻度增生", "entailment": "脑胶质细胞增生", "contradiction": "其他和未特指的符号识别功能障碍"}
+{"origin": "食积气滞脾胃不和咽炎痹症", "entailment": "咽炎", "contradiction": "创伤后趾坏死"}
+{"origin": "子宫内膜低分化子宫内膜样腺癌", "entailment": "子宫内膜恶性肿瘤", "contradiction": "应激性心肌病[心尖球形综合征]"}
+{"origin": "子宫内膜低分化子宫内膜样腺癌", "entailment": "子宫内膜样腺癌", "contradiction": "轻型货车或篷车的车辆外人员在轻型货车或篷车与行人或牲畜碰撞非交通事故中的损伤"}
+{"origin": "卵巢恶性肿瘤(4期 骨转移)", "entailment": "卵巢恶性肿瘤", "contradiction": "后天性溶血性贫血"}
+{"origin": "卵巢恶性肿瘤(4期 骨转移)", "entailment": "骨继发恶性肿瘤", "contradiction": "直肠乙状结肠连接部原位癌"}
+{"origin": "卵巢恶性肿瘤(4期 骨转移)", "entailment": "转移性肿瘤", "contradiction": "眼前房引流管脱出"}
+{"origin": "粒缺期发热", "entailment": "粒细胞缺乏", "contradiction": "小汽车和公共汽车之间碰撞造成的人员损伤(交通性)"}
+{"origin": "粒缺期发热", "entailment": "发热", "contradiction": "未特指的镇痛药、解热药和消炎药的有害效应"}
+{"origin": "右股骨颈骨折取除骨折内固定装置", "entailment": "取出骨折内固定装置", "contradiction": "链球菌性咽炎"}
+{"origin": "右股骨颈骨折取除骨折内固定装置", "entailment": "股骨颈骨折", "contradiction": "肺动脉闭锁"}
+{"origin": "3颈胸腰椎体退行性改", "entailment": "颈椎退行性病变", "contradiction": "拇指不全切断"}
+{"origin": "3颈胸腰椎体退行性改", "entailment": "胸椎退行性病变", "contradiction": "边缘叶性癫痫持续状态"}
+{"origin": "3颈胸腰椎体退行性改", "entailment": "腰椎退行性病变", "contradiction": "新生儿吸入羊水和粘液"}
+{"origin": "贲门低分化腺癌", "entailment": "贲门恶性肿瘤", "contradiction": "未特指的公共汽车乘员在非碰撞性运输事故非交通事故中的损伤"}
+{"origin": "贲门低分化腺癌", "entailment": "腺癌", "contradiction": "被配偶或伴侣忽视照料和遗弃造成的损伤"}
+{"origin": "咨询;骨质疏松", "entailment": "骨质疏松", "contradiction": "后天性碘缺乏性甲状腺功能减退症"}
+{"origin": "十2指肠乳头低级别绒毛状管状腺瘤", "entailment": "十2指肠良性肿瘤", "contradiction": "淋巴细胞减少"}
+{"origin": "十2指肠乳头低级别绒毛状管状腺瘤", "entailment": "管状绒毛状腺瘤", "contradiction": "四肢瘫"}
+{"origin": "右前降支肌桥", "entailment": "冠状动脉肌桥", "contradiction": "结肠肿物"}
+{"origin": "高空坠落伤1周右腕骨折左肩胛骨骨折头外伤左面部外伤", "entailment": "自高处坠落", "contradiction": "脐广泛性肿块"}
+{"origin": "高空坠落伤1周右腕骨折左肩胛骨骨折头外伤左面部外伤", "entailment": "肩胛骨骨折", "contradiction": "接触海生动物的损伤, 在居住的公共设施"}
+{"origin": "高空坠落伤1周右腕骨折左肩胛骨骨折头外伤左面部外伤", "entailment": "头部损伤", "contradiction": "过敏性鼻炎[变应性鼻炎]"}
+{"origin": "高空坠落伤1周右腕骨折左肩胛骨骨折头外伤左面部外伤", "entailment": "面部损伤", "contradiction": "手术后缺血性胆道病"}
+{"origin": "高空坠落伤1周右腕骨折左肩胛骨骨折头外伤左面部外伤", "entailment": "腕关节骨折", "contradiction": "腹腔妊娠"}
+{"origin": "右手背手掌皮肤撕脱并缺损", "entailment": "手部开放性损伤", "contradiction": "包皮恶性肿瘤"}
+{"origin": "右手背手掌皮肤撕脱并缺损", "entailment": "皮肤缺损", "contradiction": "喉硬结病"}
+{"origin": "妊娠合并1ga肾病", "entailment": "1ga肾病", "contradiction": "创伤性硬脑膜下积液"}
+{"origin": "妊娠合并1ga肾病", "entailment": "妊娠状态", "contradiction": "未特指的颅内损伤"}
+{"origin": "降结肠管状腺瘤未带蒂部", "entailment": "管状腺瘤", "contradiction": "腺肉瘤"}
+{"origin": "降结肠管状腺瘤未带蒂部", "entailment": "降结肠良性肿瘤", "contradiction": "累及身体其他复合部位的浅表损伤"}
+{"origin": "全心功能减弱", "entailment": "全心衰竭", "contradiction": "成釉细胞牙肉瘤"}
+{"origin": "鼻部纤维丘疹病", "entailment": "丘疹", "contradiction": "胆囊术后"}
+{"origin": "乙型肝炎表面抗原携带者", "entailment": "乙型病毒性肝炎表面抗原携带者", "contradiction": "其他和未特指的火器发射造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "右上臂截肢后残端骨质过度生长", "entailment": "截肢", "contradiction": "喉咽部狭窄"}
+{"origin": "高血压病3期", "entailment": "高血压", "contradiction": "有机溶剂和卤素烃及其蒸气的中毒及暴露于该类物质, 意图不确定的, 在未特指场所"}
+{"origin": "双肺多发转移骨转移不除外", "entailment": "肺继发恶性肿瘤", "contradiction": "跌倒"}
+{"origin": "双肺多发转移骨转移不除外", "entailment": "骨继发恶性肿瘤", "contradiction": "急性前壁高侧壁下壁心肌梗死"}
+{"origin": "双肺多发转移骨转移不除外", "entailment": "转移性肿瘤", "contradiction": "从运动场攀爬设施上跌落"}
+{"origin": "胃癌,胃镜检查局麻 预防出血,超声胃镜检查", "entailment": "胃恶性肿瘤", "contradiction": "躯干韧带脱位"}
+{"origin": "胃癌,胃镜检查局麻 预防出血,超声胃镜检查", "entailment": "癌", "contradiction": "胃肠道术后并发症"}
+{"origin": "胸椎脊柱旁占位", "entailment": "脊柱占位", "contradiction": "上或下脚踏车时人员在脚踏车与两轮或三轮机动车碰撞中的人员损伤"}
+{"origin": "蹼状指", "entailment": "蹼状指", "contradiction": "前臂拇指屈肌腱损伤"}
+{"origin": "左乳癌术后伴双肺、多发骨转移综", "entailment": "乳腺术后", "contradiction": "其他神经根和神经丛疾患"}
+{"origin": "左乳癌术后伴双肺、多发骨转移综", "entailment": "癌", "contradiction": "体质性再生障碍性贫血"}
+{"origin": "左乳癌术后伴双肺、多发骨转移综", "entailment": "乳腺恶性肿瘤", "contradiction": "暴露于烟、火和火焰下造成的损伤, 意图不确定的, 在居住的公共设施"}
+{"origin": "左乳癌术后伴双肺、多发骨转移综", "entailment": "肺继发恶性肿瘤", "contradiction": "手掌三度烧伤"}
+{"origin": "左乳癌术后伴双肺、多发骨转移综", "entailment": "骨继发恶性肿瘤", "contradiction": "脑膜炎球菌性结膜炎"}
+{"origin": "左乳癌术后伴双肺、多发骨转移综", "entailment": "转移性癌", "contradiction": "糖蛋白代谢紊乱"}
+{"origin": "右髋关节破坏强直性脊柱炎", "entailment": "强直性脊柱炎", "contradiction": "涉及椅子上的跌落造成的损伤, 在体育和运动区域"}
+{"origin": "风湿性心脏瓣膜病", "entailment": "风湿性心脏病", "contradiction": "链球菌性关节炎"}
+{"origin": "风湿性心脏瓣膜病", "entailment": "心脏瓣膜病", "contradiction": "拉伦型身材矮小症"}
+{"origin": "腹痛：胃肠道寄生虫感染", "entailment": "腹痛", "contradiction": "海分枝杆菌感染"}
+{"origin": "腹痛：胃肠道寄生虫感染", "entailment": "肠道寄生虫病", "contradiction": "心房肿物"}
+{"origin": "辐射损伤", "entailment": "暴露于未特指类型的辐射下造成的损伤,在未特指场所", "contradiction": "陈旧性踝骨骨折"}
+{"origin": "左侧枕部硬膜下积血积气", "entailment": "颅内积气[气颅症]", "contradiction": "乳头状鳞状细胞癌"}
+{"origin": "左侧枕部硬膜下积血积气", "entailment": "硬脑膜下积液", "contradiction": "后天性肩关节变形"}
+{"origin": "心脏起搏器心房电极磨损", "entailment": "具有心脏起搏器状态", "contradiction": "附加肾"}
+{"origin": "妊娠32+周，前置胎盘？", "entailment": "孕32周", "contradiction": "急进型肾炎综合征,其他"}
+{"origin": "妊娠32+周，前置胎盘？", "entailment": "前置胎盘", "contradiction": "急性髓样白血病,t(8;21)(q22;q22)"}
+{"origin": "筛窦癌化疗", "entailment": "筛窦恶性肿瘤", "contradiction": "额骨和顶骨骨折"}
+{"origin": "筛窦癌化疗", "entailment": "癌", "contradiction": "未特指的肺球孢子菌病"}
+{"origin": "右侧大量胸腔积液", "entailment": "胸腔积液", "contradiction": "髂外静脉血栓形成"}
+{"origin": "十2指肠球降交界符合低级别管状腺瘤早期", "entailment": "十2指肠交界性肿瘤", "contradiction": "腕和手未特指程度的烧伤"}
+{"origin": "十2指肠球降交界符合低级别管状腺瘤早期", "entailment": "管状腺瘤", "contradiction": "涉及运动场设施上的跌落造成的损伤"}
+{"origin": "恶性疾病经静脉化疗", "entailment": "部未指恶性肿瘤", "contradiction": "涉及溜冰、滑雪、溜旱冰或滑板时的跌倒造成的损伤, 在体育和运动区域"}
+{"origin": "恶性疾病经静脉化疗", "entailment": "化学治疗", "contradiction": "膝色素沉着绒毛结节性滑膜炎"}
+{"origin": "黄斑病变萎缩", "entailment": "视网膜病", "contradiction": "尾骨良性肿瘤"}
+{"origin": "右肾错构瘤伴部分破裂出血", "entailment": "肾错构瘤", "contradiction": "红细胞沉降率升高和血浆粘滞度异常"}
+{"origin": "胃窦低级别腺管状腺瘤未累及切面", "entailment": "胃良性肿瘤", "contradiction": "眼后段未特指的先天性畸形"}
+{"origin": "胃窦低级别腺管状腺瘤未累及切面", "entailment": "管状腺瘤", "contradiction": "肾积水伴输尿管结石"}
+{"origin": "躯体病样精神障碍", "entailment": "躯体化障碍", "contradiction": "睾丸淋巴瘤"}
+{"origin": "非霍杰金淋巴瘤弥漫大b细胞型", "entailment": "弥漫大b细胞淋巴瘤", "contradiction": "早产伴分娩"}
+{"origin": "右肺恶性肿瘤伴肺转移？", "entailment": "右肺恶性肿瘤", "contradiction": "肝中心性出血性坏死"}
+{"origin": "右肺恶性肿瘤伴肺转移？", "entailment": "肺继发恶性肿瘤", "contradiction": "面部擦伤"}
+{"origin": "右肺恶性肿瘤伴肺转移？", "entailment": "转移性肿瘤", "contradiction": "泌尿器官动态未定或动态未知的肿瘤"}
+{"origin": "子宫内膜低中分化腺癌", "entailment": "子宫内膜恶性肿瘤", "contradiction": "二期梅毒性眼病"}
+{"origin": "子宫内膜低中分化腺癌", "entailment": "腺癌", "contradiction": "其他和未特指的化学制品和有害物质的意外中毒及暴露于该类物质, 在体育和运动区域"}
+{"origin": "双眼闭角型青光眼（虹膜激光周切术后）", "entailment": "闭角型青光眼", "contradiction": "恶性皮肤型肥大细胞增多症"}
+{"origin": "双眼闭角型青光眼（虹膜激光周切术后）", "entailment": "眼术后", "contradiction": "后天性上肢变形"}
+{"origin": "面颈部刀伤", "entailment": "面部开放性损伤", "contradiction": "骨质破坏"}
+{"origin": "面颈部刀伤", "entailment": "颈部开放性损伤", "contradiction": "泌尿系(留置的)导管的机械性并发症"}
+{"origin": "g妊娠胎儿脐动脉脐带血流比值升高已治愈", "entailment": "妊娠状态", "contradiction": "产程和分娩期间麻醉引起的吸入性肺炎"}
+{"origin": "脑白质缺血脱髓鞘病变", "entailment": "脑血管供血不足", "contradiction": "重型运输车的车辆外人员在重型运输车与两轮或三轮机动车碰撞非交通事故中的损伤"}
+{"origin": "脑白质缺血脱髓鞘病变", "entailment": "脱髓鞘性白质脑病", "contradiction": "脑膜结核瘤"}
+{"origin": "右膝滑膜骨软骨瘤病", "entailment": "骨软骨瘤病", "contradiction": "乳房恶性肿瘤个人史"}
+{"origin": "右膝滑膜骨软骨瘤病", "entailment": "膝关节滑膜良性肿瘤", "contradiction": "颧骨良性肿瘤"}
+{"origin": "双下肢活动障碍原因待查脑血管疾病后遗症", "entailment": "运动障碍", "contradiction": "未特指的避孕问题"}
+{"origin": "双下肢活动障碍原因待查脑血管疾病后遗症", "entailment": "脑血管病后遗症", "contradiction": "重型运输车司机在重型运输车与小汽车、轻型货车或篷车碰撞中交通事故的损伤"}
+{"origin": "1左距腓前韧带撕裂2左跟腓韧带撕裂", "entailment": "踝距腓前韧带断裂", "contradiction": "前体细胞淋巴母细胞性淋巴瘤"}
+{"origin": "1左距腓前韧带撕裂2左跟腓韧带撕裂", "entailment": "跟腓韧带断裂", "contradiction": "松弛嵴"}
+{"origin": "脑梗死;冠状动脉粥样硬化性心脏病;心绞痛;脑动脉硬化", "entailment": "脑梗死", "contradiction": "黏膜皮肤淋巴结综合征[Kawasaki病]"}
+{"origin": "脑梗死;冠状动脉粥样硬化性心脏病;心绞痛;脑动脉硬化", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "用锐器自杀"}
+{"origin": "脑梗死;冠状动脉粥样硬化性心脏病;心绞痛;脑动脉硬化", "entailment": "心绞痛", "contradiction": "酸引起烧伤"}
+{"origin": "脑梗死;冠状动脉粥样硬化性心脏病;心绞痛;脑动脉硬化", "entailment": "脑血管硬化", "contradiction": "妊娠合并会阴瘢痕"}
+{"origin": "幼儿急疹[第6病]", "entailment": "幼儿急疹", "contradiction": "与家庭成员失踪有关的问题"}
+{"origin": "月经不调人乳头瘤病毒感染阳性宫颈c1n1", "entailment": "月经紊乱", "contradiction": "输尿管占位性病变"}
+{"origin": "月经不调人乳头瘤病毒感染阳性宫颈c1n1", "entailment": "宫颈人乳头瘤病毒感染", "contradiction": "与粘膜有关的淋巴样组织淋巴瘤"}
+{"origin": "月经不调人乳头瘤病毒感染阳性宫颈c1n1", "entailment": "子宫颈上皮瘤样病变[宫颈上皮内瘤变]1级", "contradiction": "先天性输尿管疝"}
+{"origin": "扩张性心脏病心功能3-4级", "entailment": "心功能3级(纽约心脏病协会分级)", "contradiction": "血小板增多"}
+{"origin": "扩张性心脏病心功能3-4级", "entailment": "心功能4级(纽约心脏病协会分级)", "contradiction": "酒精的意外中毒及暴露于酒精,在农场"}
+{"origin": "扩张性心脏病心功能3-4级", "entailment": "扩张性心肌病[充血性心肌病]", "contradiction": "副神经恶性肿瘤"}
+{"origin": "小儿原发性肾病综", "entailment": "肾病综合征", "contradiction": "附睾恶性肿瘤史"}
+{"origin": "感染性疾病结缔组织疾病血液系统疾病", "entailment": "结缔组织病", "contradiction": "睾丸炎、附睾炎和附睾-睾丸炎,伴有脓肿"}
+{"origin": "感染性疾病结缔组织疾病血液系统疾病", "entailment": "血液和造血器官未指疾病", "contradiction": "接触鱼后中毒"}
+{"origin": "妊娠期甲状腺机能减退症", "entailment": "妊娠合并甲状腺功能减退", "contradiction": "白血病性关节病伴缓解"}
+{"origin": "乳腺癌术后,晚期绝经后", "entailment": "乳腺术后", "contradiction": "加害的后遗症"}
+{"origin": "乳腺癌术后,晚期绝经后", "entailment": "乳腺恶性肿瘤", "contradiction": "耳蝇蛆病"}
+{"origin": "乳腺癌术后,晚期绝经后", "entailment": "癌", "contradiction": "空泡样脊髓病"}
+{"origin": "座疮伴睡眠不良", "entailment": "痤疮", "contradiction": "异位睾丸"}
+{"origin": "座疮伴睡眠不良", "entailment": "睡眠障碍", "contradiction": "接触毒蜘蛛造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "面部皮肤赘生物", "entailment": "皮赘", "contradiction": "头和颈一度烧伤"}
+{"origin": "先天性胼胝体发育不良", "entailment": "胼胝体发育不全", "contradiction": "陈旧性处女膜破裂"}
+{"origin": "左颈淋巴转移癌", "entailment": "颈部淋巴结继发恶性肿瘤", "contradiction": "急性肾小球病"}
+{"origin": "原发性肝癌伴门静脉癌栓", "entailment": "肝恶性肿瘤", "contradiction": "颈内动脉眼动脉段动脉瘤破裂伴蛛网膜下腔出血"}
+{"origin": "原发性肝癌伴门静脉癌栓", "entailment": "门静脉瘤栓", "contradiction": "鼻部周围神经和自主神经良性肿瘤"}
+{"origin": "原发性肝癌伴门静脉癌栓", "entailment": "癌", "contradiction": "玻璃体内结晶沉积"}
+{"origin": "多关节退变手膝髋关节并周围神经病变", "entailment": "骨关节病", "contradiction": "角膜营养不良"}
+{"origin": "多关节退变手膝髋关节并周围神经病变", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "1型糖尿病性急性牙周脓肿"}
+{"origin": "慢性移植物抗宿主反应病胃肠道口腔", "entailment": "慢性移植物抗宿主病", "contradiction": "其他和未特指的棘球蚴病"}
+{"origin": "心功能不全急性心肌损伤", "entailment": "心功能不全", "contradiction": "血栓性血小板减少性紫癜"}
+{"origin": "心功能不全急性心肌损伤", "entailment": "心肌损害", "contradiction": "垂体术后"}
+{"origin": "狼疮累及膀胱", "entailment": "系统性红斑狼疮,累及器官或系统", "contradiction": "接触大黄蜂、黄蜂和蜜蜂造成的损伤, 在街道和公路"}
+{"origin": "癌细胞侵入胰腺组织并侵及十2指肠粘膜", "entailment": "癌", "contradiction": "先天性面部皮肤松弛"}
+{"origin": "癌细胞侵入胰腺组织并侵及十2指肠粘膜", "entailment": "胰腺继发恶性肿瘤", "contradiction": "土霉素药物反应"}
+{"origin": "癌细胞侵入胰腺组织并侵及十2指肠粘膜", "entailment": "十2指肠继发恶性肿瘤", "contradiction": "神经刺激反应异常"}
+{"origin": "宫颈癌1期", "entailment": "子宫颈恶性肿瘤", "contradiction": "面骨继发恶性肿瘤"}
+{"origin": "宫颈癌1期", "entailment": "癌", "contradiction": "其他生育问题"}
+{"origin": "结肠中分化腺癌术后", "entailment": "结肠恶性肿瘤", "contradiction": "幼年型多关节炎(血清反应阴性)"}
+{"origin": "结肠中分化腺癌术后", "entailment": "腺癌", "contradiction": "囊虫感染"}
+{"origin": "结肠中分化腺癌术后", "entailment": "结肠术后", "contradiction": "局部收敛药中毒"}
+{"origin": "停经352周b超提示胎儿持续伸舌状态", "entailment": "妊娠状态", "contradiction": "肌炎"}
+{"origin": "人工妊娠治疗准备宫腔预移植", "entailment": "试管婴儿", "contradiction": "新生儿病毒血症"}
+{"origin": "髂窝滑囊囊肿", "entailment": "骨盆部囊肿", "contradiction": "外眦良性肿瘤"}
+{"origin": "右侧额叶占位伴出血", "entailment": "额叶出血", "contradiction": "其他神经症性障碍"}
+{"origin": "右侧额叶占位伴出血", "entailment": "脑占位性病变", "contradiction": "颈部脂肪增多症"}
+{"origin": "右侧附件区囊性异常密度影", "entailment": "其他特指身体结构诊断性影像检查的异常所见", "contradiction": "头部肿物"}
+{"origin": "鼻唇沟注射整形后左眼失明", "entailment": "单眼盲", "contradiction": "下唇口红区恶性肿瘤"}
+{"origin": "躯体疾病伴发躯体化反应", "entailment": "躯体化障碍", "contradiction": "鲨鱼咬伤"}
+{"origin": "l5压缩性骨折", "entailment": "腰椎骨折l5", "contradiction": "中毒性肝病伴有肝的其他疾患"}
+{"origin": "l5压缩性骨折", "entailment": "腰椎压缩性骨折", "contradiction": "肾透析的移植血管血栓形成"}
+{"origin": "去势抵抗前列腺癌", "entailment": "前列腺恶性肿瘤", "contradiction": "肺炎杆菌性肺炎"}
+{"origin": "去势抵抗前列腺癌", "entailment": "癌", "contradiction": "联合免疫缺陷病"}
+{"origin": "右骶前-2右单角子宫ht细胞免疫紊乱nk", "entailment": "单角子宫", "contradiction": "2型糖尿病性神经性水肿"}
+{"origin": "左肾静脉压迫综合征", "entailment": "左肾静脉压迫综合征[胡桃夹现象]", "contradiction": "髋伴有大腿挤压伤"}
+{"origin": "发作性意识不清大小便失禁待查", "entailment": "尿失禁", "contradiction": "膝关节滑膜炎"}
+{"origin": "发作性意识不清大小便失禁待查", "entailment": "大便失禁", "contradiction": "抗肿瘤药和免疫抑制剂中毒"}
+{"origin": "发作性意识不清大小便失禁待查", "entailment": "意识模糊", "contradiction": "角膜上皮脱落"}
+{"origin": "青年期心律失常", "entailment": "心律失常", "contradiction": "自主性神经病性膀胱"}
+{"origin": "侧脑室异常信号影", "entailment": "颅骨和头诊断性影像检查的异常所见,不归他者", "contradiction": "恶性小痣"}
+{"origin": "从2米高房屋上摔下致伤", "entailment": "自高处坠落", "contradiction": "腹主动脉瘤,未提及破裂"}
+{"origin": "双眼伏格特-小柳-原田综合征原田氏病", "entailment": "vogt-小柳原田综合征", "contradiction": "碘性甲状腺功能减退"}
+{"origin": "椎基底动脉血栓形成", "entailment": "椎动脉血栓形成", "contradiction": "肩和上臂浅表静脉损伤"}
+{"origin": "椎基底动脉血栓形成", "entailment": "基底动脉血栓形成", "contradiction": "胫动脉溃疡"}
+{"origin": "停经26周外院彩超胎儿心脏继发隔显示欠清", "entailment": "孕26周", "contradiction": "儿童良性癫痫"}
+{"origin": "乳腺非典型增生", "entailment": "乳腺增生", "contradiction": "正中神经的其他损害"}
+{"origin": "口底癌", "entailment": "口底恶性肿瘤", "contradiction": "牙龈增生"}
+{"origin": "口底癌", "entailment": "癌", "contradiction": "产前筛查"}
+{"origin": "冠心病，缺血性心肌病，糖尿病，肾病", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "其他无动力船舶(冲浪板)非船舶事故的船上事故,未引起淹溺和沉没"}
+{"origin": "冠心病，缺血性心肌病，糖尿病，肾病", "entailment": "缺血性心肌病", "contradiction": "结膜吸吮线虫病"}
+{"origin": "冠心病，缺血性心肌病，糖尿病，肾病", "entailment": "糖尿病", "contradiction": "异位睾丸"}
+{"origin": "冠心病，缺血性心肌病，糖尿病，肾病", "entailment": "肾病", "contradiction": "阴道出血"}
+{"origin": "风湿性疾病伴肺部侵犯", "entailment": "风湿病", "contradiction": "先天性脊柱后凸"}
+{"origin": "前列腺囊性占位", "entailment": "前列腺囊肿", "contradiction": "与膀胱-输尿管反流有关的尿路病"}
+{"origin": "胃癌4期化疗后", "entailment": "胃恶性肿瘤", "contradiction": "会阴三度烧伤"}
+{"origin": "胃癌4期化疗后", "entailment": "化学治疗", "contradiction": "被鼠咬伤, 在其他特指的场地"}
+{"origin": "胃癌4期化疗后", "entailment": "癌", "contradiction": "上肢(包括肩)周围神经恶性肿瘤"}
+{"origin": "肘关节骨折术后", "entailment": "肘关节骨折", "contradiction": "手术和医疗操作的后遗症"}
+{"origin": "肘关节骨折术后", "entailment": "骨折术后", "contradiction": "白血病前期综合征"}
+{"origin": "感冒/霉菌性皮炎/气管炎", "entailment": "感冒", "contradiction": "下斜视"}
+{"origin": "感冒/霉菌性皮炎/气管炎", "entailment": "真菌性皮炎", "contradiction": "未特指的牙周病"}
+{"origin": "感冒/霉菌性皮炎/气管炎", "entailment": "气管炎", "contradiction": "其他特指的药物和药物加害"}
+{"origin": "胸背部疼痛待查", "entailment": "胸段背痛", "contradiction": "牙根发育不良"}
+{"origin": "盆腔未分化肉瘤术后", "entailment": "盆腔恶性肿瘤", "contradiction": "贲门交界性肿瘤"}
+{"origin": "盆腔未分化肉瘤术后", "entailment": "未分化肉瘤", "contradiction": "其他矫形外科的随诊医疗"}
+{"origin": "盆腔未分化肉瘤术后", "entailment": "盆腔术后", "contradiction": "肺分枝杆菌感染"}
+{"origin": "口咽部消化道化学灼伤", "entailment": "消化道化学伤", "contradiction": "垂体无功能良性肿瘤"}
+{"origin": "左大腿开水烫伤", "entailment": "沸水烫伤", "contradiction": "幽门梗阻"}
+{"origin": "左大腿开水烫伤", "entailment": "下肢烫伤", "contradiction": "宫颈内型粘液腺癌"}
+{"origin": "右踝部感染", "entailment": "感染", "contradiction": "髓上皮瘤"}
+{"origin": "高尿酸高粘滞血症尿感", "entailment": "高粘稠血症", "contradiction": "腺病毒性脑炎"}
+{"origin": "高尿酸高粘滞血症尿感", "entailment": "高尿酸血症", "contradiction": "腰大肌脓肿"}
+{"origin": "颈部增生性瘢痕", "entailment": "颈部瘢痕", "contradiction": "肠重复"}
+{"origin": "2型糖尿病性合并正中神经病变", "entailment": "2型糖尿病", "contradiction": "前臂虫咬伤"}
+{"origin": "2型糖尿病性合并正中神经病变", "entailment": "正中神经损害", "contradiction": "接触蒸气、热气和热物体造成的损伤, 意图不确定的, 在未特指场所"}
+{"origin": "符合巨幼红细胞性贫血骨髓改变", "entailment": "巨幼红细胞性贫血", "contradiction": "鼻窦部乳头状瘤"}
+{"origin": "中位心", "entailment": "中位心", "contradiction": "前臂其他部位的骨折"}
+{"origin": "低钙儿童异常动态脑电图", "entailment": "钙代谢紊乱", "contradiction": "饮食性腹泻"}
+{"origin": "低钙儿童异常动态脑电图", "entailment": "脑电图异常", "contradiction": "其他类型的心绞痛"}
+{"origin": "右肾盂低级别乳头状尿路上皮癌", "entailment": "肾盂恶性肿瘤", "contradiction": "上腹痛"}
+{"origin": "右肾盂低级别乳头状尿路上皮癌", "entailment": "乳头状尿路上皮癌", "contradiction": "植入性睫状体囊肿"}
+{"origin": "眶下软组织外伤", "entailment": "眼和眶未指损伤", "contradiction": "先天性黑色素细胞痣内的恶性黑色素瘤"}
+{"origin": "乳腺肿瘤(化疗后)", "entailment": "乳腺恶性肿瘤", "contradiction": "颈部淋巴结结核"}
+{"origin": "乳腺肿瘤(化疗后)", "entailment": "化学治疗", "contradiction": "上肢动脉栓塞和血栓形成"}
+{"origin": "右上腹皮肤麻木", "entailment": "皮肤感觉异常", "contradiction": "腹股沟淋巴结肿大"}
+{"origin": "右肺胸水", "entailment": "胸腔积液", "contradiction": "肝细胞癌"}
+{"origin": "左中指及环指皮肤缺失伴坏死", "entailment": "后天性单侧手指缺失", "contradiction": "AC球蛋白缺乏"}
+{"origin": "左中指及环指皮肤缺失伴坏死", "entailment": "手坏死", "contradiction": "胰腺脂肪化"}
+{"origin": "胚胎移植后宫内早孕合并宫外孕", "entailment": "胚胎移植术后", "contradiction": "垂体功能减退和其他疾患"}
+{"origin": "胚胎移植后宫内早孕合并宫外孕", "entailment": "异位妊娠", "contradiction": "呼吸困难"}
+{"origin": "脑梗死多发颅内血管狭窄", "entailment": "脑梗死", "contradiction": "其他预防性化学治疗"}
+{"origin": "双股骨头成人股骨头缺血性坏死继发骨关节炎", "entailment": "股骨头缺血性坏死", "contradiction": "其他特指的肝恶性肿瘤"}
+{"origin": "双股骨头成人股骨头缺血性坏死继发骨关节炎", "entailment": "髋骨关节病", "contradiction": "肌氨酸血症"}
+{"origin": "子宫发育不全", "entailment": "子宫发育不全", "contradiction": "面部周围神经和自主神经良性肿瘤"}
+{"origin": "腹腔广泛种植转移", "entailment": "腹腔继发恶性肿瘤", "contradiction": "结缔组织增生性和向神经性黑色素瘤"}
+{"origin": "腹腔广泛种植转移", "entailment": "广泛转移性肿瘤", "contradiction": "肺动脉瓣狭窄"}
+{"origin": "反复睡眠差鼻塞缺钙", "entailment": "钙代谢紊乱", "contradiction": "膀胱扩张"}
+{"origin": "抑郁伴躯体形式障碍未指", "entailment": "抑郁发作", "contradiction": "屈肌腱粘连后遗症"}
+{"origin": "抑郁伴躯体形式障碍未指", "entailment": "未指躯体形式障碍", "contradiction": "四肢皮肤和皮下组织良性脂肪瘤样肿瘤"}
+{"origin": "纵膈淋巴组织细胞增生", "entailment": "淋巴组织增生", "contradiction": "膀胱造瘘口狭窄"}
+{"origin": "降结肠溃疡型中分化腺癌", "entailment": "降结肠恶性肿瘤", "contradiction": "单纯疱疹病毒性眼炎"}
+{"origin": "降结肠溃疡型中分化腺癌", "entailment": "腺癌", "contradiction": "再燃性斑疹伤寒[布里尔病]"}
+{"origin": "右上颌窦内翻乳头瘤术后", "entailment": "鼻窦占位", "contradiction": "手术后吸收不良性骨质疏松伴有病理性骨折"}
+{"origin": "妊娠39+3周，胎儿宫内窘迫？", "entailment": "孕39周", "contradiction": "双上肢[任何水平]后天性缺失"}
+{"origin": "（右侧附件）符合卵巢卵泡膜细胞瘤，输卵管未见肿瘤。", "entailment": "卵巢良性肿瘤", "contradiction": "在非碰撞性事故中骑手或乘员从牲畜或畜挽车辆上跌落或抛出"}
+{"origin": "（右侧附件）符合卵巢卵泡膜细胞瘤，输卵管未见肿瘤。", "entailment": "泡膜细胞瘤", "contradiction": "毛囊漏斗部交界性肿瘤"}
+{"origin": "腘动脉动脉瘤", "entailment": "腘动脉瘤", "contradiction": "腹主动脉旁良性肿瘤"}
+{"origin": "膀胱癌(高级别尿路上皮癌)", "entailment": "尿路上皮癌", "contradiction": "浅昏迷"}
+{"origin": "膀胱癌(高级别尿路上皮癌)", "entailment": "膀胱恶性肿瘤", "contradiction": "手部腐蚀伤后遗症"}
+{"origin": "胆囊腺肌瘤", "entailment": "胆囊肌腺症", "contradiction": "膝部挫伤"}
+{"origin": "右肺下叶鳞状细胞癌", "entailment": "右肺下叶恶性肿瘤", "contradiction": "接触爆炸物造成的损伤, 意图不确定的, 在未特指场所"}
+{"origin": "右肺下叶鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "输尿管造口维护"}
+{"origin": "主动脉中度关闭不全伴轻度狭窄", "entailment": "动脉狭窄", "contradiction": "胆囊恶性肿瘤"}
+{"origin": "主动脉中度关闭不全伴轻度狭窄", "entailment": "主动脉瓣关闭不全", "contradiction": "急性肾小管-间质肾炎"}
+{"origin": "大肠肿物", "entailment": "肠占位", "contradiction": "直肠周围周围神经和自主神经恶性肿瘤"}
+{"origin": "胎盘残留伴部分胎盘植入", "entailment": "胎盘部分残留不伴出血", "contradiction": "轻度精神发育迟缓"}
+{"origin": "胎盘残留伴部分胎盘植入", "entailment": "胎盘植入不伴出血", "contradiction": "十二指肠息肉"}
+{"origin": "右乳癌综合治疗后肝、骨转移 4期", "entailment": "乳腺恶性肿瘤", "contradiction": "经皮房缺-室缺矫治术后腹膜后血肿"}
+{"origin": "右乳癌综合治疗后肝、骨转移 4期", "entailment": "骨继发恶性肿瘤", "contradiction": "家族性传导系统障碍"}
+{"origin": "右乳癌综合治疗后肝、骨转移 4期", "entailment": "肝继发恶性肿瘤", "contradiction": "交通事故中重型运输车与两轮或三轮机动车碰撞造成重型运输车司机的损伤"}
+{"origin": "右乳癌综合治疗后肝、骨转移 4期", "entailment": "癌", "contradiction": "重型运输车司机在重型运输车与小汽车、轻型货车或篷车碰撞中交通事故的损伤"}
+{"origin": "右乳癌综合治疗后肝、骨转移 4期", "entailment": "转移性癌", "contradiction": "交通事故中专用农业车辆外部人员的损伤"}
+{"origin": "良性前列腺组织伴局部区域间质慢性炎", "entailment": "慢性前列腺炎", "contradiction": "股浅动脉血栓形成"}
+{"origin": "结膜炎;结膜下出血;白内障术后", "entailment": "结膜炎", "contradiction": "输注、输血和治疗性注射后的其他并发症"}
+{"origin": "结膜炎;结膜下出血;白内障术后", "entailment": "结膜下出血", "contradiction": "脊髓未特指的先天性畸形"}
+{"origin": "结膜炎;结膜下出血;白内障术后", "entailment": "白内障", "contradiction": "急性髓系白血病伴缓解"}
+{"origin": "结膜炎;结膜下出血;白内障术后", "entailment": "眼术后", "contradiction": "下颌下腺结核"}
+{"origin": "右下肺中心型小细胞肺癌", "entailment": "右肺下叶恶性肿瘤", "contradiction": "舌系带过长"}
+{"origin": "右下肺中心型小细胞肺癌", "entailment": "小细胞癌", "contradiction": "下颌骨良性肿瘤"}
+{"origin": "食管中分化鳞形细胞癌", "entailment": "食管恶性肿瘤", "contradiction": "用淹溺和沉没进行加害, 在工业和建筑区域"}
+{"origin": "食管中分化鳞形细胞癌", "entailment": "鳞状细胞癌", "contradiction": "吸入性麻醉药中毒"}
+{"origin": "其他d左前额裂伤d", "entailment": "前额开放性损伤", "contradiction": "交通事故中三轮机动车在非碰撞性运输事故造成三轮机动车乘客的损伤"}
+{"origin": "皮肤瘙痒症待查老年瘙痒症可能", "entailment": "瘙痒症", "contradiction": "鼻疖"}
+{"origin": "前降支肌桥", "entailment": "冠状动脉肌桥", "contradiction": "巴尔通体病"}
+{"origin": "多形红斑性药物疹", "entailment": "药物性红斑", "contradiction": "多系统变性"}
+{"origin": "尿瘘术后", "entailment": "尿道瘘", "contradiction": "病理性骨折,不可归类在他处者"}
+{"origin": "尿瘘术后", "entailment": "尿道术后", "contradiction": "极重度精神发育迟滞,显著的行为缺陷,需要加以关注或治疗"}
+{"origin": "继发性凝血障碍维生素k依赖性", "entailment": "凝血功能障碍", "contradiction": "子宫囊肿"}
+{"origin": "继发性凝血障碍维生素k依赖性", "entailment": "维生素k缺乏", "contradiction": "维生素C缺乏后遗症"}
+{"origin": "脑病待诊", "entailment": "脑病[器质性脑病]", "contradiction": "甲型肝炎,伴有肝昏迷"}
+{"origin": "缺血性脑改变脑内多发缺血性改变", "entailment": "脑血管供血不足", "contradiction": "眼球震颤"}
+{"origin": "鞭炮炸伤1%2°右前臂", "entailment": "前臂开放性损伤", "contradiction": "脱屑性红皮病"}
+{"origin": "鞭炮炸伤1%2°右前臂", "entailment": "爆竹炸伤", "contradiction": "品他病"}
+{"origin": "左肱2头肌腱断裂", "entailment": "上肢肌肉肌腱断裂", "contradiction": "药物性叶酸缺乏性贫血"}
+{"origin": "右乳病变不排除恶性待石蜡", "entailment": "乳腺恶性肿瘤", "contradiction": "慢性骨髓增生性疾病"}
+{"origin": "右距骨及第5趾骨基底部撕脱性骨折", "entailment": "距骨骨折", "contradiction": "混合型和其他人格障碍"}
+{"origin": "右距骨及第5趾骨基底部撕脱性骨折", "entailment": "指骨骨折", "contradiction": "慢性肾小球肾炎伴硬化性肾炎"}
+{"origin": "右侧多囊卵巢", "entailment": "卵巢多囊样改变", "contradiction": "膈疝"}
+{"origin": "右肺尖纤维硬结灶性质待查", "entailment": "肺诊断性影像异常", "contradiction": "掌跖脓疱病"}
+{"origin": "1型糖尿病性胃肠神经病变胃轻瘫", "entailment": "1型糖尿病", "contradiction": "埋伏牙"}
+{"origin": "1型糖尿病性胃肠神经病变胃轻瘫", "entailment": "糖尿病性胃轻瘫", "contradiction": "腰丛神经损伤后遗症"}
+{"origin": "胃低分化腺癌", "entailment": "胃恶性肿瘤", "contradiction": "躯干浅表水疱"}
+{"origin": "胃低分化腺癌", "entailment": "腺癌", "contradiction": "肾小管-间质肾炎,未特指急性或慢性"}
+{"origin": "周围型肺癌可能大", "entailment": "肺恶性肿瘤", "contradiction": "牙龈粘膜色素沉着"}
+{"origin": "周围型肺癌可能大", "entailment": "癌", "contradiction": "放射后脊柱后凸"}
+{"origin": "右肺纤维硬结灶右肺肥大泡", "entailment": "肺诊断性影像异常", "contradiction": "用淹溺和沉没进行加害, 在家"}
+{"origin": "右肺纤维硬结灶右肺肥大泡", "entailment": "肺大疱", "contradiction": "肝内胆管癌"}
+{"origin": "; 直肠癌术后; 内痔", "entailment": "直肠术后", "contradiction": "腰椎压缩性骨折"}
+{"origin": "; 直肠癌术后; 内痔", "entailment": "直肠恶性肿瘤", "contradiction": "尿布疹红斑"}
+{"origin": "; 直肠癌术后; 内痔", "entailment": "内痔", "contradiction": "其他布氏菌病"}
+{"origin": "; 直肠癌术后; 内痔", "entailment": "癌", "contradiction": "苔癣样皮炎"}
+{"origin": "右侧ddhcrowe4型继发骨关节炎", "entailment": "先天性髋关节发育不良", "contradiction": "肠道血管圆线虫病"}
+{"origin": "右侧ddhcrowe4型继发骨关节炎", "entailment": "髋骨关节病", "contradiction": "在抽吸,穿刺和其他导管插入术中无菌预防措施的失败"}
+{"origin": "系统性红斑狼疮肺间质病变髋病变", "entailment": "间质性肺病", "contradiction": "胎儿血友病"}
+{"origin": "系统性红斑狼疮肺间质病变髋病变", "entailment": "系统性红斑狼疮", "contradiction": "经皮球囊扩瓣术后穿刺血管血肿"}
+{"origin": "双上眼睑血管瘤", "entailment": "血管瘤", "contradiction": "消化道诊断性影像异常"}
+{"origin": "狭颅症(额缝早闭)", "entailment": "颅缝早闭", "contradiction": "海尔迈尔-舍纳病伴缓解"}
+{"origin": "右下叶肺癌", "entailment": "右肺下叶恶性肿瘤", "contradiction": "颈静脉血栓形成"}
+{"origin": "右下叶肺癌", "entailment": "癌", "contradiction": "子宫未特指的炎性疾病"}
+{"origin": "胃癌(伴转移)", "entailment": "胃恶性肿瘤", "contradiction": "肥大细胞白血病"}
+{"origin": "胃癌(伴转移)", "entailment": "癌", "contradiction": "先天性无虹膜"}
+{"origin": "淋巴继发恶性肿瘤", "entailment": "淋巴结继发恶性肿瘤", "contradiction": "肝细粒棘球蚴病"}
+{"origin": "胸45椎体破坏伴截瘫", "entailment": "截瘫[双下肢瘫痪]", "contradiction": "未特指的跌倒造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "植物状态肌张力增高", "entailment": "肌张力障碍", "contradiction": "卵巢黄体囊肿"}
+{"origin": "门静脉及下腔静脉、左心房内癌栓。", "entailment": "门静脉瘤栓", "contradiction": "胆道术后残留结石"}
+{"origin": "门静脉及下腔静脉、左心房内癌栓。", "entailment": "腔静脉瘤栓", "contradiction": "可待因意外中毒"}
+{"origin": "下咽癌合并胸中段食管癌", "entailment": "下咽恶性肿瘤", "contradiction": "适当应用正确药物或药剂的有害效应引起的过敏性休克"}
+{"origin": "下咽癌合并胸中段食管癌", "entailment": "食管胸中段恶性肿瘤", "contradiction": "特大婴儿"}
+{"origin": "下咽癌合并胸中段食管癌", "entailment": "癌", "contradiction": "暴露于阳光下造成的损伤, 在家"}
+{"origin": "直肠下端占位？炎症？", "entailment": "直肠占位性病变", "contradiction": "其他异常的子宫和阴道出血"}
+{"origin": "直肠下端占位？炎症？", "entailment": "直肠炎", "contradiction": "胸部其他部位的开放性伤口"}
+{"origin": "回盲部溃疡型中分化腺癌", "entailment": "回盲部恶性肿瘤", "contradiction": "下颌骨囊肿"}
+{"origin": "回盲部溃疡型中分化腺癌", "entailment": "腺癌", "contradiction": "周期性嗜睡"}
+{"origin": "腹腔淋巴结继发癌", "entailment": "腹腔淋巴结继发恶性肿瘤", "contradiction": "恶性肿瘤介入治疗"}
+{"origin": "腹腔淋巴结继发癌", "entailment": "癌", "contradiction": "用其他和未特指的火器发射进行加害, 在街道和公路"}
+{"origin": "溃疡癌变", "entailment": "溃疡癌变", "contradiction": "与男性因素有关的女性不孕症"}
+{"origin": "风心瓣膜病，a1（中-重）多发性硬化轻-中短暂性脑缺血发作过后，", "entailment": "风湿性心脏病", "contradiction": "意义未明的单克隆丙种球蛋白病"}
+{"origin": "风心瓣膜病，a1（中-重）多发性硬化轻-中短暂性脑缺血发作过后，", "entailment": "心脏瓣膜病", "contradiction": "无脑儿和类似畸形"}
+{"origin": "风心瓣膜病，a1（中-重）多发性硬化轻-中短暂性脑缺血发作过后，", "entailment": "短暂性脑缺血发作", "contradiction": "先天性甲状腺肿"}
+{"origin": "风心瓣膜病，a1（中-重）多发性硬化轻-中短暂性脑缺血发作过后，", "entailment": "多发性硬化", "contradiction": "其他部位和多部位的细粒棘球蚴感染"}
+{"origin": "肝曲横结肠管状腺瘤低级别局灶高级别", "entailment": "管状腺瘤", "contradiction": "肝内胆管结石"}
+{"origin": "肝曲横结肠管状腺瘤低级别局灶高级别", "entailment": "结肠肝曲良性肿瘤", "contradiction": "乳腺分泌性癌"}
+{"origin": "多动症.铅高", "entailment": "注意缺陷与多动障碍", "contradiction": "其他特指的牙硬组织疾病"}
+{"origin": "多动症.铅高", "entailment": "铅中毒", "contradiction": "面恶性黑色素瘤"}
+{"origin": "扁桃体占位", "entailment": "口腔和咽喉部占位", "contradiction": "血管内支气管肺泡性瘤"}
+{"origin": "关节肿大待查粘多糖病", "entailment": "关节肿胀", "contradiction": "转子下骨折"}
+{"origin": "关节肿大待查粘多糖病", "entailment": "粘多糖贮积病", "contradiction": "眼睑黑变病"}
+{"origin": "腹盆腔淋巴结继发恶性肿瘤", "entailment": "腹腔淋巴结继发恶性肿瘤", "contradiction": "淤积性紫癜"}
+{"origin": "腹盆腔淋巴结继发恶性肿瘤", "entailment": "腹腔淋巴结继发恶性肿瘤", "contradiction": "创伤性鼻窦积血"}
+{"origin": "脑内多发腔隙灶老年性脑改变", "entailment": "腔隙性脑梗死", "contradiction": "髓肌母细胞瘤"}
+{"origin": "高血压糖尿病上感", "entailment": "高血压", "contradiction": "油和植物精质引起的肺炎"}
+{"origin": "高血压糖尿病上感", "entailment": "糖尿病", "contradiction": "联体儿"}
+{"origin": "高血压糖尿病上感", "entailment": "上呼吸道感染", "contradiction": "硝酸甘油药物反应"}
+{"origin": "臀先露前置血管帆状胎盘可能", "entailment": "前置胎盘", "contradiction": "肺芽生菌病"}
+{"origin": "臀先露前置血管帆状胎盘可能", "entailment": "妊娠合并帆状胎盘", "contradiction": "其他特指的淹溺和沉没, 在居住的公共设施"}
+{"origin": "双下肢静脉曲张伴溃疡", "entailment": "静脉曲张合并溃疡", "contradiction": "胎儿和新生儿的溶血性疾病"}
+{"origin": "工伤综合征", "entailment": "工作中的意外损伤", "contradiction": "包皮过长、包茎和嵌顿包茎"}
+{"origin": "淤血性脾肿大灶性钙盐沉积", "entailment": "脾大", "contradiction": "腘外侧神经损害"}
+{"origin": "淤血性脾肿大灶性钙盐沉积", "entailment": "钙质沉着症", "contradiction": "孕26周"}
+{"origin": "首诊房颤", "entailment": "心房颤动[心房纤颤]", "contradiction": "其他抑郁发作"}
+{"origin": "宫内环白带异常", "entailment": "具有子宫内避孕装置", "contradiction": "白血病"}
+{"origin": "宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛", "entailment": "子宫颈恶性肿瘤", "contradiction": "用其他和未特指的火器发射进行加害"}
+{"origin": "宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛", "entailment": "焦虑状态", "contradiction": "创伤性脑脂肪栓塞"}
+{"origin": "宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛", "entailment": "抑郁状态", "contradiction": "霍奇金病"}
+{"origin": "宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛", "entailment": "失眠", "contradiction": "基底节病变"}
+{"origin": "宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛", "entailment": "神经痛", "contradiction": "其他舞蹈症"}
+{"origin": "宫颈癌 肠镜检查 肠道准备 肠镜麻醉,焦虑抑郁状态伴失眠，神经痛", "entailment": "癌", "contradiction": "继发性肺结核(复治,单耐药)涂阳培阳"}
+{"origin": "垂体机能减退综合征西蒙病", "entailment": "腺垂体功能减退症", "contradiction": "特发性突聋"}
+{"origin": "右拇指离断伤", "entailment": "拇指创伤性切断(完全)(部分)", "contradiction": "多发性骨髓瘤"}
+{"origin": "甲状腺癌伴肺m内放疗3程后", "entailment": "甲状腺恶性肿瘤", "contradiction": "肾上腺皮质恶性肿瘤"}
+{"origin": "甲状腺癌伴肺m内放疗3程后", "entailment": "癌", "contradiction": "颈部脊髓功能损伤"}
+{"origin": "甲状腺癌伴肺m内放疗3程后", "entailment": "肺继发恶性肿瘤", "contradiction": "妊娠合并过敏性皮炎"}
+{"origin": "甲状腺癌伴肺m内放疗3程后", "entailment": "恶性肿瘤放疗", "contradiction": "后天性纯红细胞再生障碍[幼红细胞减少症]"}
+{"origin": "甲状腺癌伴肺m内放疗3程后", "entailment": "转移性癌", "contradiction": "牙髓变性"}
+{"origin": "痛经，具有子宫内避孕装置", "entailment": "痛经", "contradiction": "婴儿进行性大脑变性"}
+{"origin": "痛经，具有子宫内避孕装置", "entailment": "具有子宫内避孕装置", "contradiction": "慢性肾炎综合征,未特指"}
+{"origin": "多发性梗塞椎基底a供血不足", "entailment": "椎-基底动脉供血不全", "contradiction": "阴茎塑性硬化"}
+{"origin": "病毒性肝炎慢性乙肝", "entailment": "慢性乙型病毒性肝炎", "contradiction": "对血友病的筛查"}
+{"origin": "副脾符合副脾伴淤血性肿大", "entailment": "先天性副脾", "contradiction": "甲状旁腺激素升高"}
+{"origin": "副脾符合副脾伴淤血性肿大", "entailment": "脾大", "contradiction": "双上肢瘫"}
+{"origin": "f2胎儿胎儿生长受限合并多发结构异常", "entailment": "胎儿生长受限", "contradiction": "创伤后双侧髋关节病"}
+{"origin": "多脏器功能不全累及脑循环心肝肾胃肠代谢", "entailment": "多脏器功能障碍综合征[mods]", "contradiction": "故意自害、加害和意图不确定事件的后遗症"}
+{"origin": "偶发房性期前收缩[房性早搏]", "entailment": "房性期前收缩[房性早搏]", "contradiction": "小腿前部肌群肌腱损伤"}
+{"origin": "肾发育不良", "entailment": "肾发育不全", "contradiction": "遗传性球形红细胞增多症"}
+{"origin": "左腿肌纤维组织炎性坏死", "entailment": "坏死性肌炎", "contradiction": "亚急性坏死性脊髓炎"}
+{"origin": "先天性3尖瓣发育不良", "entailment": "3尖瓣发育异常", "contradiction": "18-三体综合征[Edwards综合征]"}
+{"origin": "疑右臀上皮下血肿机化", "entailment": "血肿机化", "contradiction": "致死性大疱性表皮松解症"}
+{"origin": "右基底节梗塞灶亚急性左基底节陈旧", "entailment": "基底节脑梗死", "contradiction": "先天性喉喘鸣"}
+{"origin": "肢体无力原因格林巴利综合征", "entailment": "肢体无力", "contradiction": "原发性骨内癌"}
+{"origin": "肢体无力原因格林巴利综合征", "entailment": "吉兰-巴雷综合征", "contradiction": "受孕的其他特指的异常产物"}
+{"origin": "舌根鳞状细胞癌", "entailment": "舌根恶性肿瘤", "contradiction": "眶上肿物"}
+{"origin": "舌根鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "交通事故中公共汽车与脚踏车碰撞造成公共汽车乘客的损伤"}
+{"origin": "发育不全", "entailment": "先天性发育异常", "contradiction": "左心疾病相关性肺动脉高压"}
+{"origin": "胸腰椎多发压缩性骨折", "entailment": "胸椎压缩性骨折", "contradiction": "雅达逊表皮内上皮瘤"}
+{"origin": "胸腰椎多发压缩性骨折", "entailment": "腰椎压缩性骨折", "contradiction": "急性输卵管炎和卵巢炎"}
+{"origin": "带状疱疹性耳炎", "entailment": "带状疱疹伴有其他并发症", "contradiction": "后天性(足母)外翻"}
+{"origin": "盆底功能障碍性疾病阴道穹隆膨出4度", "entailment": "阴道脱垂", "contradiction": "腭卡波西肉瘤"}
+{"origin": "盆底功能障碍性疾病阴道穹隆膨出4度", "entailment": "盆底功能障碍", "contradiction": "肠道传染病的特殊筛查"}
+{"origin": "右肾结节查因错构瘤", "entailment": "肾错构瘤", "contradiction": "病毒性肝炎乙型慢性轻度"}
+{"origin": "右肾结节查因错构瘤", "entailment": "肾占位性病变", "contradiction": "腘窝脓肿"}
+{"origin": "老年性精神病认知功能障碍老年性", "entailment": "精神障碍", "contradiction": "风湿性主动脉瓣病"}
+{"origin": "老年性精神病认知功能障碍老年性", "entailment": "认知障碍", "contradiction": "脑部手术后皮下积液"}
+{"origin": "左膝皮肤破裂伤", "entailment": "下肢撕裂伤", "contradiction": "肾病综合征伴微小病变型肾小球肾炎"}
+{"origin": "双卵巢中分化腺癌", "entailment": "卵巢恶性肿瘤", "contradiction": "肺结核(仅痰培养证实)"}
+{"origin": "双卵巢中分化腺癌", "entailment": "腺癌", "contradiction": "转移性胚胎型横纹肌肉瘤"}
+{"origin": "眼球病变", "entailment": "分类于他处的疾病引起的玻璃体和眼球的其他疾患", "contradiction": "异位妊娠后休克"}
+{"origin": "盲肠肝曲横结肠远段管状腺瘤", "entailment": "管状腺瘤", "contradiction": "与有害事件有关的妇产科装置,假体和其他植入物、材料和附件装置"}
+{"origin": "盲肠肝曲横结肠远段管状腺瘤", "entailment": "横结肠良性肿瘤", "contradiction": "腕和手二度烧伤"}
+{"origin": "盲肠肝曲横结肠远段管状腺瘤", "entailment": "盲肠良性肿瘤", "contradiction": "臂脓肿"}
+{"origin": "盲肠肝曲横结肠远段管状腺瘤", "entailment": "结肠肝曲良性肿瘤", "contradiction": "未特指的贫困造成的损伤, 在家"}
+{"origin": "异位肾伴旋转不良伴巨输尿管右侧", "entailment": "肾异位", "contradiction": "小汗腺导管癌"}
+{"origin": "异位肾伴旋转不良伴巨输尿管右侧", "entailment": "先天性肾旋转不良", "contradiction": "幽门恶性肿瘤"}
+{"origin": "异位肾伴旋转不良伴巨输尿管右侧", "entailment": "先天性巨输尿管", "contradiction": "药物性肌张力障碍"}
+{"origin": "右肩胛骨4期压疮截肢残端多处3期压疮", "entailment": "截肢", "contradiction": "运输事故 NOS"}
+{"origin": "右侧臂丛神经断裂", "entailment": "臂丛神经损伤", "contradiction": "肠道感染"}
+{"origin": "右侧臂丛神经断裂", "entailment": "神经断裂", "contradiction": "脑外伤恢复期"}
+{"origin": "左侧少量胸水考虑结核性", "entailment": "结核性胸腔积液", "contradiction": "声带的其他疾病"}
+{"origin": "放疗后继发不适", "entailment": "放射治", "contradiction": "未给予必要的药物、药剂或生物制品"}
+{"origin": "左肺部块影待查：肺恶性肿瘤？肺炎？肺结核？", "entailment": "肺部阴影", "contradiction": "固定性斜视"}
+{"origin": "左肺部块影待查：肺恶性肿瘤？肺炎？肺结核？", "entailment": "左肺恶性肿瘤", "contradiction": "导致劳动能力丧失的某些伤残和慢性疾病家族史"}
+{"origin": "左肺部块影待查：肺恶性肿瘤？肺炎？肺结核？", "entailment": "肺炎", "contradiction": "子宫内膜单纯性增生"}
+{"origin": "左肺部块影待查：肺恶性肿瘤？肺炎？肺结核？", "entailment": "肺结核", "contradiction": "先天性泪管狭窄"}
+{"origin": "q64800泌尿系统的特指先天性畸形", "entailment": "泌尿系统未指先天性畸形", "contradiction": "接触性皮炎"}
+{"origin": "双肾多发囊肿伴部分出血", "entailment": "肾囊肿", "contradiction": "十二指肠溃疡慢性或未特指的,伴有穿孔"}
+{"origin": "贲门鳞癌", "entailment": "贲门恶性肿瘤", "contradiction": "下丘脑性肥胖"}
+{"origin": "贲门鳞癌", "entailment": "鳞状细胞癌", "contradiction": "色素性荨麻疹"}
+{"origin": "绒癌化疗后", "entailment": "绒毛膜癌", "contradiction": "毛发红糠疹"}
+{"origin": "绒癌化疗后", "entailment": "化学治疗", "contradiction": "蓖麻子中毒"}
+{"origin": "右股骨骨折术后1年余无畸形无发热", "entailment": "股骨骨折", "contradiction": "接触其他和未特指的机械造成的损伤, 在其他特指的场地"}
+{"origin": "右股骨骨折术后1年余无畸形无发热", "entailment": "骨折术后", "contradiction": "异源嵌合体46,XX/46,XY"}
+{"origin": "左髋痛胸腰畸形;骨质疏松", "entailment": "下肢疼痛", "contradiction": "附睾炎性包块"}
+{"origin": "左髋痛胸腰畸形;骨质疏松", "entailment": "骨质疏松", "contradiction": "妊娠合并卵巢囊肿蒂扭转"}
+{"origin": "左髋痛胸腰畸形;骨质疏松", "entailment": "脊柱畸形", "contradiction": "腮腺血管瘤"}
+{"origin": "糖尿病并泌尿系感染", "entailment": "泌尿系感染", "contradiction": "低温,与低温环境无关"}
+{"origin": "糖尿病并泌尿系感染", "entailment": "糖尿病", "contradiction": "鼻窦瘘"}
+{"origin": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "酒精性脂肪肝"}
+{"origin": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒", "entailment": "冠状动脉支架植入术后状态", "contradiction": "裂纹性棘皮瘤"}
+{"origin": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒", "entailment": "高脂血症", "contradiction": "新生儿纵隔气肿"}
+{"origin": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒", "entailment": "高血压", "contradiction": "后天性高铁血红蛋白血症伴硫化血红蛋白血症"}
+{"origin": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "骨髓增生异常性贫血"}
+{"origin": "冠状动脉粥样硬化性心脏病;支架植入术后状态;高脂血症;高血压;周围神经病;感冒", "entailment": "感冒", "contradiction": "枕叶脓肿"}
+{"origin": "多处皮肤擦挫伤、多处软组织伤", "entailment": "多处皮肤浅表擦伤", "contradiction": "分裂情感性障碍,混合型"}
+{"origin": "多处皮肤擦挫伤、多处软组织伤", "entailment": "多处皮肤浅表挫伤", "contradiction": "麻黄碱中毒"}
+{"origin": "多处皮肤擦挫伤、多处软组织伤", "entailment": "多处损伤", "contradiction": "反射性神经病性膀胱"}
+{"origin": "新生儿狼疮", "entailment": "新生儿狼疮综合征", "contradiction": "多处皮肤浅表擦伤"}
+{"origin": "待查右侧睾丸增大稍膜积水", "entailment": "鞘膜积液", "contradiction": "脐疝,不伴有梗阻或坏疽"}
+{"origin": "苍白球钙化", "entailment": "脑钙化", "contradiction": "轴索型腓骨肌萎缩"}
+{"origin": "痉挛发作", "entailment": "痉挛", "contradiction": "先天性视网膜畸形"}
+{"origin": "心脏起搏器更换电池", "entailment": "心脏起搏器调整和管理", "contradiction": "急性虹膜睫状体炎"}
+{"origin": "右前臂皮下血肿伴机化", "entailment": "血肿机化", "contradiction": "新生儿癫痫综合征"}
+{"origin": "继发性不孕子宫输卵管碘油造影预防抗炎", "entailment": "继发不孕", "contradiction": "脊椎关节强硬"}
+{"origin": "右侧乳腺积乳囊肿", "entailment": "乳液囊肿", "contradiction": "系统性红斑狼疮"}
+{"origin": "右食指创伤性软组织缺损伴甲床缺损", "entailment": "后天性指缺损", "contradiction": "耳周围神经和自主神经交界性肿瘤"}
+{"origin": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛", "entailment": "头晕", "contradiction": "未特指的糖尿病伴有多个并发症"}
+{"origin": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛", "entailment": "心悸", "contradiction": "胃食管反流"}
+{"origin": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛", "entailment": "高血压", "contradiction": "结膜银沉着症"}
+{"origin": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛", "entailment": "椎-基底动脉供血不全", "contradiction": "肌肉骨骼系统和结缔组织的其他后天性变形"}
+{"origin": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛", "entailment": "冠心病心律失常型", "contradiction": "器质性心境[情感]障碍"}
+{"origin": "头晕心悸待查：高血压;椎-基底动脉供血不全;冠心病心律失常型;心绞痛", "entailment": "心绞痛", "contradiction": "营养不良相关性糖尿病伴有神经的并发症"}
+{"origin": "原发性支气管肺癌(左肺腺癌 ct3n1m1a(胸膜) 4a期 egfr野生型 her-2(e20第771-774杂合性", "entailment": "左肺恶性肿瘤", "contradiction": "在手术和医疗中未特指的意外事故"}
+{"origin": "原发性支气管肺癌(左肺腺癌 ct3n1m1a(胸膜) 4a期 egfr野生型 her-2(e20第771-774杂合性", "entailment": "腺癌", "contradiction": "小分裂细胞和大细胞混合型滤泡性非霍奇金淋巴瘤"}
+{"origin": "原发性支气管肺癌(左肺腺癌 ct3n1m1a(胸膜) 4a期 egfr野生型 her-2(e20第771-774杂合性", "entailment": "胸膜继发恶性肿瘤", "contradiction": "肢体其他部位的蜂窝织炎"}
+{"origin": "双下肢无力原因待查腰椎病所致可能性大", "entailment": "肢体无力", "contradiction": "先天性结肠旋转不良"}
+{"origin": "双下肢无力原因待查腰椎病所致可能性大", "entailment": "腰椎病", "contradiction": "肾上腺髓质恶性肿瘤"}
+{"origin": "胆石症伴慢性胆囊炎", "entailment": "胆石症", "contradiction": "甲状腺术后"}
+{"origin": "胆石症伴慢性胆囊炎", "entailment": "慢性胆囊炎", "contradiction": "伸长细胞性室管膜瘤"}
+{"origin": "盲肠降结肠符合管状腺瘤", "entailment": "盲肠良性肿瘤", "contradiction": "降温未特指的效应"}
+{"origin": "盲肠降结肠符合管状腺瘤", "entailment": "降结肠良性肿瘤", "contradiction": "耳道异物"}
+{"origin": "盲肠降结肠符合管状腺瘤", "entailment": "管状腺瘤", "contradiction": "胆固醇综合征"}
+{"origin": "胎儿盆腔异位肾可能", "entailment": "肾异位", "contradiction": "特发性血小板增多症"}
+{"origin": "舌腹血管畸形", "entailment": "舌血管畸形", "contradiction": "手术后更换敷料"}
+{"origin": "回肠双腔造瘘术后", "entailment": "回肠造口状态", "contradiction": "暴露于高度易燃材料的起火下造成的损伤,在学校、其他机构和公共管理区域"}
+{"origin": "卵巢良性畸胎瘤", "entailment": "卵巢良性肿瘤", "contradiction": "骨纤维性结构不良(单骨性)"}
+{"origin": "卵巢良性畸胎瘤", "entailment": "良性畸胎瘤", "contradiction": "先天性NADH高铁血红蛋白还原酶缺乏"}
+{"origin": "回盲部肠管坏死并破裂", "entailment": "肠坏死", "contradiction": "急性骨髓炎"}
+{"origin": "回盲部肠管坏死并破裂", "entailment": "肠破裂", "contradiction": "脑膜炎球菌性脑膜炎"}
+{"origin": "腰45椎间盘突出", "entailment": "腰椎间盘突出", "contradiction": "颈椎半脱位C3/C4"}
+{"origin": "咳嗽变异性哮喘？支气管炎，百日咳综合症？", "entailment": "咳嗽变异型哮喘", "contradiction": "牙科表面用药类反应"}
+{"origin": "咳嗽变异性哮喘？支气管炎，百日咳综合症？", "entailment": "支气管炎", "contradiction": "胃溃疡伴出血"}
+{"origin": "咳嗽变异性哮喘？支气管炎，百日咳综合症？", "entailment": "百日咳", "contradiction": "下肢脱位后遗症"}
+{"origin": "左膝关节软组织挫伤", "entailment": "膝部挫伤", "contradiction": "其他特指的类风湿性关节炎"}
+{"origin": "双手麻木僵硬原因右膝骨关节炎", "entailment": "单侧膝关节骨性关节病", "contradiction": "颅咽管交界性肿瘤"}
+{"origin": "慢性静脉功能不全", "entailment": "静脉功能不全(慢性)(周围性)", "contradiction": "继发性甲状旁腺功能亢进"}
+{"origin": "停经宫内囊样结构待查", "entailment": "子宫囊肿", "contradiction": "囊性纤维瘤伴胎粪性肠梗阻"}
+{"origin": "停经宫内囊样结构待查", "entailment": "停经", "contradiction": "桑德霍夫病[Sandhoff病]"}
+{"origin": "周围神经病变右侧腋神经正中神经尺神经损害", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "中毒性肝病伴有肝炎,不可归类在他处者"}
+{"origin": "周围神经病变右侧腋神经正中神经尺神经损害", "entailment": "尺神经损害", "contradiction": "与生活管理困难有关的其他问题"}
+{"origin": "周围神经病变右侧腋神经正中神经尺神经损害", "entailment": "正中神经损害", "contradiction": "气管狭窄"}
+{"origin": "周围神经病变右侧腋神经正中神经尺神经损害", "entailment": "腋神经损伤", "contradiction": "甲醛的毒性效应"}
+{"origin": "左侧膝关节放疗后", "entailment": "放射治疗", "contradiction": "与有害事件有关的其他和未特指的医疗装置,假体和其他植入物、材料和附件装置"}
+{"origin": "t1012椎体压缩性骨折病理性骨折不除外", "entailment": "胸椎压缩性骨折", "contradiction": "涉及轮椅上的跌落造成的损伤, 在其他特指的场地"}
+{"origin": "t1012椎体压缩性骨折病理性骨折不除外", "entailment": "病理性骨折", "contradiction": "滤泡旁细胞癌"}
+{"origin": "龈口炎", "entailment": "龈炎", "contradiction": "先天性巨输尿管"}
+{"origin": "龈口炎", "entailment": "口炎", "contradiction": "幻视"}
+{"origin": "肺癌(骨转移)", "entailment": "肺恶性肿瘤", "contradiction": "多处皮肤浅表血肿"}
+{"origin": "肺癌(骨转移)", "entailment": "癌", "contradiction": "幻肢综合征伴有疼痛"}
+{"origin": "肺癌(骨转移)", "entailment": "骨继发恶性肿瘤", "contradiction": "肠重复畸形"}
+{"origin": "肺癌(骨转移)", "entailment": "转移性癌", "contradiction": "复发性抑郁障碍,目前为伴有精神病性症状的重度发作"}
+{"origin": "不育睾丸内硬结", "entailment": "男性不育症", "contradiction": "头和颈二度烧伤"}
+{"origin": "不育睾丸内硬结", "entailment": "睾丸结节", "contradiction": "包皮溃疡"}
+{"origin": "乘坐客车时翻车导致头胸腹部被撞击致伤", "entailment": "头部损伤", "contradiction": "软腭裂"}
+{"origin": "乘坐客车时翻车导致头胸腹部被撞击致伤", "entailment": "胸部损伤", "contradiction": "绝经后卵巢可扪及综合征"}
+{"origin": "乘坐客车时翻车导致头胸腹部被撞击致伤", "entailment": "腹部损伤", "contradiction": "从树上跌落造成的损伤, 在居住的公共设施"}
+{"origin": "双侧基底节区及额叶多发腔隙灶老年脑改变", "entailment": "腔隙性脑梗死", "contradiction": "其他的慢性肾衰竭"}
+{"origin": "左面神经疾患左面神经功能亢进", "entailment": "未指面神经疾患", "contradiction": "其他和未特指的化学制品和有害物质的故意自毒及暴露于该类物质, 在农场"}
+{"origin": "左面神经疾患左面神经功能亢进", "entailment": "面神经功能障碍", "contradiction": "眼伴面二度腐蚀伤"}
+{"origin": "右手中指陈旧性外伤性末节缺损", "entailment": "创伤性手指缺如", "contradiction": "可卡因急性中毒"}
+{"origin": "膨胀纹库欣综合症", "entailment": "皮质醇增多症[库欣综合征]", "contradiction": "后天性腕下垂"}
+{"origin": "胫骨骨样骨瘤", "entailment": "胫骨良性肿瘤", "contradiction": "操劳过度和剧烈或重复运动造成的损伤, 在体育和运动区域"}
+{"origin": "胫骨骨样骨瘤", "entailment": "骨样骨瘤", "contradiction": "糖尿病肾病I期"}
+{"origin": "指甲破损并脱位", "entailment": "甲脱离", "contradiction": "雀斑痣"}
+{"origin": "左大腿被他人踢伤", "entailment": "大腿损伤", "contradiction": "椎间盘变性"}
+{"origin": "左大腿被他人踢伤", "entailment": "被别人殴打、踢、拧、咬或抓伤", "contradiction": "胸壁开放性损伤"}
+{"origin": "肝继发性恶性肿瘤介入治疗", "entailment": "肝继发恶性肿瘤", "contradiction": "渗透压性脑水肿"}
+{"origin": "肝继发性恶性肿瘤介入治疗", "entailment": "恶性肿瘤介入治疗", "contradiction": "1型糖尿病性肩关节周围炎"}
+{"origin": "表皮肿物感染", "entailment": "感染", "contradiction": "其他关节疾患,不可归类在他处者"}
+{"origin": "右眼下睑内翻倒睫", "entailment": "倒睫", "contradiction": "巨细胞和梭形细胞癌"}
+{"origin": "食管胃底静脉重度曲张", "entailment": "胃底静脉曲张", "contradiction": "童年社会功能障碍"}
+{"origin": "食管胃底静脉重度曲张", "entailment": "食管静脉曲张", "contradiction": "窄QRS心动过速"}
+{"origin": "痛风别嘌醇过敏", "entailment": "痛风", "contradiction": "大疱病"}
+{"origin": "痛风别嘌醇过敏", "entailment": "激素药物反应", "contradiction": "地震受害者, 在体育和运动区域"}
+{"origin": "卵巢乳头腺液性腺癌术后", "entailment": "卵巢术后", "contradiction": "急性结肠炎"}
+{"origin": "卵巢乳头腺液性腺癌术后", "entailment": "乳头状浆液性腺癌", "contradiction": "水痘肺炎"}
+{"origin": "卵巢乳头腺液性腺癌术后", "entailment": "卵巢恶性肿瘤", "contradiction": "疼痛,不可归类在他处者"}
+{"origin": "甲状腺双侧叶乳头状癌", "entailment": "甲状腺乳头状癌", "contradiction": "原发性戊糖尿症"}
+{"origin": "甲状腺双侧叶乳头状癌", "entailment": "甲状腺恶性肿瘤", "contradiction": "误服蟑螂药意外中毒"}
+{"origin": "上纵隔异常密度影", "entailment": "其他特指身体结构诊断性影像检查的异常所见", "contradiction": "女性生殖器官交搭跨越恶性肿瘤的损害"}
+{"origin": "弥漫性大b细胞癌", "entailment": "弥漫大b细胞淋巴瘤", "contradiction": "冠状动脉痉挛性心绞痛"}
+{"origin": "消化不良(+内脏感觉过敏)", "entailment": "消化不良", "contradiction": "分类于他处的其他传染病和寄生虫病引起的外耳炎"}
+{"origin": "冠心病高血压病高脂血症", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "放线菌瘤"}
+{"origin": "冠心病高血压病高脂血症", "entailment": "高血压", "contradiction": "步枪、猎枪和较大火器发射造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "冠心病高血压病高脂血症", "entailment": "高脂血症", "contradiction": "其他和未特指的企图流产失败,并发生殖道和盆腔感染"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "高血压", "contradiction": "高胰岛素血症"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "新生儿惊厥"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "咳嗽", "contradiction": "下肢(包括髋)皮肤良性肿瘤"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "咽痛", "contradiction": "上皮瘤"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "下肢疼痛", "contradiction": "蝶窦肿物"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "腰痛", "contradiction": "糖尿病性脊髓病"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "失眠", "contradiction": "化脓性中耳炎"}
+{"origin": "高血压。冠心病。咳嗽。咽痛。腰腿痛。失眠。头晕", "entailment": "头晕", "contradiction": "开颅术后骨瓣凹陷整形"}
+{"origin": "低锌低铁", "entailment": "锌缺乏", "contradiction": "酒精的意外中毒及暴露于酒精,在体育和运动区域"}
+{"origin": "低锌低铁", "entailment": "铁缺乏", "contradiction": "上肢骨筋膜室综合征"}
+{"origin": "鼻骨骨折鼻外伤", "entailment": "鼻骨骨折", "contradiction": "真菌性足菌肿"}
+{"origin": "胃弥漫大b细胞型生发中心b细胞来源", "entailment": "胃恶性肿瘤", "contradiction": "暴力的性加害, 在学校、其他机构和公共管理区域"}
+{"origin": "胃弥漫大b细胞型生发中心b细胞来源", "entailment": "弥漫大b细胞淋巴瘤", "contradiction": "胎儿脑发育异常"}
+{"origin": "右乳增生病伴纤维腺瘤", "entailment": "乳腺良性肿瘤", "contradiction": "与有害事件有关的其他和未特指的医疗装置,假体和其他植入物、材料和附件装置"}
+{"origin": "右乳增生病伴纤维腺瘤", "entailment": "纤维腺瘤", "contradiction": "在医院外分娩无计划的产后医疗照顾"}
+{"origin": "右乳增生病伴纤维腺瘤", "entailment": "乳腺增生", "contradiction": "巨细胞动脉炎[颞动脉炎]"}
+{"origin": "颈肌筋膜炎", "entailment": "筋膜炎", "contradiction": "尺骨鹰嘴骨折"}
+{"origin": "急性加重期慢性阻塞性肺疾病肺心衰右侧包裹性胸水", "entailment": "慢性阻塞性肺疾病急性加重", "contradiction": "脑室粘连"}
+{"origin": "急性加重期慢性阻塞性肺疾病肺心衰右侧包裹性胸水", "entailment": "包裹性胸腔积液", "contradiction": "胃肠气胀及有关情况"}
+{"origin": "急性加重期慢性阻塞性肺疾病肺心衰右侧包裹性胸水", "entailment": "心力衰竭", "contradiction": "眼伴头腐蚀伤"}
+{"origin": "停经245周b超提示胎儿上腔静脉走形迂曲", "entailment": "妊娠状态", "contradiction": "鲍氏志贺菌痢疾"}
+{"origin": "头晕胀痛", "entailment": "头晕", "contradiction": "弥漫性导管内乳头状瘤病"}
+{"origin": "头晕胀痛", "entailment": "头痛", "contradiction": "转移性化学感受器瘤"}
+{"origin": "子宫内膜癌糖尿病 高血压", "entailment": "子宫内膜恶性肿瘤", "contradiction": "供角膜者"}
+{"origin": "子宫内膜癌糖尿病 高血压", "entailment": "癌", "contradiction": "与有害事件有关的矫形外科装置,治疗和康复装置(非手术的)"}
+{"origin": "子宫内膜癌糖尿病 高血压", "entailment": "糖尿病", "contradiction": "肥厚性非梗阻性心肌病"}
+{"origin": "子宫内膜癌糖尿病 高血压", "entailment": "高血压", "contradiction": "其他和未特指的药物、药剂和生物制品的意外中毒及暴露于该类物质, 在未特指场所"}
+{"origin": "冠心病;失眠;慢性喘息性支气管炎", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "舌畸形"}
+{"origin": "冠心病;失眠;慢性喘息性支气管炎", "entailment": "失眠", "contradiction": "先天性单侧二度唇裂"}
+{"origin": "冠心病;失眠;慢性喘息性支气管炎", "entailment": "o", "contradiction": "指甲三度烧伤"}
+{"origin": "绝经前后诸症手麻手痒眼干", "entailment": "干眼症", "contradiction": "1型糖尿病性下肢溃疡"}
+{"origin": "胃肠息肉病待排", "entailment": "胃息肉", "contradiction": "2型糖尿病性食管功能障碍"}
+{"origin": "胃肠息肉病待排", "entailment": "肠息肉", "contradiction": "为其他胎儿变形引起的胎盆不称给予的孕产妇医疗"}
+{"origin": "卵巢类癌", "entailment": "类癌瘤", "contradiction": "与儿童据说受家族以外人员的性虐待有关问题"}
+{"origin": "升结肠1符合管状腺瘤升结肠2管状腺瘤", "entailment": "升结肠良性肿瘤", "contradiction": "急性粒-单核细胞白血病"}
+{"origin": "升结肠1符合管状腺瘤升结肠2管状腺瘤", "entailment": "管状腺瘤", "contradiction": "颅内脓肿"}
+{"origin": "先天性上脸下垂", "entailment": "先天性上睑下垂", "contradiction": "未特指的多胎妊娠"}
+{"origin": "低度鳞状上皮内病变人乳头瘤病毒感染高危型35阳性", "entailment": "人乳头瘤病毒感染", "contradiction": "被狗咬伤或抓伤, 在体育和运动区域"}
+{"origin": "右下肢浮肿待查淋巴回流障碍可能", "entailment": "淋巴回流障碍", "contradiction": "膀胱肿瘤的特殊筛查"}
+{"origin": "右下肢浮肿待查淋巴回流障碍可能", "entailment": "下肢水肿", "contradiction": "非年龄性躯干皮肤松驰"}
+{"origin": "包皮新生物", "entailment": "皮赘", "contradiction": "睾丸肉芽肿"}
+{"origin": "右肺小细胞癌化疗后伽玛刀治疗后", "entailment": "右肺恶性肿瘤", "contradiction": "接触未特指的有毒动物或植物造成的损伤,在农场"}
+{"origin": "右肺小细胞癌化疗后伽玛刀治疗后", "entailment": "小细胞癌", "contradiction": "低钾血症"}
+{"origin": "右肺小细胞癌化疗后伽玛刀治疗后", "entailment": "化学治疗", "contradiction": "产粘液性腺癌"}
+{"origin": "慢性肾衰竭尿毒症期ckd5期痛风性肾病", "entailment": "慢性肾脏病,5期", "contradiction": "与有害事件有关的心血管装置,多用途装置,不可归类在他处者"}
+{"origin": "慢性肾衰竭尿毒症期ckd5期痛风性肾病", "entailment": "痛风性肾病", "contradiction": "发热伴血小板减少综合征[新型布尼亚病毒感染]"}
+{"origin": "慢性非特异性溃疡性结肠炎", "entailment": "溃疡性结肠炎", "contradiction": "腰椎骨折"}
+{"origin": "左半结肠中低化腺癌pt4an0mxiib期", "entailment": "结肠恶性肿瘤", "contradiction": "前T细胞急性淋巴细胞白血病"}
+{"origin": "左半结肠中低化腺癌pt4an0mxiib期", "entailment": "腺癌", "contradiction": "先天性下腔静脉入左房"}
+{"origin": "肺浸润性腺癌", "entailment": "肺继发恶性肿瘤", "contradiction": "先天性踝关节畸形"}
+{"origin": "肺浸润性腺癌", "entailment": "腺癌", "contradiction": "与医疗设施和其他卫生保健有关的其他问题"}
+{"origin": "副乳腺腺病", "entailment": "副乳腺腺病", "contradiction": "女性生殖器官标本的异常所见,其他药物、药剂和生物制剂水平异常"}
+{"origin": "右肘游离体创伤性骨关节炎", "entailment": "肘关节内游离体", "contradiction": "头部血管损伤,不可归类在他处者"}
+{"origin": "右肘游离体创伤性骨关节炎", "entailment": "肘骨关节病", "contradiction": "入脑前动脉栓塞引起的脑梗死"}
+{"origin": "右卵巢浆液性腺癌", "entailment": "卵巢恶性肿瘤", "contradiction": "在梯子上跌倒和跌落造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "右卵巢浆液性腺癌", "entailment": "浆液性腺癌", "contradiction": "复发性和持续性血尿,弥漫性毛细血管内增生性肾小球肾炎"}
+{"origin": "胎儿生长发育受限刘鹤莺", "entailment": "妊娠状态", "contradiction": "先天性多囊胰"}
+{"origin": "乳糜胸腹水", "entailment": "乳糜胸", "contradiction": "未特指的人工造口的维护"}
+{"origin": "乳糜胸腹水", "entailment": "腹水", "contradiction": "角膜层改变"}
+{"origin": "急性t淋巴细胞白血病伴髓系表达", "entailment": "t淋巴细胞和髓系混合表型急性白血病", "contradiction": "放射性皮炎"}
+{"origin": "mods肝肾心功能损害弥散性血管内凝血", "entailment": "多脏器功能障碍综合征[mods]", "contradiction": "包皮血肿"}
+{"origin": "mods肝肾心功能损害弥散性血管内凝血", "entailment": "弥散性血管内凝血", "contradiction": "风湿性舞蹈症"}
+{"origin": "咽鼓管开放症左咽鼓管功能不良", "entailment": "咽鼓管未指疾患", "contradiction": "足骨折,除外踝"}
+{"origin": "前交叉韧带断裂术后", "entailment": "膝关节前十字韧带完全断裂", "contradiction": "肝细胞癌梭形细胞变体"}
+{"origin": "左肺周围型小细胞肺癌广泛期放化疗 ,胃镜检查 置管,无法进食", "entailment": "左肺恶性肿瘤", "contradiction": "机械相关性心内膜炎"}
+{"origin": "左肺周围型小细胞肺癌广泛期放化疗 ,胃镜检查 置管,无法进食", "entailment": "小细胞癌", "contradiction": "特发性荨麻疹"}
+{"origin": "左肺周围型小细胞肺癌广泛期放化疗 ,胃镜检查 置管,无法进食", "entailment": "放射治疗", "contradiction": "医源性甲状腺功能减退"}
+{"origin": "左肺周围型小细胞肺癌广泛期放化疗 ,胃镜检查 置管,无法进食", "entailment": "化学治疗", "contradiction": "莫氏阻滞I型"}
+{"origin": "颏部瘘道原因缝线反应", "entailment": "皮肤瘘管", "contradiction": "硬腭恶性肿瘤"}
+{"origin": "脑内少量小脱髓鞘斑", "entailment": "脱髓鞘性脑病", "contradiction": "舌淋巴管瘤"}
+{"origin": "口腔黏膜恶性肿瘤晚期", "entailment": "口腔黏膜恶性肿瘤", "contradiction": "输血性疟疾"}
+{"origin": "胸主动脉夹层(de bakey3型)", "entailment": "主动脉夹层b型", "contradiction": "1型糖尿病性乳酸性酸中毒"}
+{"origin": "左示指皮肤缺失甲床缺损骨外露", "entailment": "皮肤缺损", "contradiction": "喉软骨骨折"}
+{"origin": "左侧乳腺癌术后,双肺转移", "entailment": "乳腺术后", "contradiction": "重型运输车与两轮或三轮机车碰撞造成的上或下重型运输车时的人员的损伤"}
+{"origin": "左侧乳腺癌术后,双肺转移", "entailment": "乳腺恶性肿瘤", "contradiction": "沃森吸虫病"}
+{"origin": "左侧乳腺癌术后,双肺转移", "entailment": "癌", "contradiction": "硬结性痤疮"}
+{"origin": "左侧乳腺癌术后,双肺转移", "entailment": "肺继发恶性肿瘤", "contradiction": "祛痰剂的有害效应"}
+{"origin": "左侧乳腺癌术后,双肺转移", "entailment": "转移性癌", "contradiction": "急性发热坏死溃疡性痘疮样糠疹"}
+{"origin": "左膝关节腘窝囊肿", "entailment": "膝关节囊肿", "contradiction": "用气体和蒸气进行加害, 在其他特指的场地"}
+{"origin": "左膝关节腘窝囊肿", "entailment": "腘窝囊肿", "contradiction": "苔癣样皮炎"}
+{"origin": "右肺上叶小细胞癌维持性化学治疗", "entailment": "右肺上叶恶性肿瘤", "contradiction": "谵妄,描述为并非附加于痴呆的"}
+{"origin": "右肺上叶小细胞癌维持性化学治疗", "entailment": "小细胞癌", "contradiction": "传导性和感音神经性听觉丧失"}
+{"origin": "右肺上叶小细胞癌维持性化学治疗", "entailment": "恶性肿瘤维持性化学治疗", "contradiction": "霍乱"}
+{"origin": "左眼神经损伤", "entailment": "身体未特指部位的神经损伤", "contradiction": "其他的多形性红斑"}
+{"origin": "会厌肿物", "entailment": "喉肿物", "contradiction": "新生儿牛乳性低钙血症"}
+{"origin": "停经312周b超提示胎儿双侧肾窦分离轻度", "entailment": "妊娠状态", "contradiction": "接触锋利的玻璃造成的损伤, 在其他特指的场地"}
+{"origin": "右肺中叶鳞状细胞癌", "entailment": "右肺中叶恶性肿瘤", "contradiction": "黄斑出血"}
+{"origin": "右肺中叶鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "暴露于高度易燃材料的起火下造成的损伤,在工业和建筑区域"}
+{"origin": "乳腺多处恶性肿瘤", "entailment": "乳腺恶性肿瘤", "contradiction": "未特指的视路疾患"}
+{"origin": "右侧肢体发僵流涎待查", "entailment": "流涎症", "contradiction": "暴露于其他衣着用品和装饰品的起火或焚毁下造成的损伤, 在居住的公共设施"}
+{"origin": "右侧肢体发僵流涎待查", "entailment": "肢体僵硬", "contradiction": "新生儿其他暂时性内分泌疾患"}
+{"origin": "亚急性皮肤型红斑狼疮", "entailment": "皮肤红斑狼疮", "contradiction": "心脏兴奋甙和相似作用药的有害效应"}
+{"origin": "胸髓病变并不全性截瘫", "entailment": "不完全性瘫痪", "contradiction": "高度易燃材料着火"}
+{"origin": "胸髓病变并不全性截瘫", "entailment": "截瘫[双下肢瘫痪]", "contradiction": "前体细胞淋巴细胞白血病"}
+{"origin": "左踝创伤性下垂足", "entailment": "踝关节损伤", "contradiction": "弥漫性视网膜母细胞瘤"}
+{"origin": "左踝创伤性下垂足", "entailment": "足畸形", "contradiction": "播散性曲霉病"}
+{"origin": "语言功能障碍", "entailment": "言语和语言发育障碍", "contradiction": "副乳头"}
+{"origin": "结肠克罗恩病", "entailment": "未指克罗恩病", "contradiction": "腹壁和下背及骨盆冻伤伴组织坏死"}
+{"origin": "先天性喉软骨发育不良(轻度)", "entailment": "先天性喉发育不全", "contradiction": "由于自我忽视引起进食不足和饮水不足"}
+{"origin": "女性不育症与宫角阻塞有关", "entailment": "子宫起因的女性不孕症", "contradiction": "肛周感染"}
+{"origin": "右肺下叶硬结灶双肺下叶间质改变", "entailment": "肺诊断性影像异常", "contradiction": "腹腔妊娠后胎盘残留"}
+{"origin": "左肺不典型类癌,骨转移？", "entailment": "左肺恶性肿瘤", "contradiction": "股四头肌和肌腱损伤"}
+{"origin": "左肺不典型类癌,骨转移？", "entailment": "骨继发恶性肿瘤", "contradiction": "新生儿母乳喂养困难"}
+{"origin": "左肺不典型类癌,骨转移？", "entailment": "类癌瘤", "contradiction": "坐骨结节囊肿"}
+{"origin": "左肺不典型类癌,骨转移？", "entailment": "转移性类癌", "contradiction": "对立违抗性障碍"}
+{"origin": "妊娠期b族链球菌感染", "entailment": "链球菌感染", "contradiction": "面肌纤维抽搐"}
+{"origin": "妊娠期b族链球菌感染", "entailment": "妊娠状态", "contradiction": "作用于自主神经系统的其他药物的意外中毒及暴露于该类药物"}
+{"origin": "小脑扁桃体下疝伴脊髓空洞", "entailment": "脊髓空洞症", "contradiction": "心悸"}
+{"origin": "小脑扁桃体下疝伴脊髓空洞", "entailment": "小脑扁桃体下疝畸形[阿诺德-ch1ar1综合征]", "contradiction": "艾滋病伴伯基特淋巴瘤"}
+{"origin": "胰腺副肿瘤神经系统综合征", "entailment": "神经系统副肿瘤综合征", "contradiction": "视网膜营养障碍"}
+{"origin": "酒精火焰烧伤双上肢", "entailment": "上肢烧伤", "contradiction": "淋巴结炎"}
+{"origin": "酒精火焰烧伤双上肢", "entailment": "火焰烧伤", "contradiction": "前庭功能的其他疾患"}
+{"origin": "抽搐查因继发性癫痫", "entailment": "抽搐状态", "contradiction": "腹主动脉栓塞"}
+{"origin": "抽搐查因继发性癫痫", "entailment": "症状性癫痫[继发性癫痫]", "contradiction": "糖尿病性急性牙周脓肿"}
+{"origin": "右输尿管结石并肾积水", "entailment": "肾积水伴输尿管结石", "contradiction": "肾炎综合征,弥漫性膜性肾小球肾炎"}
+{"origin": "西医1后循环缺血2左侧椎动脉发育变异", "entailment": "后循环缺血", "contradiction": "2型糖尿病性膀胱张力减弱"}
+{"origin": "周围神经病变桡神经病变右侧", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "恶性富淋巴细胞胸腺瘤"}
+{"origin": "2性症发育不佳", "entailment": "第2性征发育不全", "contradiction": "其他特指的再生障碍性贫血"}
+{"origin": "ch1ar1畸型1型并骨髓空洞", "entailment": "小脑扁桃体下疝畸形[阿诺德-ch1ar1综合征]", "contradiction": "累及上肢多个部位的浅表损伤"}
+{"origin": "ch1ar1畸型1型并骨髓空洞", "entailment": "脊髓空洞症", "contradiction": "牙根囊肿"}
+{"origin": "2型糖尿病并肾病（尿毒症期）", "entailment": "2型糖尿病肾病v期", "contradiction": "1型糖尿病性胰岛素抵抗"}
+{"origin": "左冠前降支心肌桥伴粥样硬化斑块", "entailment": "冠状动脉肌桥", "contradiction": "手术后尿道口畸形"}
+{"origin": "左冠前降支心肌桥伴粥样硬化斑块", "entailment": "冠状动脉粥样硬化", "contradiction": "指[趾]甲的其他先天性畸形"}
+{"origin": "腰椎间多发盘膨出", "entailment": "腰椎间盘突出", "contradiction": "外伤性失明"}
+{"origin": "颈椎硬膜外血肿并截瘫", "entailment": "未指截瘫", "contradiction": "基底细胞癌"}
+{"origin": "颈椎硬膜外血肿并截瘫", "entailment": "硬脊膜外血肿", "contradiction": "潜伏性晚期梅毒"}
+{"origin": "双侧跟骨刺", "entailment": "跟骨骨质增生[跟骨骨刺]", "contradiction": "高原反应"}
+{"origin": "右乳头乳晕佩吉特's病", "entailment": "乳房佩吉特病", "contradiction": "间插血吸虫病"}
+{"origin": "右乳头乳晕佩吉特's病", "entailment": "乳晕恶性肿瘤", "contradiction": "先天性弹性纤维假黄瘤"}
+{"origin": "右乳头乳晕佩吉特's病", "entailment": "乳头恶性肿瘤", "contradiction": "血浆蛋白的其他特指异常"}
+{"origin": "个矮", "entailment": "身材矮小症", "contradiction": "小脑性震颤"}
+{"origin": "右肾及输尿管结石", "entailment": "肾输尿管结石", "contradiction": "孤立性蛋白尿伴有特指的形态学损害,弥漫性新月形肾小球肾炎"}
+{"origin": "子宫内膜息肉术后", "entailment": "子宫内膜息肉", "contradiction": "肺炎球菌性肘关节炎"}
+{"origin": "子宫内膜息肉术后", "entailment": "子宫术后", "contradiction": "妊娠合并腹膜囊肿"}
+{"origin": "肿瘤术后免疫治疗", "entailment": "恶性肿瘤术后免疫治疗", "contradiction": "手部一度腐蚀伤"}
+{"origin": "前列腺癌t3bn0m1", "entailment": "前列腺恶性肿瘤", "contradiction": "肺动脉瓣闭锁"}
+{"origin": "前列腺癌t3bn0m1", "entailment": "癌", "contradiction": "胃溃疡"}
+{"origin": "乳腺分叶状肿瘤", "entailment": "叶状瘤", "contradiction": "暴露于其他特指的因素下造成的损伤, 在街道和公路"}
+{"origin": "主动脉弓缩窄充血性心力衰竭", "entailment": "主动脉弓狭窄", "contradiction": "心间隔的其他先天性畸形"}
+{"origin": "主动脉弓缩窄充血性心力衰竭", "entailment": "充血性心力衰竭", "contradiction": "交通事故中轻型货车或篷车与重型运输车或公共汽车碰撞中造成轻型货车或篷车司机的损伤"}
+{"origin": "右上肺继发性支扩复诊继发性肺纤维化", "entailment": "支气管扩张症", "contradiction": "分娩合并皮肤和皮下组织的疾病"}
+{"origin": "右上肺继发性支扩复诊继发性肺纤维化", "entailment": "肺纤维化", "contradiction": "听骨链中断"}
+{"origin": "从房屋或建筑结构上跌落或跌出", "entailment": "自高处坠落", "contradiction": "先天性跖骨短缩畸形"}
+{"origin": "右肱骨内上髁炎", "entailment": "内侧上髁炎", "contradiction": "进行性孤立性失语症"}
+{"origin": "32cm结肠绒毛状管状腺瘤低级别", "entailment": "结肠良性肿瘤", "contradiction": "小叶癌"}
+{"origin": "32cm结肠绒毛状管状腺瘤低级别", "entailment": "管状绒毛状腺瘤", "contradiction": "钙尿"}
+{"origin": "脑干出血后遗症期", "entailment": "脑出血后遗症", "contradiction": "导致劳动能力丧失的某些伤残和慢性疾病家族史,不可归类在他处者"}
+{"origin": "右手发麻待查桡神经病变", "entailment": "桡神经损害", "contradiction": "胃狭窄"}
+{"origin": "卵巢交界瘤术后复查", "entailment": "卵巢交界性肿瘤", "contradiction": "不完全性下肢单瘫"}
+{"origin": "卵巢交界瘤术后复查", "entailment": "卵巢术后", "contradiction": "库鲁病[新几内亚震颤病]"}
+{"origin": "巧囊术后", "entailment": "卵巢巧克力样囊肿", "contradiction": "其他关节炎"}
+{"origin": "巧囊术后", "entailment": "卵巢术后", "contradiction": "可卡因非成瘾性滥用"}
+{"origin": "皮肤瘙痒症，甲减，类风湿性关节炎", "entailment": "瘙痒(症)", "contradiction": "腕和手冻伤伴组织坏死"}
+{"origin": "皮肤瘙痒症，甲减，类风湿性关节炎", "entailment": "甲状腺功能减退", "contradiction": "手部水泡"}
+{"origin": "皮肤瘙痒症，甲减，类风湿性关节炎", "entailment": "类风湿性关节炎", "contradiction": "颏部畸形"}
+{"origin": "上肢原位黑色素瘤", "entailment": "上肢原位黑色素瘤", "contradiction": "产钳应用失败"}
+{"origin": "上肢原位黑色素瘤", "entailment": "原位黑色素瘤", "contradiction": "颌骨发育性牙源性囊肿"}
+{"origin": "粒细胞缺乏伴肺部感染", "entailment": "粒细胞缺乏", "contradiction": "高苯丙氨酸血症"}
+{"origin": "粒细胞缺乏伴肺部感染", "entailment": "肺部感染", "contradiction": "胃空肠溃疡急性,伴有穿孔"}
+{"origin": "双眼屈光不正；黄斑病变；双眼糖尿病眼底病变", "entailment": "屈光不正", "contradiction": "下肢皮肤感染"}
+{"origin": "双眼屈光不正；黄斑病变；双眼糖尿病眼底病变", "entailment": "o", "contradiction": "手枪发射造成的损伤, 意图不确定的, 在家"}
+{"origin": "双眼屈光不正；黄斑病变；双眼糖尿病眼底病变", "entailment": "糖尿病性视网膜病变", "contradiction": "肾上腺继发恶性肿瘤"}
+{"origin": "十2指肠转移", "entailment": "转移性肿瘤", "contradiction": "苔藓样念珠状疹"}
+{"origin": "十2指肠转移", "entailment": "十2指肠继发恶性肿瘤", "contradiction": "弓形虫肝炎"}
+{"origin": "右肾小错构瘤", "entailment": "肾错构瘤", "contradiction": "其他掌骨骨折"}
+{"origin": "颅内多发囊虫1纵裂池囊虫", "entailment": "未指囊虫病", "contradiction": "非类阿片镇痛药、退热药和抗风湿药的中毒及暴露于该类药物,意图不确定的, 在贸易和服务区域"}
+{"origin": "双侧股骨头置换术后", "entailment": "人工关节术后", "contradiction": "眼眶损伤后遗症"}
+{"origin": "左眼视网膜剥脱失明", "entailment": "视网膜脱离", "contradiction": "结节性中分化淋巴细胞性恶性淋巴瘤"}
+{"origin": "左眼视网膜剥脱失明", "entailment": "单眼盲", "contradiction": "除颤器感知功能不良"}
+{"origin": "糖尿病高血压糖尿病神经病变", "entailment": "高血压", "contradiction": "接触裁纸刀"}
+{"origin": "糖尿病高血压糖尿病神经病变", "entailment": "糖尿病", "contradiction": "牙槽出血"}
+{"origin": "糖尿病高血压糖尿病神经病变", "entailment": "糖尿病伴神经系统并发症", "contradiction": "疖"}
+{"origin": "右顶部良性脑膜瘤", "entailment": "脑膜瘤", "contradiction": "接触和暴露于肠道传染病"}
+{"origin": "食管髓质型鳞状细胞癌", "entailment": "食管恶性肿瘤", "contradiction": "暴露于其他特指的电流下造成的损伤"}
+{"origin": "食管髓质型鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "肾小管酸中毒II型"}
+{"origin": "白内障(右眼术后)", "entailment": "白内障", "contradiction": "仅为抗流行性腮腺炎采取必要的免疫"}
+{"origin": "白内障(右眼术后)", "entailment": "眼术后", "contradiction": "弥漫性小核裂细胞恶性淋巴瘤"}
+{"origin": "符合横结肠低级别绒毛管状腺瘤", "entailment": "横结肠良性肿瘤", "contradiction": "分类于他处的疾病引起的脑神经疾患"}
+{"origin": "符合横结肠低级别绒毛管状腺瘤", "entailment": "管状绒毛状腺瘤", "contradiction": "小肠破裂"}
+{"origin": "扩张型心肌病心律失常：持续性室速慢性心功能不全纽约心脏病协会3-4级", "entailment": "扩张性心肌病[充血性心肌病]", "contradiction": "咽旁隙感染"}
+{"origin": "扩张型心肌病心律失常：持续性室速慢性心功能不全纽约心脏病协会3-4级", "entailment": "心律失常", "contradiction": "急性白血病伴缓解"}
+{"origin": "扩张型心肌病心律失常：持续性室速慢性心功能不全纽约心脏病协会3-4级", "entailment": "持续性室性心动过速", "contradiction": "丙型肝炎肝硬化"}
+{"origin": "扩张型心肌病心律失常：持续性室速慢性心功能不全纽约心脏病协会3-4级", "entailment": "心功能3级(纽约心脏病协会分级)", "contradiction": "小腿浅表损伤"}
+{"origin": "扩张型心肌病心律失常：持续性室速慢性心功能不全纽约心脏病协会3-4级", "entailment": "心功能4级(纽约心脏病协会分级)", "contradiction": "肾萎缩伴高血压"}
+{"origin": "who肺高压心功能分级2级", "entailment": "心功能2级(纽约心脏病协会分级)", "contradiction": "交通事故中轻型货车或篷车与重型运输车或公共汽车碰撞中造成轻型货车或篷车乘客的损伤"}
+{"origin": "who肺高压心功能分级2级", "entailment": "肺动脉高压", "contradiction": "B型预激综合征"}
+{"origin": "海马变性硬化", "entailment": "大脑变性", "contradiction": "浸润性基底细胞癌"}
+{"origin": "海马变性硬化", "entailment": "海马硬化[颞叶内侧硬化]", "contradiction": "胸部气管损伤"}
+{"origin": "未分化多形性肉瘤", "entailment": "肉瘤", "contradiction": "眼科药物和制剂中毒"}
+{"origin": "深静脉血栓形成后综合征（左下肢）", "entailment": "下肢深静脉血栓形成", "contradiction": "铁色素沉着"}
+{"origin": "冠心病不稳定性心绞痛陈旧心梗", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "药物性自身免疫性溶血性贫血"}
+{"origin": "冠心病不稳定性心绞痛陈旧心梗", "entailment": "不稳定性心绞痛", "contradiction": "肾损伤"}
+{"origin": "冠心病不稳定性心绞痛陈旧心梗", "entailment": "陈旧性心肌梗死", "contradiction": "矿物质代谢紊乱"}
+{"origin": "前列腺癌近距离治疗术后", "entailment": "前列腺恶性肿瘤", "contradiction": "癔症性震颤"}
+{"origin": "前列腺癌近距离治疗术后", "entailment": "癌", "contradiction": "阴囊烧伤"}
+{"origin": "双手麻木原因末梢神经病", "entailment": "末梢神经病[末梢神经炎]", "contradiction": "淋球菌性关节炎"}
+{"origin": "右上肢尺桡骨折", "entailment": "桡骨骨折", "contradiction": "利福霉素类中毒"}
+{"origin": "右上肢尺桡骨折", "entailment": "尺骨骨折", "contradiction": "操作后肛门出血"}
+{"origin": "甲状腺机能亢进-甲状腺机能减退综合征", "entailment": "甲状腺功能亢进症", "contradiction": "胰胆管扩张"}
+{"origin": "甲状腺机能亢进-甲状腺机能减退综合征", "entailment": "甲状腺功能减退", "contradiction": "急性肾小球肾炎"}
+{"origin": "车祸伤，左胫骨下段骨折", "entailment": "胫骨远端骨折", "contradiction": "子宫脱垂I度"}
+{"origin": "阑尾腺癌", "entailment": "阑尾恶性肿瘤", "contradiction": "腹股沟区开放性损伤"}
+{"origin": "阑尾腺癌", "entailment": "腺癌", "contradiction": "泌尿道的其他人工造口状态"}
+{"origin": "右腋窝异物院外术后伤口感染", "entailment": "手术后切口感染", "contradiction": "特发性骨质疏松"}
+{"origin": "直肠术后化疗", "entailment": "恶性肿瘤术后化疗", "contradiction": "羟基喹啉衍生物药物反应"}
+{"origin": "多发性骨髓瘤(淋巴管肌瘤病轻链型),d-s分期3b期,1ss分期3期", "entailment": "多发性骨髓瘤(轻链lambda型)", "contradiction": "岛叶恶性肿瘤"}
+{"origin": "多发性骨髓瘤(淋巴管肌瘤病轻链型),d-s分期3b期,1ss分期3期", "entailment": "多发性骨髓瘤(1ss分期3期)", "contradiction": "男性生殖器官的其他疾患"}
+{"origin": "多发性骨髓瘤(淋巴管肌瘤病轻链型),d-s分期3b期,1ss分期3期", "entailment": "多发性骨髓瘤(ds分期3期b组)", "contradiction": "多发性动静脉瘘"}
+{"origin": "肝内胆管同描述符合carol1`s病改变", "entailment": "先天性肝内胆管囊状扩张症[carol1病]", "contradiction": "暴露于高度易燃材料的起火下造成的损伤,在街道和公路"}
+{"origin": "左束支传导组织阻滞", "entailment": "左束支传导阻滞", "contradiction": "其他的扁平苔癣"}
+{"origin": "右侧颈内透析隧道导管脱出", "entailment": "透析导管引起的机械性并发症", "contradiction": "腋窝开放性损伤"}
+{"origin": "口腔软组织挫伤", "entailment": "口腔和咽喉部损伤", "contradiction": "呕吐"}
+{"origin": "左枕前胎位剖1男活婴持续性枕横位", "entailment": "经未指剖宫产术分娩", "contradiction": "风湿性多肌痛"}
+{"origin": "多脏器功能不全肝肾肌酶凝血", "entailment": "多脏器功能障碍综合征[mods]", "contradiction": "肱静脉损伤"}
+{"origin": "右颊粘膜舌尖及下唇扁平苔藓", "entailment": "口腔扁平苔癣", "contradiction": "女性生殖器官标本的异常所见"}
+{"origin": "右颊粘膜舌尖及下唇扁平苔藓", "entailment": "舌扁平苔癣", "contradiction": "涉及多个和未特指身体部位损伤的后遗症"}
+{"origin": "鼻部皮肤裂伤", "entailment": "鼻部开放性损伤", "contradiction": "由于禁忌症未进行免疫"}
+{"origin": "胎儿异位融合肾", "entailment": "肾异位", "contradiction": "(前)(后)扁桃体柱恶性肿瘤"}
+{"origin": "胎儿异位融合肾", "entailment": "融合肾", "contradiction": "接触锋利的玻璃造成的损伤, 在未特指场所"}
+{"origin": "双输尿管积水", "entailment": "输尿管积水", "contradiction": "暴露于其他特指的电流下造成的损伤, 在居住的公共设施"}
+{"origin": "右肺癌放化疗后", "entailment": "右肺恶性肿瘤", "contradiction": "小脑前下动脉动脉瘤破裂伴蛛网膜下腔出血"}
+{"origin": "右肺癌放化疗后", "entailment": "化学治疗", "contradiction": "急性阑尾炎"}
+{"origin": "右肺癌放化疗后", "entailment": "恶性肿瘤放疗", "contradiction": "乘脚踏车人员在脚踏车与行人或牲畜碰撞中交通事故的损伤"}
+{"origin": "表皮肥厚伴灶性棘层肥厚", "entailment": "其他表皮肥厚", "contradiction": "髂动脉闭塞"}
+{"origin": "左胫骨假关节", "entailment": "骨折不连接[假关节]", "contradiction": "精神病史"}
+{"origin": "右跟腱断裂伴撕脱骨折", "entailment": "跟腱断裂", "contradiction": "用手枪发射进行加害, 在未特指场所"}
+{"origin": "右跟腱断裂伴撕脱骨折", "entailment": "跟骨骨折", "contradiction": "腹部肿胀"}
+{"origin": "胃窦癌中分化腺癌", "entailment": "胃窦恶性肿瘤", "contradiction": "腹部食管恶性肿瘤"}
+{"origin": "胃窦癌中分化腺癌", "entailment": "腺癌", "contradiction": "动脉瘤性骨囊肿"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "卵巢恶性肿瘤", "contradiction": "异物进入自然腔口"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "浆液性癌", "contradiction": "脊髓灰质炎疫苗反应"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "甲状腺功能减退", "contradiction": "局限性硬皮病"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "失眠", "contradiction": "慢性颏下淋巴结炎"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "关节痛", "contradiction": "恶性蓝痣"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "重度骨质疏松", "contradiction": "分类于他处的疾病引起眼眶的寄生虫性侵染"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "失眠", "contradiction": "胎儿胸腔积液"}
+{"origin": "左卵巢高级别浆液性癌,甲状腺功能低下,失眠 关节疼痛,严重骨质疏松,失眠,便秘", "entailment": "便秘", "contradiction": "成人人格和行为障碍"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "食管恶性肿瘤", "contradiction": "被其他爬行动物咬伤或压伤, 在贸易和服务区域"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "化疗药物反应", "contradiction": "其他和未特指的火器发射造成的损伤, 意图不确定的, 在街道和公路"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "肝损伤", "contradiction": "髋关节和韧带脱位、扭伤和劳损"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "水肿", "contradiction": "尿道良性肿瘤"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "化疗药物反应", "contradiction": "暴露于其他和未特指的无生命机械性力量下造成的损伤, 在未特指场所"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "呕吐", "contradiction": "眼植入物暴露的后遗症"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "反流性食管炎", "contradiction": "卵巢输卵管粘连"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "食管溃疡", "contradiction": "普秃"}
+{"origin": "食管癌抗过敏,胃镜检查预防出血,抗过敏化疗肝损伤,化疗预处理,水肿利尿,化疗呕吐,反流性食道炎伴溃疡", "entailment": "癌", "contradiction": "疱疹性直肠炎"}
+{"origin": "子宫偏小多囊卵巢综合征", "entailment": "多囊卵巢综合征[stein-leventhal综合征]", "contradiction": "泌尿器官未特指的动态未定或动态未知的肿瘤"}
+{"origin": "右胸腰部软组织裂口", "entailment": "胸部开放性损伤", "contradiction": "等孢球虫病"}
+{"origin": "右胸腰部软组织裂口", "entailment": "下背开放性损伤", "contradiction": "乳头肌断裂,不可归类在他处者"}
+{"origin": "左口角粘膜包块", "entailment": "口腔肿物", "contradiction": "醇诱发的假库欣综合征"}
+{"origin": "右侧乳房溢血", "entailment": "乳头溢液", "contradiction": "硬腭和软腭裂伴双侧唇裂"}
+{"origin": "左侧泌尿系结石碎石后，腰疼待查;", "entailment": "泌尿系结石", "contradiction": "粘膜相关淋巴组织结外边缘区B细胞淋巴瘤"}
+{"origin": "左侧泌尿系结石碎石后，腰疼待查;", "entailment": "腰痛", "contradiction": "旅行和运动造成的损伤, 在体育和运动区域"}
+{"origin": "电解质代谢紊乱低钾低钠低氯血症", "entailment": "电解质紊乱", "contradiction": "鼓膜其他特指的疾患"}
+{"origin": "电解质代谢紊乱低钾低钠低氯血症", "entailment": "低钠血症", "contradiction": "多发性骨髓瘤髓外浸润"}
+{"origin": "电解质代谢紊乱低钾低钠低氯血症", "entailment": "低钾血症", "contradiction": "遗传性血管神经性水肿"}
+{"origin": "电解质代谢紊乱低钾低钠低氯血症", "entailment": "低氯血症", "contradiction": "急性上颌窦炎"}
+{"origin": "髋关节肌腱膜炎", "entailment": "肌腱炎", "contradiction": "高危儿"}
+{"origin": "右面部红肿痒疑过敏", "entailment": "过敏反应", "contradiction": "仅出现于前中期的缺失"}
+{"origin": "左眼睑挫裂伤", "entailment": "眼睑裂伤", "contradiction": "肾下垂"}
+{"origin": "左眼睑挫裂伤", "entailment": "眼睑挫伤", "contradiction": "播散性念珠菌病"}
+{"origin": "纵隔癌", "entailment": "纵隔恶性肿瘤", "contradiction": "臂神经良性肿瘤"}
+{"origin": "纵隔癌", "entailment": "癌", "contradiction": "腰丛神经损伤后遗症"}
+{"origin": "肩背冷痛月经先期", "entailment": "背痛", "contradiction": "鼻后孔恶性肿瘤"}
+{"origin": "肩背冷痛月经先期", "entailment": "肩痛", "contradiction": "特纳综合征[Turner综合征]"}
+{"origin": "糖尿病并血管病変", "entailment": "糖尿病", "contradiction": "公共汽车的车辆外人员在公共汽车与重型运输车或公共汽车碰撞交通事故中的损伤"}
+{"origin": "骨关节病骨关节炎", "entailment": "骨关节病", "contradiction": "骶髓恶性肿瘤"}
+{"origin": "膀胱恶性肿瘤术后", "entailment": "膀胱恶性肿瘤", "contradiction": "伤寒"}
+{"origin": "膀胱恶性肿瘤术后", "entailment": "膀胱术后", "contradiction": "眶结缔组织良性肿瘤"}
+{"origin": "胎盘后低回声团胎盘早剥", "entailment": "胎盘早期剥离", "contradiction": "老年性白内障"}
+{"origin": "鼻咽右侧壁高分化粘液表皮样癌", "entailment": "鼻咽侧壁恶性肿瘤", "contradiction": "其他的牙面畸形"}
+{"origin": "鼻咽右侧壁高分化粘液表皮样癌", "entailment": "粘液表皮样癌", "contradiction": "后天性凤头状血管瘤"}
+{"origin": "胸12椎体陈旧性病变", "entailment": "脊椎病", "contradiction": "旅行和运动造成的损伤"}
+{"origin": "体检先心（房间隔缺损）", "entailment": "房间隔缺损", "contradiction": "婴儿骨外层肥厚"}
+{"origin": "牙龈损伤", "entailment": "牙及相关组织损伤", "contradiction": "冠状血管扩张剂的有害效应,不可归类在他处者"}
+{"origin": "左侧输尿管切开取石术后", "entailment": "输尿管结石", "contradiction": "在小腿水平的后部肌群的其他肌肉和肌腱损伤"}
+{"origin": "左侧输尿管切开取石术后", "entailment": "输尿管术后", "contradiction": "悬雍垂良性肿瘤"}
+{"origin": "皮肤色素斑", "entailment": "色素斑", "contradiction": "肝血管肉瘤"}
+{"origin": "右上肢疤痕挛缩粘连", "entailment": "瘢痕挛缩", "contradiction": "灼性神经痛"}
+{"origin": "右上肢疤痕挛缩粘连", "entailment": "瘢痕粘连", "contradiction": "舌背面恶性肿瘤"}
+{"origin": "乙状结肠癌肝转移姑息术后腹腔淋巴结转移综合治疗后", "entailment": "乙状结肠恶性肿瘤", "contradiction": "子宫恶性肿瘤史"}
+{"origin": "乙状结肠癌肝转移姑息术后腹腔淋巴结转移综合治疗后", "entailment": "肝继发恶性肿瘤", "contradiction": "轻型货车或篷车的车辆外人员在轻型货车或篷车与小汽车、轻型货车或篷车碰撞非交通事故中的损伤"}
+{"origin": "乙状结肠癌肝转移姑息术后腹腔淋巴结转移综合治疗后", "entailment": "腹腔淋巴结继发恶性肿瘤", "contradiction": "腓动脉闭塞"}
+{"origin": "乙状结肠癌肝转移姑息术后腹腔淋巴结转移综合治疗后", "entailment": "癌", "contradiction": "眼睑恶性肿瘤"}
+{"origin": "乙状结肠癌肝转移姑息术后腹腔淋巴结转移综合治疗后", "entailment": "转移性癌", "contradiction": "重型运输车司机在重型运输车与固定或静止物体碰撞中非交通事故的损伤"}
+{"origin": "右第骨骨折并肺挫伤", "entailment": "肋骨骨折", "contradiction": "肛门和肛管良性肿瘤"}
+{"origin": "右第骨骨折并肺挫伤", "entailment": "肺挫伤", "contradiction": "内眦恶性肿瘤"}
+{"origin": "低钾低钠底钙血症", "entailment": "低钾血症", "contradiction": "肺非结核分枝杆菌病"}
+{"origin": "低钾低钠底钙血症", "entailment": "低钠血症", "contradiction": "幼年的骨软化性佝偻病"}
+{"origin": "低钾低钠底钙血症", "entailment": "低钙血症", "contradiction": "分类于他处的其他传染病和寄生虫病引起的脑膜炎"}
+{"origin": "腰5骶1间盘膨出骶管巨大囊肿", "entailment": "其他特指的椎间盘移位", "contradiction": "自主神经功能紊乱"}
+{"origin": "腰5骶1间盘膨出骶管巨大囊肿", "entailment": "椎管囊肿", "contradiction": "腋动脉血栓形成"}
+{"origin": "双下肢胀痛", "entailment": "下肢疼痛", "contradiction": "血型不配合性输血"}
+{"origin": "膀胱恶性肿瘤", "entailment": "膀胱恶性肿瘤", "contradiction": "良性滑膜瘤"}
+{"origin": "膀胱恶性肿瘤", "entailment": "癌", "contradiction": "1型糖尿病性脑神经麻痹"}
+{"origin": "右侧结核性炎", "entailment": "结核感染", "contradiction": "植入物脱出"}
+{"origin": "b2锥形牙牙间隙", "entailment": "锥形牙", "contradiction": "胆管支架置入术后"}
+{"origin": "b2锥形牙牙间隙", "entailment": "牙齿间隙", "contradiction": "多处一度烧伤"}
+{"origin": "宫颈低级别上皮内病变c1n1级", "entailment": "子宫颈上皮瘤样病变[宫颈上皮内瘤变]1级", "contradiction": "背痛"}
+{"origin": "腰椎侧凸腰椎分隔不全", "entailment": "腰椎侧弯", "contradiction": "新生儿脓胞疮[新生儿脓疱病]"}
+{"origin": "肝右叶肝细胞癌m81700/32", "entailment": "肝细胞癌", "contradiction": "食物缺乏造成的损伤, 在家"}
+{"origin": "腰椎椎体内异常密度影原因", "entailment": "其他特指身体结构诊断性影像检查的异常所见", "contradiction": "膝部切断"}
+{"origin": "待查类风湿强脊炎", "entailment": "强直性脊柱炎", "contradiction": "糖尿病伴血糖控制不佳"}
+{"origin": "待查类风湿强脊炎", "entailment": "类风湿性关节炎", "contradiction": "妊娠期体重增加过度"}
+{"origin": "肠系膜血管病-肠管坏死", "entailment": "肠坏死", "contradiction": "先天性脊髓积水"}
+{"origin": "右肾盂旁囊肿", "entailment": "肾盂囊肿", "contradiction": "其他未特指部位的病毒性感染"}
+{"origin": "肝右外叶肝细胞癌", "entailment": "肝细胞癌", "contradiction": "未特指的胸痛"}
+{"origin": "肝右外叶肝细胞癌", "entailment": "肝细胞癌", "contradiction": "下肢血管畸形"}
+{"origin": "慢性肾脏病功能不全矿物质骨代谢异常", "entailment": "慢性肾病", "contradiction": "其他的痤疮"}
+{"origin": "慢性肾脏病功能不全矿物质骨代谢异常", "entailment": "矿物质代谢紊乱", "contradiction": "下肢创伤性动静脉瘘后遗症"}
+{"origin": "停经146周b超提示胎儿后颈部多枚囊性", "entailment": "妊娠状态", "contradiction": "与结节性多动脉炎有关的其他情况"}
+{"origin": "双侧硬膜下慢性硬膜下血肿", "entailment": "硬膜下血肿", "contradiction": "股动脉狭窄"}
+{"origin": "胆总管结石(术后)", "entailment": "胆总管结石", "contradiction": "沙粒体型脑膜瘤"}
+{"origin": "胆总管结石(术后)", "entailment": "胆道术后", "contradiction": "未特指的贫困造成的损伤, 在居住的公共设施"}
+{"origin": "双眼屈光不正（远视 远视散光）", "entailment": "屈光不正", "contradiction": "胆总管结石伴急性化脓性梗阻性胆管炎"}
+{"origin": "双眼屈光不正（远视 远视散光）", "entailment": "远视", "contradiction": "肺炎球菌性膝关节炎"}
+{"origin": "双眼屈光不正（远视 远视散光）", "entailment": "散光", "contradiction": "基萨那[凯萨努]森林病"}
+{"origin": "l32腰椎体终板炎l", "entailment": "骨软骨炎", "contradiction": "梅干腹综合征[Prune-Belly综合征]"}
+{"origin": "心功能1级基利普", "entailment": "k1ll1p1级", "contradiction": "角膜炎性肿物"}
+{"origin": "右肺小细胞癌维持性化学治疗", "entailment": "右肺恶性肿瘤", "contradiction": "腹腔内器官良性脂肪瘤样肿瘤"}
+{"origin": "右肺小细胞癌维持性化学治疗", "entailment": "小细胞癌", "contradiction": "骨折不连接[假关节]"}
+{"origin": "右肺小细胞癌维持性化学治疗", "entailment": "恶性肿瘤维持性化学治疗", "contradiction": "溴化合物的有害效应"}
+{"origin": "反射性躯体神经病", "entailment": "交感神经反射性营养不良", "contradiction": "绒毛膜血管瘤"}
+{"origin": "d发作性无力原因待查", "entailment": "肢体无力", "contradiction": "亚急性硬化性全脑炎"}
+{"origin": "带状疱疹后综合征", "entailment": "带状疱疹", "contradiction": "未特指的前列腺炎性疾病"}
+{"origin": "阴道前壁重度膨出后壁中度膨出", "entailment": "阴道前后壁脱垂", "contradiction": "在肾透析或其他灌注中异物意外地遗留在体内"}
+{"origin": "粒细胞减低症", "entailment": "中性粒细胞减少症", "contradiction": "用蒸气、热气和热物体方式故意自害, 在其他特指的场地"}
+{"origin": "右胫骨中下段骨质破坏骨纤维结构不良症", "entailment": "骨质破坏", "contradiction": "鼠伤寒带菌者"}
+{"origin": "右胫骨中下段骨质破坏骨纤维结构不良症", "entailment": "胫骨纤维结构不良", "contradiction": "化脓性直窦血栓形成"}
+{"origin": "双足坏疽伴感染", "entailment": "下肢坏疽", "contradiction": "公共汽车乘员在公共汽车与小汽车、轻型货车或篷车碰撞中的损伤"}
+{"origin": "双足坏疽伴感染", "entailment": "感染", "contradiction": "迪古列尔莫病"}
+{"origin": "急性放射性黏膜炎2级", "entailment": "放射性损害", "contradiction": "腱鞘巨细胞瘤"}
+{"origin": "右肺下叶肺部阴影", "entailment": "肺部阴影", "contradiction": "新生儿肺炎"}
+{"origin": "慢性收缩性全心衰心功能3级c期", "entailment": "心功能3级(纽约心脏病协会分级)", "contradiction": "其他部位的口咽良性肿瘤"}
+{"origin": "慢性收缩性全心衰心功能3级c期", "entailment": "全心衰竭", "contradiction": "下肢原位黑色素瘤"}
+{"origin": "热水烫伤躯干右股tbsa7%深2度", "entailment": "下肢烫伤", "contradiction": "其他严重的和有并发症的恶性疟原虫"}
+{"origin": "右侧小脑半球大面积脑梗塞", "entailment": "小脑梗死", "contradiction": "与就业和失业有关的问题"}
+{"origin": "右侧小脑半球大面积脑梗塞", "entailment": "大面积脑梗死", "contradiction": "1型糖尿病性难愈性肾小球硬化症"}
+{"origin": "非霍奇金淋巴瘤 弥漫大b细胞淋巴瘤2期a 化疗+靶向", "entailment": "非霍奇金淋巴瘤", "contradiction": "小脑慕脑膜瘤"}
+{"origin": "非霍奇金淋巴瘤 弥漫大b细胞淋巴瘤2期a 化疗+靶向", "entailment": "弥漫大b细胞淋巴瘤", "contradiction": "下牙龈恶性肿瘤"}
+{"origin": "非霍奇金淋巴瘤 弥漫大b细胞淋巴瘤2期a 化疗+靶向", "entailment": "化学治疗", "contradiction": "阴道原位癌"}
+{"origin": "非霍奇金淋巴瘤 弥漫大b细胞淋巴瘤2期a 化疗+靶向", "entailment": "恶性肿瘤靶向治疗", "contradiction": "颈内动脉供血不全"}
+{"origin": "甲状腺滤泡性癌", "entailment": "甲状腺恶性肿瘤", "contradiction": "额部皮肤恶性肿瘤"}
+{"origin": "甲状腺滤泡性癌", "entailment": "滤泡性癌", "contradiction": "未特指的节肢动物媒介的病毒性脑炎"}
+{"origin": "胃病变粘膜下剥离术esd", "entailment": "胃和十2指肠未指疾病", "contradiction": "麻疹"}
+{"origin": "右下肢骨缺损骨不连", "entailment": "骨折不连接[假关节]", "contradiction": "其他螺旋体感染"}
+{"origin": "右下肢骨缺损骨不连", "entailment": "下肢骨折", "contradiction": "过敏反应"}
+{"origin": "预计综合症射频消融", "entailment": "预激综合征[沃-帕-怀综合征]", "contradiction": "人工关节术后"}
+{"origin": "预计综合症射频消融", "entailment": "射频消融术后", "contradiction": "心律失常电风暴"}
+{"origin": "胃间质瘤朮后", "entailment": "胃肠道间质性瘤", "contradiction": "阴茎瘢痕"}
+{"origin": "胃间质瘤朮后", "entailment": "胃术后", "contradiction": "单纯性骨囊肿"}
+{"origin": "双肺结核性病变部分空洞形成", "entailment": "空洞型肺结核", "contradiction": "原因不明的金属及其烟雾和蒸气中毒"}
+{"origin": "右肺小细胞肺癌4期", "entailment": "右肺恶性肿瘤", "contradiction": "足月胎膜早破(在24小时之内产程开始)"}
+{"origin": "右肺小细胞肺癌4期", "entailment": "小细胞癌", "contradiction": "其他的骨囊肿"}
+{"origin": "脊髓恶性压迫并截瘫", "entailment": "脊髓压迫症", "contradiction": "手术后马尾神经损伤"}
+{"origin": "脊髓恶性压迫并截瘫", "entailment": "未指截瘫", "contradiction": "其他的心肌病"}
+{"origin": "心律不齐房颤", "entailment": "心律失常", "contradiction": "沙粒体型脑膜瘤"}
+{"origin": "心律不齐房颤", "entailment": "心房颤动[心房纤颤]", "contradiction": "僵"}
+{"origin": "右手中指远节完全离断", "entailment": "单指完全离断", "contradiction": "先天性尖头畸形"}
+{"origin": "右眼睑裂斑双眼睑板腺功能障碍", "entailment": "睑板腺功能障碍", "contradiction": "其他和未特指的腹痛"}
+{"origin": "右眼睑裂斑双眼睑板腺功能障碍", "entailment": "睑裂斑", "contradiction": "甲胎蛋白异常"}
+{"origin": "胰腺癌史", "entailment": "胰腺恶性肿瘤史", "contradiction": "X综合征"}
+{"origin": "痹证寒湿痹阻证西医诊断1腰椎间盘膨出症", "entailment": "腰椎间盘移位", "contradiction": "公共汽车乘员在非碰撞性运输事故中的损伤"}
+{"origin": "g3p1孕39周已产roa", "entailment": "正常分娩", "contradiction": "虹膜缺损"}
+{"origin": "左乳腺溢血待查", "entailment": "乳头溢液", "contradiction": "先天性甲状腺功能减退症伴有弥漫性甲状腺肿"}
+{"origin": "右乳浸润性导管癌中医治疗", "entailment": "乳腺恶性肿瘤", "contradiction": "继发性肿瘤"}
+{"origin": "右乳浸润性导管癌中医治疗", "entailment": "浸润性导管癌", "contradiction": "动脉内膜炎"}
+{"origin": "右乳浸润性导管癌中医治疗", "entailment": "恶性肿瘤中医治疗", "contradiction": "胸骨先天性畸形"}
+{"origin": "家族性渗出性玻璃体视网膜病变", "entailment": "家族性渗出性玻璃体视网膜病变", "contradiction": "创伤性脑干出血"}
+{"origin": "急粒、乙肝 3", "entailment": "急性粒细胞白血病", "contradiction": "流行性腮腺炎并发胸骨前水肿"}
+{"origin": "急粒、乙肝 3", "entailment": "o", "contradiction": "牙骨质龋"}
+{"origin": "手指肌断裂(术后)", "entailment": "手部肌肉肌腱断裂", "contradiction": "四肢未特指的其他短小缺陷"}
+{"origin": "右足化脓性病灶切开延迟愈合", "entailment": "开放性损伤延期愈合", "contradiction": "肺坏疽"}
+{"origin": "右足化脓性病灶切开延迟愈合", "entailment": "足感染", "contradiction": "趾甲沟炎"}
+{"origin": "宫内早孕", "entailment": "妊娠状态", "contradiction": "输注后血栓性静脉炎"}
+{"origin": "慢性心功能不全心功能3级", "entailment": "心功能3级(纽约心脏病协会分级)", "contradiction": "输卵管术后"}
+{"origin": "右冠心肌桥", "entailment": "冠状动脉肌桥", "contradiction": "房室折返性心动过速"}
+{"origin": "开放性特重型颅脑外伤性意识障碍", "entailment": "头部损伤", "contradiction": "心室动脉连接不协调"}
+{"origin": "开放性特重型颅脑外伤性意识障碍", "entailment": "意识障碍", "contradiction": "新生儿高钾血症"}
+{"origin": "腰痛,腰椎骨性关节炎,行动不便", "entailment": "腰痛", "contradiction": "结膜变性和沉着物"}
+{"origin": "腰痛,腰椎骨性关节炎,行动不便", "entailment": "脊柱骨关节病", "contradiction": "产褥期乳腺囊肿哺乳困难"}
+{"origin": "左膝软组织挫裂伤", "entailment": "膝部挫伤", "contradiction": "胃肠型土拉菌病"}
+{"origin": "左膝软组织挫裂伤", "entailment": "下肢撕裂伤", "contradiction": "骨质石化病[大理石骨病]"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "肺恶性肿瘤", "contradiction": "柯萨奇病毒性急性支气管炎"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "腺鳞癌", "contradiction": "重型运输车司机在重型运输车与重型运输车或公共汽车碰撞中非交通事故的损伤"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "脑继发恶性肿瘤", "contradiction": "皮肤着色真菌病"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "非小细胞癌", "contradiction": "与有害事件有关的矫形外科装置,诊断和监测装置"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "肺恶性肿瘤", "contradiction": "先天性输尿管扩张"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "化学治疗", "contradiction": "下肢干性坏疽"}
+{"origin": "肺腺鳞癌,脑转移,非小细胞肺癌晚期,化疗止吐,抗过敏", "entailment": "转移性腺鳞癌", "contradiction": "与家庭成员失踪有关的问题"}
+{"origin": "高血压(眩晕-肝肾不足)", "entailment": "高血压", "contradiction": "未知病毒的流感性心肌炎"}
+{"origin": "高血压(眩晕-肝肾不足)", "entailment": "眩晕", "contradiction": "心脏植入物脱落"}
+{"origin": "腰4-5椎间盘突出症", "entailment": "腰椎间盘突出", "contradiction": "涉及轮椅上的跌落造成的损伤, 在体育和运动区域"}
+{"origin": "子宫内膜消融术后", "entailment": "子宫术后", "contradiction": "梭形细胞小细胞癌"}
+{"origin": "左拇指腱鞘狭窄", "entailment": "狭窄性腱鞘炎", "contradiction": "头部血管畸形"}
+{"origin": "腭部鳞状细胞癌", "entailment": "腭部恶性肿瘤", "contradiction": "类癌瘤综合征"}
+{"origin": "腭部鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "神经皮肤综合征"}
+{"origin": "特指泌尿系疾病阴茎扭转", "entailment": "泌尿系统他特指", "contradiction": "与人工授精有关特指并发症"}
+{"origin": "特指泌尿系疾病阴茎扭转", "entailment": "阴茎未指疾患", "contradiction": "丙戊酸自杀"}
+{"origin": "点状角膜炎", "entailment": "浅层点状角膜炎", "contradiction": "酒精的意外中毒及暴露于酒精"}
+{"origin": "右手无力待查", "entailment": "肌无力", "contradiction": "颈部周围神经和自主神经良性肿瘤"}
+{"origin": "冠心病急性非st段抬高型心肌梗死", "entailment": "急性非st段抬高型心肌梗死", "contradiction": "先天性乙状结肠憩室"}
+{"origin": "冠心病急性非st段抬高型心肌梗死", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "原因不明的跳下"}
+{"origin": "前交通动脉瘤破裂", "entailment": "前交通动脉动脉瘤", "contradiction": "精索良性脂肪瘤样肿瘤"}
+{"origin": "前交通动脉瘤破裂", "entailment": "大脑动脉瘤破裂", "contradiction": "上肢深静脉血栓形成"}
+{"origin": "头面部外伤-头外伤后反应左第八肋骨骨折", "entailment": "头部损伤", "contradiction": "药物性肌阵挛"}
+{"origin": "头面部外伤-头外伤后反应左第八肋骨骨折", "entailment": "面部损伤", "contradiction": "肾上腺脂肪瘤"}
+{"origin": "头面部外伤-头外伤后反应左第八肋骨骨折", "entailment": "肋骨骨折", "contradiction": "同种免疫伴胎儿水肿"}
+{"origin": "左眼黄斑区神经上皮层线脱离双眼老年性白内", "entailment": "老年性白内障", "contradiction": "鞍部脑膜瘤"}
+{"origin": "左眼黄斑区神经上皮层线脱离双眼老年性白内", "entailment": "视网膜脱离", "contradiction": "输卵管上皮增生"}
+{"origin": "右外耳中耳癌", "entailment": "中耳恶性肿瘤", "contradiction": "罗布麻意外中毒"}
+{"origin": "右外耳中耳癌", "entailment": "癌", "contradiction": "胸部开放性伤口"}
+{"origin": "右手中指血管球瘤", "entailment": "肢端血管瘤", "contradiction": "硬脑膜下积液"}
+{"origin": "右手中指血管球瘤", "entailment": "血管球瘤", "contradiction": "先天性肺动脉狭窄"}
+{"origin": "腹痛-胃肠功能紊乱", "entailment": "腹痛", "contradiction": "妊娠合并缺铁性贫血"}
+{"origin": "腹痛-胃肠功能紊乱", "entailment": "胃肠功能紊乱", "contradiction": "特发性心肌病"}
+{"origin": "盲肠升结肠横结肠管状腺瘤", "entailment": "盲肠良性肿瘤", "contradiction": "面部皮肤松弛"}
+{"origin": "盲肠升结肠横结肠管状腺瘤", "entailment": "升结肠良性肿瘤", "contradiction": "手部痈"}
+{"origin": "盲肠升结肠横结肠管状腺瘤", "entailment": "横结肠良性肿瘤", "contradiction": "胸骨恶性肿瘤"}
+{"origin": "盲肠升结肠横结肠管状腺瘤", "entailment": "管状腺瘤", "contradiction": "铝骨病"}
+{"origin": "并周围神经病变并双眼代谢性眼病", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "撞在体育设施上或被体育设施击中造成的损伤, 在其他特指的场地"}
+{"origin": "左颈慢性肉芽肿性炎", "entailment": "肉芽肿", "contradiction": "结晶尿"}
+{"origin": "回肠下端粘膜急慢性炎胃体小片浅表胃粘膜", "entailment": "胃和十2指肠未指疾病", "contradiction": "假两性畸形"}
+{"origin": "颈部粥样斑块硬化症", "entailment": "颈动脉粥样硬化", "contradiction": "经皮球囊扩瓣术后动静脉瘘"}
+{"origin": "左胫骨平台开放性粉粹性骨折伴骨质部分缺损", "entailment": "胫骨骨折", "contradiction": "颞部挫伤"}
+{"origin": "肿瘤手术后", "entailment": "性质未指肿瘤", "contradiction": "双侧第一腕掌关节的创伤后关节病"}
+{"origin": "胃窦溃疡型低分化腺癌伴印戒细胞癌成分", "entailment": "胃窦恶性肿瘤", "contradiction": "恶性疟原虫疟疾伴有大脑并发症"}
+{"origin": "胃窦溃疡型低分化腺癌伴印戒细胞癌成分", "entailment": "腺癌", "contradiction": "恶性间皮瘤"}
+{"origin": "胃窦溃疡型低分化腺癌伴印戒细胞癌成分", "entailment": "印戒细胞癌", "contradiction": "卒中后焦虑"}
+{"origin": "脊柱骨关节炎伴狭窄", "entailment": "脊柱骨关节病", "contradiction": "海绵窦动静脉瘘"}
+{"origin": "肥大细胞增生症", "entailment": "肥大细胞增生症", "contradiction": "多发性硬化"}
+{"origin": "右膝髌骨骨梗死左肩峰下撞击征", "entailment": "骨坏死", "contradiction": "陈旧性脉络膜视网膜炎"}
+{"origin": "右膝髌骨骨梗死左肩峰下撞击征", "entailment": "肩撞击综合征", "contradiction": "眼电图异常"}
+{"origin": "颈脊椎病", "entailment": "颈椎病", "contradiction": "胆管结石伴慢性胆囊炎"}
+{"origin": "乙状结肠中分化腺癌伴肝转移术后（t3n1m1 d", "entailment": "乙状结肠恶性肿瘤", "contradiction": "尿道下裂阴茎型"}
+{"origin": "乙状结肠中分化腺癌伴肝转移术后（t3n1m1 d", "entailment": "肝继发恶性肿瘤", "contradiction": "上肢开放性伤口,水平未特指"}
+{"origin": "乙状结肠中分化腺癌伴肝转移术后（t3n1m1 d", "entailment": "腺癌", "contradiction": "端坐呼吸"}
+{"origin": "乙状结肠中分化腺癌伴肝转移术后（t3n1m1 d", "entailment": "转移性腺癌", "contradiction": "乳糜泻[脂泻病]"}
+{"origin": "右下肢神经病变", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "第一掌骨颈骨折"}
+{"origin": "胰腺癌3期", "entailment": "胰腺恶性肿瘤", "contradiction": "流行性角膜结膜炎"}
+{"origin": "胰腺癌3期", "entailment": "癌", "contradiction": "髂总动脉假性动脉瘤"}
+{"origin": "鞍区坏死组织不除外寄生虫虫卵", "entailment": "寄生虫病", "contradiction": "泪囊粘液囊肿"}
+{"origin": "头晕。颈椎病。椎动脉供血不全", "entailment": "头晕", "contradiction": "其他急性缺血性心脏病"}
+{"origin": "头晕。颈椎病。椎动脉供血不全", "entailment": "颈椎病", "contradiction": "碳酸脱水酶抑制剂的有害效应"}
+{"origin": "头晕。颈椎病。椎动脉供血不全", "entailment": "椎-基底动脉供血不全", "contradiction": "结肠松弛"}
+{"origin": "腰骶部外伤", "entailment": "躯干未指损伤,水平未特指", "contradiction": "脑曲霉菌病"}
+{"origin": "右踝距腓前韧带撕脱性骨折前踝软组织撞击症", "entailment": "踝关节撞击综合征", "contradiction": "近瘤型中间型麻风"}
+{"origin": "右踝距腓前韧带撕脱性骨折前踝软组织撞击症", "entailment": "踝骨骨折", "contradiction": "2型糖尿病伴神经系统并发症"}
+{"origin": "双膝重度骨关节炎右侧平足伴骨关节炎", "entailment": "双侧膝关节骨性关节病", "contradiction": "未特指的面神经疾患"}
+{"origin": "双膝重度骨关节炎右侧平足伴骨关节炎", "entailment": "骨关节病", "contradiction": "核型46,X同种(Xq)"}
+{"origin": "双膝重度骨关节炎右侧平足伴骨关节炎", "entailment": "扁平足", "contradiction": "肩胛间区三度烧伤"}
+{"origin": "退变的纤维软骨", "entailment": "软骨疾患", "contradiction": "急性女性盆腔炎"}
+{"origin": "肾小球轻微病变伴高血压肾损害", "entailment": "高血压肾损害", "contradiction": "双胎妊娠一胎死宫内"}
+{"origin": "肾小球轻微病变伴高血压肾损害", "entailment": "肾小球微小病变", "contradiction": "从高处跌落、跳下或被推下造成的损伤, 意图不确定的, 在贸易和服务区域"}
+{"origin": "颅内多发大动脉重度狭窄双侧椎动脉基底动脉", "entailment": "动脉狭窄", "contradiction": "酒精性肝衰竭"}
+{"origin": "颅内多发大动脉重度狭窄双侧椎动脉基底动脉", "entailment": "椎动脉狭窄", "contradiction": "急性戊型肝炎"}
+{"origin": "颅内多发大动脉重度狭窄双侧椎动脉基底动脉", "entailment": "基底动脉狭窄", "contradiction": "感染后脑积水"}
+{"origin": "慢性移植物抗宿主病广泛期眼睛口腔肺脏肝脏皮肤", "entailment": "慢性移植物抗宿主病", "contradiction": "哈奇森黑色素雀斑"}
+{"origin": "黏膜白斑", "entailment": "白斑病,不归他者", "contradiction": "未特指的肾挛缩"}
+{"origin": "腰2椎体良性病变", "entailment": "腰椎病", "contradiction": "阴道原位癌"}
+{"origin": "抑郁症脑血管疾病后", "entailment": "抑郁发作", "contradiction": "双侧腕关节骨性关节病"}
+{"origin": "抑郁症脑血管疾病后", "entailment": "脑血管病", "contradiction": "股骨颈骨折"}
+{"origin": "主动脉返流", "entailment": "主动脉瓣关闭不全", "contradiction": "产后甲状腺炎"}
+{"origin": "强迫症", "entailment": "强迫性障碍", "contradiction": "作用于自主神经系统的其他药物的意外中毒及暴露于该类药物,在居住的公共设施"}
+{"origin": "1颈髓病变炎性扩展残疾状态量表评分25分", "entailment": "脊髓炎", "contradiction": "意外枪伤"}
+{"origin": "喘大气待查：心肌损伤", "entailment": "喘息", "contradiction": "淋巴管瘤"}
+{"origin": "喘大气待查：心肌损伤", "entailment": "心肌损害", "contradiction": "定向障碍"}
+{"origin": "左下颌骨造釉细胞瘤左颌下淋巴结", "entailment": "面骨良性肿瘤", "contradiction": "溶剂类刺激性接触性皮炎"}
+{"origin": "左下颌骨造釉细胞瘤左颌下淋巴结", "entailment": "成釉细胞瘤", "contradiction": "在楼梯或台阶上跌倒和跌落造成的损伤, 在工业和建筑区域"}
+{"origin": "体表肿瘤活检 喉癌术后,复查开药 胃镜检查", "entailment": "喉术后", "contradiction": "转移性乳头状癌"}
+{"origin": "体表肿瘤活检 喉癌术后,复查开药 胃镜检查", "entailment": "喉恶性肿瘤", "contradiction": "自体血准备"}
+{"origin": "体表肿瘤活检 喉癌术后,复查开药 胃镜检查", "entailment": "癌", "contradiction": "血液取样后异常反应"}
+{"origin": "偶发房性早博", "entailment": "房性期前收缩[房性早搏]", "contradiction": "髌骨袖套状撕脱骨折"}
+{"origin": "双眼人工晶体植入状态左眼晶体移位", "entailment": "人工晶体脱位", "contradiction": "先天性淋巴水肿"}
+{"origin": "经典型霍奇金淋巴瘤4期b 结节硬化型  侵及右颈部、双锁骨区、前纵隔、右胸肌间、右腋窝、双侧膈区、左內乳区淋巴结  侵及骨（多发）", "entailment": "结节硬化型经典霍奇金淋巴瘤", "contradiction": "声带肥厚"}
+{"origin": "短暂性脑缺血椎基底动脉系统短暂性脑缺血发作发作", "entailment": "短暂性脑缺血发作", "contradiction": "未特指的截瘫"}
+{"origin": "短暂性脑缺血椎基底动脉系统短暂性脑缺血发作发作", "entailment": "椎-基底动脉供血不全", "contradiction": "高IgD综合征"}
+{"origin": "左颊及右舌粘膜扁平苔藓免疫异常", "entailment": "扁平苔癣", "contradiction": "C-急性淋巴细胞白血病"}
+{"origin": "左颊及右舌粘膜扁平苔藓免疫异常", "entailment": "舌扁平苔癣", "contradiction": "小颌畸形"}
+{"origin": "先天性肺囊肿并感染", "entailment": "先天性肺囊肿", "contradiction": "升主动脉假性动脉瘤"}
+{"origin": "先天性肺囊肿并感染", "entailment": "肺部感染", "contradiction": "肱骨解剖颈骨折"}
+{"origin": "甲状腺功能减低特纳综合症", "entailment": "甲状腺功能减退", "contradiction": "热体性烧伤"}
+{"origin": "甲状腺功能减低特纳综合症", "entailment": "特纳综合征[特纳综合征]", "contradiction": "根尖周脓肿伴有窦道"}
+{"origin": "右腋下皮脂腺囊肿待病理", "entailment": "皮脂腺囊肿", "contradiction": "原浆性星形细胞瘤"}
+{"origin": "中耳胆脂瘤(术后)", "entailment": "耳术后", "contradiction": "神经束性恶性周围神经鞘瘤"}
+{"origin": "中耳胆脂瘤(术后)", "entailment": "中耳胆脂瘤", "contradiction": "猝死"}
+{"origin": "部分发作继发全身发作", "entailment": "癫痫部分性发作", "contradiction": "部分性葡萄胎"}
+{"origin": "部分发作继发全身发作", "entailment": "癫痫大发作状态", "contradiction": "血浆蛋白未特指的异常"}
+{"origin": "汗证厌食花剥舌夜惊配药", "entailment": "睡惊症[夜惊症]", "contradiction": "维生素K[维生素K1]药物反应"}
+{"origin": "胎盘绒毛部分纤维素样坏死绒毛血管扩张充血", "entailment": "未指胎盘疾患", "contradiction": "肛门周围尖锐湿疣"}
+{"origin": "小脑脑出血", "entailment": "小脑出血", "contradiction": "液体潴留"}
+{"origin": "血行播散型肺结核", "entailment": "肺结核", "contradiction": "冠状动脉造影术后"}
+{"origin": "左前臂克利佩尔-特农纳综合征", "entailment": "血管骨肥大综合征[klippel-trenaunay-韦伯综合征]", "contradiction": "臀部腐蚀伤"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "乳腺术后", "contradiction": "伤寒复发"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "乳腺恶性肿瘤", "contradiction": "钙尿"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "恶性肿瘤术后化疗", "contradiction": "分娩伴脐带并发症"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "骨继发恶性肿瘤", "contradiction": "暴露于其他特指的电流下造成的损伤, 在体育和运动区域"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "骨质疏松", "contradiction": "急性共同性内斜视"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "肝继发恶性肿瘤", "contradiction": "气管插管后喉水肿"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "肝损伤", "contradiction": "中枢神经系统变性"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "癌", "contradiction": "支气管结核(复治,单耐药)涂阳培阳"}
+{"origin": "乳腺癌改良根治术后,化疗,骨转移,骨质疏松,肝转移,肝损伤", "entailment": "转移性癌", "contradiction": "妊娠期前庭大腺脓肿"}
+{"origin": "小肠恶性肿瘤(术后 透明细胞肉瘤)", "entailment": "小肠恶性肿瘤", "contradiction": "多发性脑梗死"}
+{"origin": "小肠恶性肿瘤(术后 透明细胞肉瘤)", "entailment": "透明细胞肉瘤", "contradiction": "截断术残端挛缩"}
+{"origin": "脑血管病; 高脂血症;免疫功能低下 支气管炎", "entailment": "脑血管病", "contradiction": "尿潴留"}
+{"origin": "脑血管病; 高脂血症;免疫功能低下 支气管炎", "entailment": "高脂血症", "contradiction": "嗜血杆菌脑膜炎"}
+{"origin": "脑血管病; 高脂血症;免疫功能低下 支气管炎", "entailment": "支气管炎", "contradiction": "静脉炎"}
+{"origin": "头部蜂蜇伤复诊", "entailment": "蜂螫伤", "contradiction": "遗尿"}
+{"origin": "头部蜂蜇伤复诊", "entailment": "头部损伤", "contradiction": "2型糖尿病性酮症酸中毒和乳酸性酸中毒"}
+{"origin": "胰腺结石术后", "entailment": "胰结石", "contradiction": "乳房皮肤继发恶性肿瘤"}
+{"origin": "胰腺结石术后", "entailment": "胰腺术后", "contradiction": "分类于他处的疾病引起的颅内、脊柱内脓肿和肉芽肿"}
+{"origin": "鞍区肿瘤放疗后", "entailment": "脑恶性肿瘤", "contradiction": "急性感觉运动神经病"}
+{"origin": "鞍区肿瘤放疗后", "entailment": "恶性肿瘤放疗", "contradiction": "急性白血病髓外复发"}
+{"origin": "特发性斑疹毛细血管扩张", "entailment": "毛细血管扩张症", "contradiction": "后天性颧骨缺失"}
+{"origin": "特发性斑疹毛细血管扩张", "entailment": "皮疹", "contradiction": "头皮和颈部原位黑色素瘤"}
+{"origin": "急性b淋巴细胞型白血病(氢离子浓度指数+)", "entailment": "b细胞急性淋巴细胞白血病", "contradiction": "泌尿生殖道其他和多处部位内异物"}
+{"origin": "结肠肝曲结肠脾区管状腺瘤部分腺体较增生", "entailment": "管状腺瘤", "contradiction": "消化道疾病的特殊筛查"}
+{"origin": "结肠肝曲结肠脾区管状腺瘤部分腺体较增生", "entailment": "结肠肝曲良性肿瘤", "contradiction": "服苯自杀"}
+{"origin": "结肠肝曲结肠脾区管状腺瘤部分腺体较增生", "entailment": "结肠脾曲良性肿瘤", "contradiction": "其他特指机动车辆之间碰撞造成的人员损伤,非交通性"}
+{"origin": "右腕部胡蜂蜇伤", "entailment": "蜂螫伤", "contradiction": "眼伴颈一度烧伤"}
+{"origin": "右腕部胡蜂蜇伤", "entailment": "腕部损伤", "contradiction": "石灰意外中毒"}
+{"origin": "甲状腺乳头状微小癌术后", "entailment": "乳头状微小癌", "contradiction": "交界恶性粘液性囊腺瘤"}
+{"origin": "甲状腺乳头状微小癌术后", "entailment": "甲状腺恶性肿瘤", "contradiction": "异物或物体经皮肤进入造成的损伤, 在未特指场所"}
+{"origin": "甲状腺乳头状微小癌术后", "entailment": "甲状腺术后", "contradiction": "肺动脉瓣狭窄伴有关闭不全"}
+{"origin": "多发性梗塞累及脑干", "entailment": "多发性脑梗死", "contradiction": "非致依赖性物质滥用"}
+{"origin": "多发性梗塞累及脑干", "entailment": "脑干梗死", "contradiction": "唇皮肤原位癌"}
+{"origin": "弥漫大b细胞性非霍奇金淋巴瘤", "entailment": "弥漫大b细胞淋巴瘤", "contradiction": "痛性肥胖病[德尔肯病]"}
+{"origin": "右梨状窝癌", "entailment": "梨状窝恶性肿瘤", "contradiction": "妊娠合并甲状腺功能减退"}
+{"origin": "右梨状窝癌", "entailment": "癌", "contradiction": "凝血功能障碍"}
+{"origin": "双肺间质纤维化并感染", "entailment": "肺间质纤维化", "contradiction": "细菌性心包炎"}
+{"origin": "双肺间质纤维化并感染", "entailment": "肺部感染", "contradiction": "大脑后动脉闭塞和狭窄"}
+{"origin": "右侧股骨内侧副韧带止点撕脱性骨折", "entailment": "股骨骨折", "contradiction": "髂总静脉压迫综合征[Cockett综合征]"}
+{"origin": "腰椎间盘突出症继发椎管狭窄", "entailment": "腰椎间盘突出", "contradiction": "先天性肺动脉发育不全"}
+{"origin": "腰椎间盘突出症继发椎管狭窄", "entailment": "腰椎管狭窄", "contradiction": "腰疝"}
+{"origin": "小细胞低色素多发性抽动", "entailment": "不自主运动", "contradiction": "唇部二度腐蚀伤"}
+{"origin": "小细胞低色素多发性抽动", "entailment": "低色素性小细胞性贫血", "contradiction": "腭恶性肿瘤"}
+{"origin": "胃窦病分化腺癌", "entailment": "胃窦恶性肿瘤", "contradiction": "眼球后良性肿瘤"}
+{"origin": "胃窦病分化腺癌", "entailment": "腺癌", "contradiction": "其他癫痫"}
+{"origin": "痛风肾病", "entailment": "痛风", "contradiction": "成年型重症肌无力,眼肌型"}
+{"origin": "痛风肾病", "entailment": "肾病", "contradiction": "创伤后指骨坏死"}
+{"origin": "乳腺癌术后骨转移严重骨质疏松", "entailment": "乳腺术后", "contradiction": "支气管损伤"}
+{"origin": "乳腺癌术后骨转移严重骨质疏松", "entailment": "乳腺恶性肿瘤", "contradiction": "躯干血管瘤"}
+{"origin": "乳腺癌术后骨转移严重骨质疏松", "entailment": "癌", "contradiction": "急性全骨髓增殖症"}
+{"origin": "乳腺癌术后骨转移严重骨质疏松", "entailment": "骨继发恶性肿瘤", "contradiction": "陈旧性心肌梗死"}
+{"origin": "乳腺癌术后骨转移严重骨质疏松", "entailment": "重度骨质疏松", "contradiction": "髋部烧伤"}
+{"origin": "乳腺癌术后骨转移严重骨质疏松", "entailment": "转移性癌", "contradiction": "卵巢、卵巢蒂和输卵管的扭转"}
+{"origin": "心肌缺血心功能降低", "entailment": "心肌供血不足", "contradiction": "皮肤其他的肥厚性疾患"}
+{"origin": "t细胞淋巴组织增殖性疾病1级增生性", "entailment": "淋巴细胞增殖性疾病", "contradiction": "产钳助产的单胎分娩"}
+{"origin": "非萎缩性胃炎", "entailment": "胃炎", "contradiction": "栅栏状包膜神经瘤"}
+{"origin": "骨癌", "entailment": "骨恶性肿瘤", "contradiction": "肌瘤"}
+{"origin": "骨癌", "entailment": "癌", "contradiction": "毛盘瘤"}
+{"origin": "左眼虹膜周边切除术房角分离术", "entailment": "眼术后", "contradiction": "头面部皮肤坏死"}
+{"origin": "停经32周b超提示延髓池增宽", "entailment": "妊娠状态", "contradiction": "肿瘤病引起的关节病(C00-D48+)"}
+{"origin": "右肘肱骨外髁骨不连", "entailment": "肱骨骨折不连接", "contradiction": "极严重的酒精中毒"}
+{"origin": "直肠憩室炎", "entailment": "憩室炎", "contradiction": "双侧腭裂 NOS"}
+{"origin": "脑炎后遗症", "entailment": "脑炎后综合征", "contradiction": "胃肠道继发恶性肿瘤"}
+{"origin": "胃癌?胃镜检查，预防出血", "entailment": "胃恶性肿瘤", "contradiction": "胰岛素抵抗"}
+{"origin": "胃癌?胃镜检查，预防出血", "entailment": "癌", "contradiction": "视神经萎缩"}
+{"origin": "多发腔隙性梗死脑干双侧基底节及放射冠区", "entailment": "腔隙性脑梗死", "contradiction": "引起听力缺陷的耳先天性畸形"}
+{"origin": "多发腔隙性梗死脑干双侧基底节及放射冠区", "entailment": "基底节脑梗死", "contradiction": "关节痛"}
+{"origin": "多发腔隙性梗死脑干双侧基底节及放射冠区", "entailment": "多发性脑梗死", "contradiction": "结膜烧伤"}
+{"origin": "宫颈低级别上皮内病变c1n1改变", "entailment": "子宫颈上皮瘤样病变[宫颈上皮内瘤变]1级", "contradiction": "其他意外悬吊和绞窄, 在未特指场所"}
+{"origin": "甲状腺腺瘤切除术后", "entailment": "甲状腺良性肿瘤", "contradiction": "腘动脉狭窄"}
+{"origin": "甲状腺腺瘤切除术后", "entailment": "腺瘤", "contradiction": "用从高处推下进行加害, 在未特指场所"}
+{"origin": "甲状腺腺瘤切除术后", "entailment": "甲状腺术后", "contradiction": "硬脊膜外肉芽肿"}
+{"origin": "内耳眩晕症", "entailment": "耳源性眩晕", "contradiction": "眉弓裂伤"}
+{"origin": "腹膜后及腹腔内多发稍大淋巴结", "entailment": "腹腔淋巴结肿大", "contradiction": "生育调查"}
+{"origin": "腹膜后及腹腔内多发稍大淋巴结", "entailment": "腹膜后淋巴结肿大", "contradiction": "多系统萎缩-小脑型"}
+{"origin": "肝恶性肿瘤肝硬化乙肝", "entailment": "肝恶性肿瘤", "contradiction": "创伤性手指缺如"}
+{"origin": "肝恶性肿瘤肝硬化乙肝", "entailment": "癌", "contradiction": "非传染性病因的全身炎症反应综合征伴有器官衰竭"}
+{"origin": "肝恶性肿瘤肝硬化乙肝", "entailment": "肝硬化", "contradiction": "盆腔结缔组织恶性肿瘤"}
+{"origin": "肝恶性肿瘤肝硬化乙肝", "entailment": "o", "contradiction": "髋部擦伤"}
+{"origin": "股4头肌末端病臀上皮神经卡压征", "entailment": "臀上皮神经卡压综合征[臀上皮神经炎]", "contradiction": "呼吸器官肿瘤的特殊筛查"}
+{"origin": "股4头肌末端病臀上皮神经卡压征", "entailment": "肌病", "contradiction": "2型糖尿病性局部的水肿斑点性视网膜病"}
+{"origin": "迟发型急性移植物抗宿主反应1度", "entailment": "急性移植物抗宿主病", "contradiction": "圆细胞骨肉瘤"}
+{"origin": "贫血血小板高2周", "entailment": "贫血", "contradiction": "躯体化的自主神经功能障碍,上消化道"}
+{"origin": "贫血血小板高2周", "entailment": "血小板增多", "contradiction": "青春期月经过多"}
+{"origin": "肛门扩约肌功能稍弱", "entailment": "肛门括约肌松弛", "contradiction": "人类免疫缺陷病毒[HIV]病造成的未特指的恶性肿瘤"}
+{"origin": "梨状窝鳞状细胞癌", "entailment": "梨状窝恶性肿瘤", "contradiction": "先天性膝关节滑膜骨软骨瘤病"}
+{"origin": "梨状窝鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "间位结肠"}
+{"origin": "新生儿缺氧缺血性脑损伤", "entailment": "新生儿缺氧缺血性脑病", "contradiction": "腹腔良性肿瘤"}
+{"origin": "双侧额叶脑出血术后", "entailment": "额叶出血", "contradiction": "巨细胞动脉炎伴风湿性多肌痛"}
+{"origin": "双侧额叶脑出血术后", "entailment": "脑术后", "contradiction": "包涵体肌病"}
+{"origin": "多发肋骨病变考虑骨结构不良", "entailment": "骨病变", "contradiction": "尿潴留"}
+{"origin": "多发肋骨病变考虑骨结构不良", "entailment": "肋骨纤维异常增殖症", "contradiction": "未特指的胆汁型肝硬变"}
+{"origin": "趾外翻", "entailment": "足畸形", "contradiction": "心尖肥厚型心肌病"}
+{"origin": "l1腰椎压缩性骨折", "entailment": "腰椎压缩性骨折", "contradiction": "未特指的胃肠出血"}
+{"origin": "贲门胃体病变内镜粘膜下剥离术", "entailment": "胃和十2指肠未指疾病", "contradiction": "高原性高血压"}
+{"origin": "左眼角膜间质纤维化伴灶性浅表糜烂", "entailment": "角膜糜烂", "contradiction": "脑神经损伤伴颈神经和脊髓损伤"}
+{"origin": "甲状腺低功4肾功不良", "entailment": "甲状腺功能减退", "contradiction": "胎儿脑积水"}
+{"origin": "甲状腺低功4肾功不良", "entailment": "肾功能异常", "contradiction": "孕40周"}
+{"origin": "右环指取除骨折内固定装置", "entailment": "取出骨折内固定装置", "contradiction": "急性细菌性痢疾"}
+{"origin": "右环指取除骨折内固定装置", "entailment": "指骨骨折", "contradiction": "轮胎爆炸伤"}
+{"origin": "左肱骨中下段不全骨裂", "entailment": "肱骨骨折", "contradiction": "主动脉硬化"}
+{"origin": "s2-3椎管囊性病灶", "entailment": "椎管囊肿", "contradiction": "塞扎里病"}
+{"origin": "左耳廓软骨组织部分呈变性改变", "entailment": "骨病变", "contradiction": "孕21周"}
+{"origin": "肛门佩吉特病", "entailment": "乳房以外的佩吉特病", "contradiction": "良性红细胞增多症"}
+{"origin": "肛门佩吉特病", "entailment": "肛门恶性肿瘤", "contradiction": "耳后瘘管"}
+{"origin": "增生的纤维结缔组织其内查见真菌", "entailment": "真菌感染", "contradiction": "腹腔动脉损伤"}
+{"origin": "右额颞叶脑梗死合并脑出血破入脑室", "entailment": "脑梗死", "contradiction": "红细胞沉降率升高"}
+{"origin": "右额颞叶脑梗死合并脑出血破入脑室", "entailment": "脑出血", "contradiction": "非器质性失眠症"}
+{"origin": "膀胱微乳头型尿路上皮癌", "entailment": "膀胱恶性肿瘤", "contradiction": "其他物质引起的刺激性接触性皮炎染料"}
+{"origin": "膀胱微乳头型尿路上皮癌", "entailment": "乳头状尿路上皮癌", "contradiction": "在抽吸,穿刺和其他导管插入术中无菌预防措施的失败"}
+{"origin": "双下肢胫前动脉闭塞双下肢胫后动脉闭塞", "entailment": "胫前动脉闭塞", "contradiction": "寄生虫病并发肌病"}
+{"origin": "双下肢胫前动脉闭塞双下肢胫后动脉闭塞", "entailment": "胫后动脉闭塞", "contradiction": "糖尿"}
+{"origin": "人偏肺病毒阳性", "entailment": "病毒感染", "contradiction": "结核性风湿病[篷塞病]"}
+{"origin": "先天性左肾缺失", "entailment": "先天性肾缺如", "contradiction": "悬雍垂良性肿瘤"}
+{"origin": "乳头状微癌", "entailment": "乳头状微小癌", "contradiction": "喉的其他先天性畸形"}
+{"origin": "阴囊阴茎派杰病", "entailment": "乳房以外的佩吉特病", "contradiction": "视网膜静脉炎"}
+{"origin": "阴囊阴茎派杰病", "entailment": "阴囊恶性肿瘤", "contradiction": "糖酵解酶代谢紊乱性贫血"}
+{"origin": "阴囊阴茎派杰病", "entailment": "阴茎恶性肿瘤", "contradiction": "视网膜层分离"}
+{"origin": "面双上肢灼伤10%2度", "entailment": "面部开放性损伤", "contradiction": "镍变应性接触性皮炎"}
+{"origin": "面双上肢灼伤10%2度", "entailment": "上肢开放性损伤", "contradiction": "先天性膀胱憩室"}
+{"origin": "化脓性脑膜炎恢复期", "entailment": "脑膜炎恢复期", "contradiction": "股癣"}
+{"origin": "意识不清待诊", "entailment": "意识障碍", "contradiction": "1型糖尿病性皮肤病"}
+{"origin": "左眼球挫裂伤", "entailment": "眼球挫伤", "contradiction": "外阴瘙痒(症)"}
+{"origin": "左眼球挫裂伤", "entailment": "眼球破裂伤", "contradiction": "小腿骨折"}
+{"origin": "回肠美克尔憩室炎", "entailment": "麦克尔憩室", "contradiction": "乳房原位癌"}
+{"origin": "回肠美克尔憩室炎", "entailment": "小肠憩室炎", "contradiction": "血浆蛋白未特指的异常"}
+{"origin": "铅高多动", "entailment": "铅中毒", "contradiction": "与家族有关的未特指问题"}
+{"origin": "铅高多动", "entailment": "注意缺陷与多动障碍", "contradiction": "耳源性脑脓肿"}
+{"origin": "左侧腰骶部血管性肿瘤", "entailment": "躯干血管瘤", "contradiction": "小阴唇二度烧伤"}
+{"origin": "左腹股沟疝术后", "entailment": "单侧腹股沟疝", "contradiction": "硫化氢意外中毒"}
+{"origin": "左腹股沟疝术后", "entailment": "腹股沟术后", "contradiction": "踝骨恶性肿瘤"}
+{"origin": "双胎13死胎725复白带", "entailment": "双胎妊娠", "contradiction": "腓肠神经损伤后遗症"}
+{"origin": "双胎13死胎725复白带", "entailment": "胎死宫内", "contradiction": "肩锁关节脱位"}
+{"origin": "-慢性盆腔炎", "entailment": "盆腔炎", "contradiction": "会厌脓肿"}
+{"origin": "1ga肾炎", "entailment": "1ga肾病", "contradiction": "附睾损伤"}
+{"origin": "宫腔异常回声待查节育环下移", "entailment": "避孕环移位", "contradiction": "脑膜炎型鼠疫"}
+{"origin": "停经345周mr提示胎儿后颅窝池增大", "entailment": "妊娠状态", "contradiction": "外唇唇红缘恶性肿瘤"}
+{"origin": "子宫发育异常", "entailment": "子宫畸形", "contradiction": "涉及运动场设施上的跌落造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "右足皮肤撕脱伴坏死", "entailment": "足部软组织撕脱伤", "contradiction": "其他特指的与女性生殖器官和月经周期有关的情况"}
+{"origin": "右足皮肤撕脱伴坏死", "entailment": "足坏死", "contradiction": "上肢烧伤后遗症"}
+{"origin": "胃窦溃疡型中低分化腺癌", "entailment": "胃窦恶性肿瘤", "contradiction": "避孕问题"}
+{"origin": "胃窦溃疡型中低分化腺癌", "entailment": "腺癌", "contradiction": "跗跖韧带损伤"}
+{"origin": "吞咽梗阻", "entailment": "吞咽困难", "contradiction": "1型糖尿病性增殖性前期局部缺血性视网膜病"}
+{"origin": "冠状动脉供血不足;高脂血症;焦虑状态;支架植入术后状态", "entailment": "冠状动脉供血不足", "contradiction": "早期人工流产(计划生育)"}
+{"origin": "冠状动脉供血不足;高脂血症;焦虑状态;支架植入术后状态", "entailment": "高脂血症", "contradiction": "剖宫产术的伤口破裂"}
+{"origin": "冠状动脉供血不足;高脂血症;焦虑状态;支架植入术后状态", "entailment": "焦虑状态", "contradiction": "原发性书写震颤"}
+{"origin": "冠状动脉供血不足;高脂血症;焦虑状态;支架植入术后状态", "entailment": "冠状动脉支架植入术后状态", "contradiction": "毛细胞白血病"}
+{"origin": "乳腺腺瘤", "entailment": "腺瘤", "contradiction": "无汗"}
+{"origin": "乳腺腺瘤", "entailment": "乳腺良性肿瘤", "contradiction": "妊娠合并甲状腺功能减退"}
+{"origin": "腮弓综合征发育筛查", "entailment": "第1、2鳃弓综合征[戈尔登哈尔综合征]", "contradiction": "子宫腺肌瘤"}
+{"origin": "创伤性硬膜下积液", "entailment": "硬膜下积液", "contradiction": "未特指的虐待综合征"}
+{"origin": "右隐睾包茎", "entailment": "单侧隐睾", "contradiction": "产褥期外阴静脉曲张"}
+{"origin": "右隐睾包茎", "entailment": "包茎", "contradiction": "蠕形螨病"}
+{"origin": "低磷抗d性软骨病转归其他", "entailment": "低磷血症", "contradiction": "直肠动态未定或动态未知的肿瘤"}
+{"origin": "低磷抗d性软骨病转归其他", "entailment": "抗维生素d性佝偻病", "contradiction": "成熟B细胞型急性淋巴细胞白血病"}
+{"origin": "胃食管交界区低分化腺癌4期", "entailment": "食管胃连接部恶性肿瘤", "contradiction": "甲癣"}
+{"origin": "胃食管交界区低分化腺癌4期", "entailment": "腺癌", "contradiction": "纯红细胞再生障碍性贫血"}
+{"origin": "右眼糖尿病视网膜病变2期", "entailment": "糖尿病视网膜病(e10-e14+伴有共用第4位数.3)", "contradiction": "未特指的事件造成的损伤, 意图不确定的,在工业和建筑区域"}
+{"origin": "停经351周b超提示胎儿心脏结构异常", "entailment": "妊娠状态", "contradiction": "多发性骨髓瘤(IgDλ型)"}
+{"origin": "乙状结肠隆起型中分化腺癌", "entailment": "乙状结肠恶性肿瘤", "contradiction": "煤油起火"}
+{"origin": "乙状结肠隆起型中分化腺癌", "entailment": "腺癌", "contradiction": "巨轴索神经病"}
+{"origin": "右腹股沟滤泡性淋巴瘤靶向治疗", "entailment": "滤泡淋巴瘤", "contradiction": "慢性前列腺炎"}
+{"origin": "右腹股沟滤泡性淋巴瘤靶向治疗", "entailment": "恶性肿瘤靶向治疗", "contradiction": "桡神经损伤后遗症"}
+{"origin": "上呼吸道感染哭闹待查", "entailment": "上呼吸道感染", "contradiction": "一氧化碳中毒迟发性脑病"}
+{"origin": "右半结肠回盲部腺癌", "entailment": "回盲部恶性肿瘤", "contradiction": "其他细菌性痢疾"}
+{"origin": "右半结肠回盲部腺癌", "entailment": "腺癌", "contradiction": "大脑中动脉瘤"}
+{"origin": "冠心病—心律失常", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "胎儿膈疝"}
+{"origin": "冠心病—心律失常", "entailment": "心律失常", "contradiction": "未特指的急性肾衰竭"}
+{"origin": "胃癌不除外", "entailment": "胃恶性肿瘤", "contradiction": "伯基特型小无核裂恶性淋巴瘤"}
+{"origin": "胃癌不除外", "entailment": "癌", "contradiction": "瘰疬分枝杆菌感染"}
+{"origin": "缺锌和缺铁明显", "entailment": "铁缺乏", "contradiction": "枫糖尿病"}
+{"origin": "缺锌和缺铁明显", "entailment": "锌缺乏", "contradiction": "颈椎骨折"}
+{"origin": "糖尿病高血压高血脂症", "entailment": "糖尿病", "contradiction": "其他和未特指的药物、药剂和生物制品的故意自毒及暴露于该类药物, 在工业和建筑区域"}
+{"origin": "糖尿病高血压高血脂症", "entailment": "高血压", "contradiction": "1型糖尿病性环状的黄斑病性视网膜病"}
+{"origin": "糖尿病高血压高血脂症", "entailment": "高脂血症", "contradiction": "十二指肠良性肿瘤"}
+{"origin": "食欲不振咽部梗阻感", "entailment": "食欲不振", "contradiction": "拇指腐蚀伤"}
+{"origin": "食欲不振咽部梗阻感", "entailment": "吞咽困难", "contradiction": "血清引起的过敏性休克"}
+{"origin": "右甲恶性肿瘤术后", "entailment": "甲状腺恶性肿瘤", "contradiction": "除恶性肿瘤外,为其他情况治疗后的随诊检查"}
+{"origin": "右甲恶性肿瘤术后", "entailment": "甲状腺术后", "contradiction": "腰椎退行性病变"}
+{"origin": "原发性高血压病(药物控制后,极高危)", "entailment": "原发性高血压", "contradiction": "眼伴头三度腐蚀伤"}
+{"origin": "双膝骨关病并游离体", "entailment": "膝关节游离体", "contradiction": "童年恐怖性焦虑障碍"}
+{"origin": "双膝骨关病并游离体", "entailment": "双侧膝关节骨性关节病", "contradiction": "足的其他先天性外翻变形"}
+{"origin": "左肺上叶腺癌ct3n3m0 3b期（第八版） 化疗", "entailment": "左肺上叶恶性肿瘤", "contradiction": "星状玻璃体病变"}
+{"origin": "左肺上叶腺癌ct3n3m0 3b期（第八版） 化疗", "entailment": "腺癌", "contradiction": "骶部结缔组织良性肿瘤"}
+{"origin": "左肺上叶腺癌ct3n3m0 3b期（第八版） 化疗", "entailment": "化学治疗", "contradiction": "未特指的细菌性痢疾"}
+{"origin": "左肺上叶腺癌ct3n3m0 3b期（第八版） 化疗", "entailment": "淋巴结继发恶性肿瘤", "contradiction": "病毒性肝炎甲型急性重型"}
+{"origin": "双眼闭角型青光眼（右眼抗青术后，左眼临床前期）", "entailment": "闭角型青光眼", "contradiction": "热和光的效应"}
+{"origin": "双眼闭角型青光眼（右眼抗青术后，左眼临床前期）", "entailment": "眼术后", "contradiction": "妊娠期间局部麻醉的中毒反应"}
+{"origin": "中耳长肠虫症", "entailment": "寄生虫病", "contradiction": "上唇口腔面恶性肿瘤"}
+{"origin": "颈髓脱髓鞘改变", "entailment": "脱髓鞘性脊髓病", "contradiction": "性虐待"}
+{"origin": "先天性颅裂枕部脑膜膨出", "entailment": "先天性脑膜膨出", "contradiction": "耳再造术后随诊医疗"}
+{"origin": "面部双手双下肢色素沉着待查", "entailment": "皮肤色素沉着", "contradiction": "未特指的骨骼产伤"}
+{"origin": "肉芽肿性唇炎", "entailment": "唇炎", "contradiction": "支气管交界性肿瘤"}
+{"origin": "非霍奇金弥漫性大b细胞淋巴瘤3期a", "entailment": "非霍奇金淋巴瘤", "contradiction": "转移性导管癌"}
+{"origin": "非霍奇金弥漫性大b细胞淋巴瘤3期a", "entailment": "弥漫大b细胞淋巴瘤", "contradiction": "镁代谢紊乱"}
+{"origin": "溶血原因自身免疫性溶血可能性大", "entailment": "自身免疫病", "contradiction": "拇外展功能障碍"}
+{"origin": "右手前臂过敏红肿痒", "entailment": "过敏反应", "contradiction": "拇指三度烧伤"}
+{"origin": "胆管错构瘤可能", "entailment": "胆管错构瘤", "contradiction": "亚急性髓样白血病"}
+{"origin": "肛门感觉异常阴部神经症候群", "entailment": "神经症性障碍", "contradiction": "低血糖性昏迷"}
+{"origin": "下肢静脉瓣膜功能不全", "entailment": "下肢静脉功能不全", "contradiction": "极性胶质母细胞瘤"}
+{"origin": "先天性青光眼", "entailment": "先天性水眼[眼积水]", "contradiction": "其他外耳炎"}
+{"origin": "咀嚼无力吞咽无力功能性疾病可能性大", "entailment": "吞咽障碍", "contradiction": "一度烧伤,身体部位未特指"}
+{"origin": "尺神经病变颈腰椎病取药", "entailment": "颈椎病", "contradiction": "大肠杆菌肠炎"}
+{"origin": "尺神经病变颈腰椎病取药", "entailment": "腰椎病", "contradiction": "糖尿病性肌萎缩"}
+{"origin": "子宫颈鳞状细胞癌1b1期g1-2", "entailment": "子宫颈恶性肿瘤", "contradiction": "听神经交界性肿瘤"}
+{"origin": "子宫颈鳞状细胞癌1b1期g1-2", "entailment": "鳞状细胞癌", "contradiction": "胸椎脱位T9/T10"}
+{"origin": "左侧颞顶枕部硬膜血肿机化", "entailment": "血肿机化", "contradiction": "老年性震颤"}
+{"origin": "双足第5趾外侧皮肤灼伤", "entailment": "足部损伤", "contradiction": "腘动脉狭窄"}
+{"origin": "宫内晚孕橫位", "entailment": "妊娠状态", "contradiction": "左侧输卵管积水"}
+{"origin": "停经22周b超提示胎儿右侧肺内异常回声", "entailment": "孕22周", "contradiction": "用悬吊、绞勒和窒息方式故意自害, 在贸易和服务区域"}
+{"origin": "格林巴利综合征可能性大脑白质病变不除外", "entailment": "吉兰-巴雷综合征", "contradiction": "海蓝组织细胞增生症"}
+{"origin": "格林巴利综合征可能性大脑白质病变不除外", "entailment": "脑白质病", "contradiction": "梭形细胞脂肪瘤"}
+{"origin": "肝部继发性恶性肿瘤", "entailment": "肝继发恶性肿瘤", "contradiction": "溃疡性(慢性)全结肠炎"}
+{"origin": "双下肢皮肤搔痒症", "entailment": "瘙痒症", "contradiction": "医疗性流产,完全性或未特指,并发栓塞"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "化学治疗", "contradiction": "躯干肌腱损伤"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "呕吐", "contradiction": "其他特指的病虫侵染"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "失眠", "contradiction": "累及颅骨和面骨的多处骨折"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "肺恶性肿瘤", "contradiction": "双肺恶性肿瘤"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "小细胞癌", "contradiction": "鲍氏志贺菌痢疾"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "脑继发恶性肿瘤", "contradiction": "腹腔妊娠后胎盘残留"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "化学治疗", "contradiction": "先天性食管畸形"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "白细胞减少", "contradiction": "其他的继发性骨坏死"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "便秘", "contradiction": "粒细胞白血病"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "高血压", "contradiction": "起源于围生期未特指的情况"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "肝功能异常", "contradiction": "其他特指的脑血管疾病"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "反流性食管炎", "contradiction": "非化脓性失状窦血栓形成"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "食管溃疡", "contradiction": "胆道恶性肿瘤史"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "疼痛", "contradiction": "除颤器感知功能不良"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "水肿", "contradiction": "口周皮炎"}
+{"origin": "化疗呕吐失眠,小细胞肺癌化疗脑转移癌,白细胞减少抗凝,行动不便便秘高血压,行动不便过敏肝功能异常,反流性食道炎伴溃疡便秘,重度疼痛抗过敏水肿利尿", "entailment": "转移性小细胞癌", "contradiction": "淋球菌性阴道炎"}
+{"origin": "低鼻眼袋成形", "entailment": "下睑袋", "contradiction": "布类用品着火引起的事故"}
+{"origin": "急性胆囊炎并胆囊结石", "entailment": "胆囊结石伴急性胆囊炎", "contradiction": "胃粘连"}
+{"origin": "先天性主动脉瓣畸形并中-重度关闭不全", "entailment": "先天性主动脉瓣畸形", "contradiction": "先天性汗管角化症"}
+{"origin": "先天性主动脉瓣畸形并中-重度关闭不全", "entailment": "先天性主动脉瓣关闭不全", "contradiction": "液体潴留"}
+{"origin": "创伤性脊椎病坎梅耳氏病", "entailment": "创伤后脊椎病", "contradiction": "新生儿脐带出血"}
+{"origin": "创伤性脊椎病坎梅耳氏病", "entailment": "kummell病", "contradiction": "产褥期急性肾衰竭"}
+{"origin": "异常子宫出血排卵障碍", "entailment": "异常子宫出血", "contradiction": "1型糖尿病性局部的水肿斑点性视网膜病"}
+{"origin": "右肾造瘘口漏尿", "entailment": "肾造口状态", "contradiction": "颅骨和面骨骨折后遗症"}
+{"origin": "冠心病高血压脑梗塞结膜炎", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "生育问题"}
+{"origin": "冠心病高血压脑梗塞结膜炎", "entailment": "高血压", "contradiction": "行人在未特指的交通事故中的损伤"}
+{"origin": "冠心病高血压脑梗塞结膜炎", "entailment": "脑梗死", "contradiction": "腹腔化疗泵外露"}
+{"origin": "冠心病高血压脑梗塞结膜炎", "entailment": "结膜炎", "contradiction": "肺念珠菌病"}
+{"origin": "右眼老年性白内障； 左眼白内障术后人工晶体眼； 双眼玻璃体混浊； 双眼视网膜动脉硬化", "entailment": "老年性白内障", "contradiction": "胰腺萎缩"}
+{"origin": "右眼老年性白内障； 左眼白内障术后人工晶体眼； 双眼玻璃体混浊； 双眼视网膜动脉硬化", "entailment": "人工晶体植入状态", "contradiction": "脑血管纤维性肌发育不良"}
+{"origin": "右眼老年性白内障； 左眼白内障术后人工晶体眼； 双眼玻璃体混浊； 双眼视网膜动脉硬化", "entailment": "玻璃体混浊", "contradiction": "感染性心包炎"}
+{"origin": "右眼老年性白内障； 左眼白内障术后人工晶体眼； 双眼玻璃体混浊； 双眼视网膜动脉硬化", "entailment": "视网膜动脉硬化", "contradiction": "心脏电子装置囊袋血肿"}
+{"origin": "双足扁平足双膝关节骨关节炎", "entailment": "双侧膝关节骨性关节病", "contradiction": "眼睑淤血"}
+{"origin": "双足扁平足双膝关节骨关节炎", "entailment": "扁平足", "contradiction": "枪击伤,加害"}
+{"origin": "淋巴瘤治疗后的随诊检查", "entailment": "淋巴瘤", "contradiction": "自然冷源效应"}
+{"origin": "淋巴瘤治疗后的随诊检查", "entailment": "淋巴瘤", "contradiction": "其他全身性抗感染药和抗寄生虫药中毒"}
+{"origin": "失眠(神经衰弱)", "entailment": "神经衰弱", "contradiction": "寰枢关节扭伤"}
+{"origin": "失眠(神经衰弱)", "entailment": "失眠", "contradiction": "脊膜膨出"}
+{"origin": "眼睑静脉畸形", "entailment": "周围静脉畸形", "contradiction": "陈旧性玻璃体非磁性异物"}
+{"origin": "双肺多发性囊性支扩肺心衰", "entailment": "心力衰竭", "contradiction": "耐其他青霉素类抗生素的菌株"}
+{"origin": "双肺多发性囊性支扩肺心衰", "entailment": "支气管扩张症", "contradiction": "鼓膜中心穿孔"}
+{"origin": "脑动脉瘤包裹术后", "entailment": "脑动脉瘤", "contradiction": "局部敷料和填塞物的温度不当"}
+{"origin": "脑动脉瘤包裹术后", "entailment": "脑术后", "contradiction": "出血性脑梗死"}
+{"origin": "脑动脉硬化脂肪肝", "entailment": "动脉硬化", "contradiction": "身体复合部位的创伤性切断"}
+{"origin": "脑动脉硬化脂肪肝", "entailment": "脂肪肝", "contradiction": "先天性风疹肺炎"}
+{"origin": "送检胎盘胎膜组织显退变伴钙盐沉积", "entailment": "钙质沉着症", "contradiction": "未特指的小汽车乘员在小汽车与两轮或三轮机动车碰撞非交通事故中的损伤"}
+{"origin": "多发腔隙性脑梗死灶", "entailment": "多发性脑梗死", "contradiction": "南方钩端螺旋体感染"}
+{"origin": "多发腔隙性脑梗死灶", "entailment": "腔隙性脑梗死", "contradiction": "小叶中心型肺气肿"}
+{"origin": "高级别乳腺导管原位癌伴局灶浸润", "entailment": "乳腺导管原位癌", "contradiction": "巴比妥类药物反应"}
+{"origin": "急性st段抬高型前间壁心肌梗死", "entailment": "急性前间壁心肌梗死", "contradiction": "多发脑梗死性痴呆"}
+{"origin": "急性st段抬高型前间壁心肌梗死", "entailment": "急性st段抬高型心肌梗死", "contradiction": "先天性瞳孔闭锁"}
+{"origin": "左拇指指腹皮肤缺失", "entailment": "皮肤缺损", "contradiction": "舌尖恶性肿瘤"}
+{"origin": "先天性肝内胆管扩张症", "entailment": "先天性胆管扩张", "contradiction": "麻黄素药物反应"}
+{"origin": "卵巢癌4期第2次化疗后", "entailment": "卵巢恶性肿瘤", "contradiction": "不完全医疗性流产并发出血"}
+{"origin": "卵巢癌4期第2次化疗后", "entailment": "化学治疗", "contradiction": "气管软化症"}
+{"origin": "卵巢癌4期第2次化疗后", "entailment": "癌", "contradiction": "灰泥角化病"}
+{"origin": "左肾透明细胞癌,右侧隐睾下降固定术后", "entailment": "肾恶性肿瘤", "contradiction": "其他特指的淹溺和沉没, 在家"}
+{"origin": "左肾透明细胞癌,右侧隐睾下降固定术后", "entailment": "透明细胞癌", "contradiction": "矫形外科用装置的安装和调整"}
+{"origin": "左肾透明细胞癌,右侧隐睾下降固定术后", "entailment": "隐睾", "contradiction": "麻醉剂和致幻药[致幻剂]故意自毒及暴露于该类药物, 不可归类在他处者, 在居住的公共设施"}
+{"origin": "先天性鞍鼻畸形", "entailment": "先天性鼻畸形", "contradiction": "肾未特指的先天性畸形"}
+{"origin": "先天性鞍鼻畸形", "entailment": "鞍鼻", "contradiction": "操作中血管损伤"}
+{"origin": "肝占位,肝癌", "entailment": "肝恶性肿瘤", "contradiction": "先天性隐性脊柱裂"}
+{"origin": "肝占位,肝癌", "entailment": "癌", "contradiction": "接触植物荆棘和刺以及锐利叶片的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "肝占位,肝癌", "entailment": "肝占位性病变", "contradiction": "未特指部位的急性透壁性心肌梗死"}
+{"origin": "结缔组织增生性黑素瘤待排", "entailment": "恶性黑色素瘤", "contradiction": "汞自杀"}
+{"origin": "头晕,高血压,糖尿病；脑出血恢复期", "entailment": "头晕", "contradiction": "脊柱其他先天性畸形,与脊柱侧弯无关"}
+{"origin": "头晕,高血压,糖尿病；脑出血恢复期", "entailment": "高血压", "contradiction": "甲状腺动态未定或动态未知的肿瘤"}
+{"origin": "头晕,高血压,糖尿病；脑出血恢复期", "entailment": "糖尿病", "contradiction": "肩关节结核"}
+{"origin": "头晕,高血压,糖尿病；脑出血恢复期", "entailment": "脑出血恢复期", "contradiction": "未特指的骑摩托车人员在摩托车与两轮或三轮机动车碰撞交通事故中的损伤"}
+{"origin": "不育待查严重弱精子症", "entailment": "男性不育症", "contradiction": "血管性脊髓病"}
+{"origin": "不育待查严重弱精子症", "entailment": "男方弱精症", "contradiction": "后天性脑穿通性囊肿"}
+{"origin": "下肢淤血性皮炎双侧", "entailment": "皮炎", "contradiction": "急性前间壁高侧壁心肌梗死"}
+{"origin": "侵入性肺曲霉病治疗后", "entailment": "肺曲霉菌病", "contradiction": "风疹不伴有并发症"}
+{"origin": "caa肺部感染", "entailment": "淀粉样脑血管病", "contradiction": "遗传性溶血性贫血"}
+{"origin": "caa肺部感染", "entailment": "肺部感染", "contradiction": "阿片样物质依赖综合征"}
+{"origin": "右胸腔巨大占位并胸腔积液", "entailment": "胸腔积液", "contradiction": "助消化药中毒"}
+{"origin": "右胸腔巨大占位并胸腔积液", "entailment": "胸部占位", "contradiction": "未特指的重型运输车乘员在重型运输车与两轮或三轮机动车碰撞交通事故中的损伤"}
+{"origin": "胎盘绒毛及蜕膜组织局部可见变性梗死", "entailment": "胎盘梗死", "contradiction": "前列腺上皮内肿瘤Ⅲ级"}
+{"origin": "右枕叶占位", "entailment": "脑占位性病变", "contradiction": "急性脑器质性综合征"}
+{"origin": "脐尿管瘘并感染", "entailment": "先天性脐尿管瘘", "contradiction": "完全性子宫阴道脱垂"}
+{"origin": "脐尿管瘘并感染", "entailment": "感染", "contradiction": "扁桃体残根炎"}
+{"origin": "强直性脊柱炎并胸腰椎后凸畸形", "entailment": "强直性脊柱炎", "contradiction": "结核性胃结肠瘘"}
+{"origin": "强直性脊柱炎并胸腰椎后凸畸形", "entailment": "胸椎后凸", "contradiction": "原发性肉碱缺乏症"}
+{"origin": "强直性脊柱炎并胸腰椎后凸畸形", "entailment": "腰椎后凸", "contradiction": "未特指的心律失常"}
+{"origin": "隐匿性抑郁慢性主观性头昏", "entailment": "抑郁状态", "contradiction": "直肠乙状结肠连接处恶性肿瘤"}
+{"origin": "隐匿性抑郁慢性主观性头昏", "entailment": "头晕", "contradiction": "免疫相关的慢性间质性肾炎"}
+{"origin": "先天性阴茎扭转", "entailment": "阴茎的其他先天性畸形", "contradiction": "吞咽和咀嚼问题个人史"}
+{"origin": "左侧室旁脱髓鞘左侧颞前小囊肿", "entailment": "脱髓鞘性脑病", "contradiction": "胎儿脂肪瘤病"}
+{"origin": "妊娠26周孕3产1先兆流产", "entailment": "孕26周", "contradiction": "皮肤卡波西肉瘤"}
+{"origin": "妊娠26周孕3产1先兆流产", "entailment": "先兆流产", "contradiction": "食管静脉曲张"}
+{"origin": "主动脉瓣钙化伴关闭不全", "entailment": "主动脉瓣关闭不全", "contradiction": "中度抑郁发作"}
+{"origin": "主动脉瓣钙化伴关闭不全", "entailment": "主动脉瓣钙化", "contradiction": "晚期先天性梅毒性眼病"}
+{"origin": "冠心病高血压骨关节病", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "未特指的糖尿病伴有酮症酸中毒"}
+{"origin": "冠心病高血压骨关节病", "entailment": "高血压", "contradiction": "未特指的上肢单神经病"}
+{"origin": "冠心病高血压骨关节病", "entailment": "骨关节病", "contradiction": "眼科药物和制剂中毒"}
+{"origin": "左侧髌骨骨梗死右膝髌股关节退变", "entailment": "单侧膝关节骨性关节病", "contradiction": "通过自然腔口进入的异物效应的后遗症"}
+{"origin": "左侧髌骨骨梗死右膝髌股关节退变", "entailment": "骨坏死", "contradiction": "轻型货车或篷车事故"}
+{"origin": "重度免疫相关性血细胞减少症", "entailment": "免疫相关性血细胞减少症（1rp）", "contradiction": "其他对精神有影响的药物中毒,不可归类在他处者"}
+{"origin": "腰椎病左侧神经根受压", "entailment": "腰椎病", "contradiction": "循环系统的其他先天性畸形"}
+{"origin": "核上性麻痹", "entailment": "进行性核上性眼肌麻痹[斯蒂尔-里查森-奥尔谢夫斯基]", "contradiction": "季肋部结缔组织恶性肿瘤"}
+{"origin": "右踝肿块", "entailment": "下肢肿物", "contradiction": "未特指的肛门恶性肿瘤"}
+{"origin": "左乳癌术后,右下肺占位", "entailment": "乳腺术后", "contradiction": "腕和手虫咬伤"}
+{"origin": "左乳癌术后,右下肺占位", "entailment": "癌", "contradiction": "性索-性腺间质瘤"}
+{"origin": "左乳癌术后,右下肺占位", "entailment": "乳腺恶性肿瘤", "contradiction": "涉及轮椅上的跌落造成的损伤, 在农场"}
+{"origin": "左乳癌术后,右下肺占位", "entailment": "肺占位性病变", "contradiction": "慢性复发性肝炎"}
+{"origin": "左踝和左足条索状疤痕左踝关节强直", "entailment": "踝关节强硬", "contradiction": "中耳交界性肿瘤"}
+{"origin": "左踝和左足条索状疤痕左踝关节强直", "entailment": "足部瘢痕", "contradiction": "尿布银屑病"}
+{"origin": "左踝和左足条索状疤痕左踝关节强直", "entailment": "踝部瘢痕", "contradiction": "病毒性脑膜炎"}
+{"origin": "粘膜扁平苔藓伴糜烂", "entailment": "扁平苔癣", "contradiction": "在注射或人工免疫中无菌预防措施的失败"}
+{"origin": "慢阻肺肺心病急性发作", "entailment": "肺源性心脏病", "contradiction": "被无毒昆虫和其他无毒节肢动物咬伤或螫伤, 在学校、其他机构和公共管理区域"}
+{"origin": "慢阻肺肺心病急性发作", "entailment": "慢性阻塞性肺疾病", "contradiction": "腹股沟淋巴结结核"}
+{"origin": "胰头肿物", "entailment": "胰腺肿物", "contradiction": "风湿热,未提及心脏受累"}
+{"origin": "失血性贫血", "entailment": "贫血", "contradiction": "脑吸虫病"}
+{"origin": "染色体平衡移位t'13", "entailment": "未指染色体异常", "contradiction": "朗格汉斯细胞组织细胞增生症"}
+{"origin": "双基底节区及双额深区多发腔隙性梗死", "entailment": "腔隙性脑梗死", "contradiction": "未特指的腭裂伴双侧唇裂"}
+{"origin": "双基底节区及双额深区多发腔隙性梗死", "entailment": "多发性脑梗死", "contradiction": "先天性弓形虫病"}
+{"origin": "双基底节区及双额深区多发腔隙性梗死", "entailment": "基底节脑梗死", "contradiction": "复合痣"}
+{"origin": "下肢胫前皮肤色素沉着", "entailment": "色素沉着未指疾患", "contradiction": "博氏线"}
+{"origin": "特指手术后状态(左腋窝术后改变、左胸壁术后积液)", "entailment": "其他特指的手术后状态", "contradiction": "分娩时Ⅳ度会阴裂伤"}
+{"origin": "特指手术后状态(左腋窝术后改变、左胸壁术后积液)", "entailment": "手术后胸腔积液", "contradiction": "流行性腮腺炎性脑膜脑炎"}
+{"origin": "g1p1孕41周已产lo", "entailment": "正常分娩", "contradiction": "新生儿未特指的呼吸性情况"}
+{"origin": "鼻咽癌肺转移、骨转移术后", "entailment": "鼻咽恶性肿瘤", "contradiction": "先天性漏斗胸"}
+{"origin": "鼻咽癌肺转移、骨转移术后", "entailment": "癌", "contradiction": "心功能IV级(NYHA分级)"}
+{"origin": "鼻咽癌肺转移、骨转移术后", "entailment": "骨继发恶性肿瘤", "contradiction": "由于信仰或群体压力使病人决定不进行免疫"}
+{"origin": "鼻咽癌肺转移、骨转移术后", "entailment": "转移性癌", "contradiction": "新生儿低钾血症"}
+{"origin": "左上臂开放性犬咬伤", "entailment": "上肢开放性损伤", "contradiction": "扁平腺瘤"}
+{"origin": "左上臂开放性犬咬伤", "entailment": "被狗咬伤", "contradiction": "感觉神经上皮瘤"}
+{"origin": "胃窦癌伴肝转移术后", "entailment": "胃窦恶性肿瘤", "contradiction": "钙尿"}
+{"origin": "胃窦癌伴肝转移术后", "entailment": "癌", "contradiction": "三轮机动车乘客在三轮机动车与小汽车、轻型货车或篷车碰撞中交通事故的损伤"}
+{"origin": "胃窦癌伴肝转移术后", "entailment": "肝继发恶性肿瘤", "contradiction": "器质性心境[情感]障碍"}
+{"origin": "胃窦癌伴肝转移术后", "entailment": "转移性癌", "contradiction": "前臂指屈肌和肌腱损伤"}
+{"origin": "手开放性伤口", "entailment": "手部开放性损伤", "contradiction": "行人在与小汽车、轻型货车或篷车碰撞中交通事故的损伤"}
+{"origin": "病脑视幻", "entailment": "病毒性脑炎", "contradiction": "法-美-英系统:M2型白血病t(8;21)(q22;q22)"}
+{"origin": "病脑视幻", "entailment": "幻视", "contradiction": "产褥期股内收肌腱炎"}
+{"origin": "双下肢麻烦待查骨关节炎", "entailment": "骨关节病", "contradiction": "眼伴面腐蚀伤"}
+{"origin": "直肠腺癌 第1次化疗", "entailment": "直肠恶性肿瘤", "contradiction": "立克次体脑炎"}
+{"origin": "直肠腺癌 第1次化疗", "entailment": "化学治疗", "contradiction": "腋静脉损伤"}
+{"origin": "直肠腺癌 第1次化疗", "entailment": "腺癌", "contradiction": "足舟骨连接不正"}
+{"origin": "前纵隔占位，小细胞恶性肿瘤", "entailment": "前纵隔恶性肿瘤", "contradiction": "坏死性溃疡性口炎"}
+{"origin": "前纵隔占位，小细胞恶性肿瘤", "entailment": "小细胞型恶性肿瘤", "contradiction": "被封闭于或陷入低氧环境造成的损伤, 在贸易和服务区域"}
+{"origin": "l12溶骨性破坏伴不全瘫", "entailment": "不完全性瘫痪", "contradiction": "在上下飞行器时的人员损伤"}
+{"origin": "l12溶骨性破坏伴不全瘫", "entailment": "骨质破坏", "contradiction": "副拇指"}
+{"origin": "先天性巨结肠(赫希施普隆氏病)", "entailment": "先天性巨结肠", "contradiction": "肩胛区挫伤"}
+{"origin": "先天性染色体病45xxrob1315", "entailment": "先天性染色体病", "contradiction": "皮肤移植失败"}
+{"origin": "食指近节关节囊破裂并关节面部分缺失", "entailment": "手指损伤", "contradiction": "其他品行障碍"}
+{"origin": "甲状旁腺腺瘤", "entailment": "甲状旁腺良性肿瘤", "contradiction": "慢性阻塞性肺疾病II级"}
+{"origin": "甲状旁腺腺瘤", "entailment": "腺瘤", "contradiction": "结核性大咯血"}
+{"origin": "下颌瞬目综合征左", "entailment": "下颌瞬目综合征[marcusgunn综合征]", "contradiction": "幼稚型睾丸"}
+{"origin": "左臂部恶性黑素瘤", "entailment": "上肢恶性黑色素瘤", "contradiction": "家族性激素生成障碍性甲状腺肿"}
+{"origin": "左臂部恶性黑素瘤", "entailment": "恶性黑色素瘤", "contradiction": "会阴恶性肿瘤"}
+{"origin": "下腹瘢痕痛", "entailment": "腹部瘢痕", "contradiction": "游走性血栓性静脉炎"}
+{"origin": "下腹瘢痕痛", "entailment": "疼痛", "contradiction": "结缔组织增生性毛发上皮瘤"}
+{"origin": "先天性肠重复畸形", "entailment": "肠重复畸形", "contradiction": "隐匿型肾小球肾炎"}
+{"origin": "肝内外胆管结石伴急性胆管炎", "entailment": "胆管结石伴急性胆囊炎", "contradiction": "冠状动脉旁路移植手术相关性心肌梗死"}
+{"origin": "右乳腺病伴导管扩张症及大汗腺化生", "entailment": "乳房未指疾患", "contradiction": "滑水板的其他水上事故"}
+{"origin": "右乳腺病伴导管扩张症及大汗腺化生", "entailment": "乳腺导管扩张症", "contradiction": "由于塌方、坠落土块和其他物质引起对呼吸的威胁, 在贸易和服务区域"}
+{"origin": "回盲部肠外肿瘤", "entailment": "回盲部肿瘤", "contradiction": "抗风湿药的有害效应"}
+{"origin": "右肺结节 肺癌不除外", "entailment": "肺占位性病变", "contradiction": "慢性低血压"}
+{"origin": "右肺结节 肺癌不除外", "entailment": "肺恶性肿瘤", "contradiction": "复发性抑郁障碍,目前为缓解状态"}
+{"origin": "右肺结节 肺癌不除外", "entailment": "癌", "contradiction": "睑痉挛"}
+{"origin": "乳腺动态未定肿瘤新d48600", "entailment": "乳房动态未定或动态未知的肿瘤", "contradiction": "滤泡性大细胞恶性淋巴瘤"}
+{"origin": "胸下段食管鳞状细胞癌", "entailment": "食管胸下段恶性肿瘤", "contradiction": "恶病质"}
+{"origin": "胸下段食管鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "未特指的船舶与水上运输有关的非船舶事故的淹溺和沉没"}
+{"origin": "子宫颈中低分化鳞状细胞癌", "entailment": "子宫颈恶性肿瘤", "contradiction": "食管异位组织"}
+{"origin": "子宫颈中低分化鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "心脏病的并发症和不明确表述"}
+{"origin": "肾上腺肿物腺瘤可能", "entailment": "肾上腺肿物", "contradiction": "胰管痉挛"}
+{"origin": "肾上腺肿物腺瘤可能", "entailment": "腺瘤", "contradiction": "腕骨关节损伤"}
+{"origin": "肾上腺肿物腺瘤可能", "entailment": "肾上腺良性肿瘤", "contradiction": "创伤性腰椎间盘破裂"}
+{"origin": "g2p0孕34+5周宫内妊娠l", "entailment": "孕34周", "contradiction": "心内膜弹力纤维增生症"}
+{"origin": "成骨不全双下肢畸形", "entailment": "成骨不全", "contradiction": "肝性肾病"}
+{"origin": "成骨不全双下肢畸形", "entailment": "先天性下肢畸形", "contradiction": "间质性肌炎"}
+{"origin": "全身多发神经纤维瘤病", "entailment": "神经纤维瘤病[vonrecklinghausen病]", "contradiction": "原发性双侧膝关节病"}
+{"origin": "削水果时不慎被水果刀划伤右手指", "entailment": "手指开放性损伤", "contradiction": "局限性缺血性肠病"}
+{"origin": "削水果时不慎被水果刀划伤右手指", "entailment": "接触刀、剑或匕首造成的损伤,在未特指场所", "contradiction": "粘膜皮肤淋巴结综合征[川崎病]"}
+{"origin": "良性前列腺增生术后", "entailment": "前列腺增生", "contradiction": "甲状腺恶性肿瘤"}
+{"origin": "良性前列腺增生术后", "entailment": "前列腺术后", "contradiction": "大于胎龄儿"}
+{"origin": "卵巢中低分化腺癌", "entailment": "卵巢恶性肿瘤", "contradiction": "小腿水泡"}
+{"origin": "卵巢中低分化腺癌", "entailment": "腺癌", "contradiction": "具有其他装置"}
+{"origin": "颌下皮瘘", "entailment": "皮肤瘘管", "contradiction": "胰腺分裂症"}
+{"origin": "左甲恶性肿瘤术后", "entailment": "甲状腺恶性肿瘤", "contradiction": "副乳腺腺病"}
+{"origin": "左甲恶性肿瘤术后", "entailment": "甲状腺术后", "contradiction": "氯胺酮急性中毒"}
+{"origin": "颅内支架置入术后", "entailment": "血管支架植入术后状态", "contradiction": "上呼吸道感染"}
+{"origin": "直肠恶性肿瘤免疫治疗", "entailment": "直肠恶性肿瘤", "contradiction": "小儿肠炎"}
+{"origin": "直肠恶性肿瘤免疫治疗", "entailment": "恶性肿瘤免疫治疗", "contradiction": "骶段脊髓脊膜膨出"}
+{"origin": "右腿撞伤", "entailment": "下肢未指损伤,水平未特指", "contradiction": "与慢性炎症相关弥漫大B细胞淋巴瘤"}
+{"origin": "慢性心衰急性加重期心功能4期", "entailment": "心功能4级(纽约心脏病协会分级)", "contradiction": "成人T-细胞淋巴瘤/白血病"}
+{"origin": "慢性心衰急性加重期心功能4期", "entailment": "慢性心力衰竭", "contradiction": "支气管哮喘(中度持续)"}
+{"origin": "慢性阻塞性肺病伴急性加重伴双肺肺炎", "entailment": "慢性阻塞性肺疾病急性加重", "contradiction": "创伤后双侧髋关节病"}
+{"origin": "慢性阻塞性肺病伴急性加重伴双肺肺炎", "entailment": "肺炎", "contradiction": "弓形虫脑膜脑炎"}
+{"origin": "冠状动脉粥样硬化性血管病", "entailment": "冠状动脉粥样硬化", "contradiction": "烟火发射造成的损伤"}
+{"origin": "糖尿病性末梢神经损坏脑供血障碍", "entailment": "脑血管供血不足", "contradiction": "其他的新生儿低钙血症"}
+{"origin": "糖尿病性末梢神经损坏脑供血障碍", "entailment": "未指糖尿病伴有神经的并发症", "contradiction": "在颈水平的创伤性切断"}
+{"origin": "先天性紫绀4联症", "entailment": "先天性心脏病", "contradiction": "妊娠合并系统性红斑狼疮"}
+{"origin": "先天性紫绀4联症", "entailment": "法洛4联症", "contradiction": "恶性上皮样间皮瘤"}
+{"origin": "双下肢粥样硬型闭塞症", "entailment": "下肢动脉粥样硬化闭塞症", "contradiction": "肥大性脊柱炎"}
+{"origin": "癫痫或癫痫综合征", "entailment": "癫痫", "contradiction": "燃烧的房屋或建筑结构塌陷"}
+{"origin": "左骨盆骨肉瘤复发术后(恩内金分期 3期)", "entailment": "骨盆恶性肿瘤", "contradiction": "航空病"}
+{"origin": "左骨盆骨肉瘤复发术后(恩内金分期 3期)", "entailment": "骨肉瘤", "contradiction": "肠扭转"}
+{"origin": "左骨盆骨肉瘤复发术后(恩内金分期 3期)", "entailment": "盆腔术后", "contradiction": "巨幼细胞遗传性贫血"}
+{"origin": "左骨盆骨肉瘤复发术后(恩内金分期 3期)", "entailment": "恶性肿瘤复发", "contradiction": "胸壁淋巴结结核"}
+{"origin": "前列腺滤泡腺癌放疗后", "entailment": "前列腺恶性肿瘤", "contradiction": "梅毒性肾炎"}
+{"origin": "前列腺滤泡腺癌放疗后", "entailment": "腺癌", "contradiction": "脊椎棘突吻合"}
+{"origin": "前列腺滤泡腺癌放疗后", "entailment": "恶性肿瘤放疗", "contradiction": "肩部二度烧伤"}
+{"origin": "腺性膀胱炎术后复查", "entailment": "腺性膀胱炎", "contradiction": "肺结节病"}
+{"origin": "腺性膀胱炎术后复查", "entailment": "膀胱术后", "contradiction": "急进型肾炎综合征,弥漫性肾小球膜性增生性肾小球肾炎"}
+{"origin": "头皮疖肿低钙", "entailment": "钙代谢紊乱", "contradiction": "静止龋"}
+{"origin": "头皮疖肿低钙", "entailment": "头部疖", "contradiction": "重症药疹"}
+{"origin": "乙状结肠癌肝多发转移原发灶切除术后（t4n1m1 4期）", "entailment": "结肠术后", "contradiction": "皮肤纤毛性囊肿"}
+{"origin": "乙状结肠癌肝多发转移原发灶切除术后（t4n1m1 4期）", "entailment": "乙状结肠恶性肿瘤", "contradiction": "人苍白杆菌菌血症"}
+{"origin": "乙状结肠癌肝多发转移原发灶切除术后（t4n1m1 4期）", "entailment": "肝继发恶性肿瘤", "contradiction": "四肢其他后天性变形"}
+{"origin": "乙状结肠癌肝多发转移原发灶切除术后（t4n1m1 4期）", "entailment": "癌", "contradiction": "斜颈"}
+{"origin": "乙状结肠癌肝多发转移原发灶切除术后（t4n1m1 4期）", "entailment": "转移性癌", "contradiction": "脊椎关节强硬"}
+{"origin": "腰椎膝骨关节炎", "entailment": "膝骨关节病", "contradiction": "用烟、火和火焰方式故意自害,在其他特指的场地"}
+{"origin": "腰椎膝骨关节炎", "entailment": "腰椎退行性病变", "contradiction": "肾囊血肿"}
+{"origin": "皮肤软组织撕脱并缺损", "entailment": "皮肤缺损", "contradiction": "迟缓性感觉神经病性膀胱"}
+{"origin": "肝占位病变,考虑肝癌", "entailment": "肝恶性肿瘤", "contradiction": "交通事故中轻型货车或篷车与脚踏车碰撞造成轻型货车或篷车司机的损伤"}
+{"origin": "肝占位病变,考虑肝癌", "entailment": "癌", "contradiction": "创伤性股动静脉瘘"}
+{"origin": "肝占位病变,考虑肝癌", "entailment": "肝占位性病变", "contradiction": "细菌性阴道炎"}
+{"origin": "胃壁间质瘤", "entailment": "胃肠道间质性瘤", "contradiction": "女性衣原体性盆腔炎"}
+{"origin": "右足外侧皮肤缺血坏死", "entailment": "下肢皮肤坏死", "contradiction": "分类于他处的其他疾病引起的泌尿道结石"}
+{"origin": "右足外侧皮肤缺血坏死", "entailment": "下肢供血不足", "contradiction": "高磷酸盐尿症"}
+{"origin": "左右侧颈动脉软斑及右侧锁骨下动脉混合斑", "entailment": "锁骨下动脉斑块", "contradiction": "未特指的小汽车乘员在小汽车与小汽车、轻型货车或篷车碰撞交通事故中的损伤"}
+{"origin": "升结肠癌并不全性肠梗阻", "entailment": "升结肠恶性肿瘤", "contradiction": "心理治疗后的随诊检查"}
+{"origin": "升结肠癌并不全性肠梗阻", "entailment": "不完全性肠梗阻", "contradiction": "过度嗜眠障碍[睡眠过度]"}
+{"origin": "升结肠癌并不全性肠梗阻", "entailment": "癌", "contradiction": "颅骨纤维增殖症"}
+{"origin": "室性早搏射频消融术后", "entailment": "室性期前收缩", "contradiction": "霍乱"}
+{"origin": "室性早搏射频消融术后", "entailment": "心脏射频消融术后", "contradiction": "前臂其他部位的开放性伤口"}
+{"origin": "患儿在玩耍时不慎跌伤", "entailment": "摔伤", "contradiction": "衣原体性腹膜炎"}
+{"origin": "右胫腓骨骨缺损性骨不连", "entailment": "腓骨骨折不连接", "contradiction": "哈勒沃登-施帕茨病"}
+{"origin": "右胫腓骨骨缺损性骨不连", "entailment": "胫骨骨折不连接", "contradiction": "先天性二尖瓣狭窄,二尖瓣上环"}
+{"origin": "乳麻尿", "entailment": "乳糜尿", "contradiction": "促结缔组织增生性成神经管细胞瘤"}
+{"origin": "皮肤软组织挫伤", "entailment": "皮肤挫伤", "contradiction": "肩胛骨恶性肿瘤"}
+{"origin": "胎-胎输血综合征供血者", "entailment": "双胎输血综合征", "contradiction": "唇连合的恶性肿瘤"}
+{"origin": "胎儿双肾发育异常", "entailment": "肾发育不全", "contradiction": "用其他和未特指的火器发射进行加害, 在体育和运动区域"}
+{"origin": "剑突下疼痛待查;心肌梗死;", "entailment": "剑突下疼痛", "contradiction": "其他机动车辆和两轮或三轮机动车之间碰撞造成的人员损伤(交通性)"}
+{"origin": "脊柱退变异位骨化", "entailment": "脊柱骨关节病", "contradiction": "镇癫痫药、镇静催眠药和抗帕金森病药中毒"}
+{"origin": "右示指皮肤缺失皮肤软组织缺失", "entailment": "皮肤缺损", "contradiction": "其他器官后天性缺失"}
+{"origin": "混合性肝细胞癌和胆管癌", "entailment": "肝细胞癌", "contradiction": "其他机动(汽垫船)非船舶事故的船上事故,未引起淹溺和沉没"}
+{"origin": "混合性肝细胞癌和胆管癌", "entailment": "胆管癌", "contradiction": "腹主动脉栓塞和血栓形成"}
+{"origin": "右下肢神经、血管损伤", "entailment": "身体未特指部位的神经损伤", "contradiction": "面部周围神经和自主神经良性肿瘤"}
+{"origin": "右下肢神经、血管损伤", "entailment": "身体未特指部位的血管损伤", "contradiction": "镇静剂或催眠剂精神病性障碍"}
+{"origin": "自身免疫性溶血性疾病(冷型)", "entailment": "自身免疫性溶血性贫血(冷型)", "contradiction": "卵巢硬化性囊性综合征"}
+{"origin": "肺源性心脏病失代偿期", "entailment": "肺源性心脏病", "contradiction": "在前臂水平的血管损伤"}
+{"origin": "双侧颈部淋巴结病变", "entailment": "淋巴结病", "contradiction": "鸟-胞内复合分枝杆菌感染"}
+{"origin": "慢性移植物抗宿主反应病口腔皮肤眼", "entailment": "慢性移植物抗宿主病", "contradiction": "未特指颅内动脉的蛛网膜下出血"}
+{"origin": "慢性荨麻疹（皮肤划痕征）", "entailment": "慢性荨麻疹", "contradiction": "镇静剂或催眠剂精神病性障碍"}
+{"origin": "慢性荨麻疹（皮肤划痕征）", "entailment": "人为性荨麻疹", "contradiction": "结肠动态未定或动态未知的肿瘤"}
+{"origin": "室性自搏心律", "entailment": "室性自搏", "contradiction": "尤因瘤"}
+{"origin": "右肺中叶外侧段肺组织膨胀不全", "entailment": "肺不张", "contradiction": "脑恶性肿瘤"}
+{"origin": "周围神经病慢性格林巴雷急性发作", "entailment": "吉兰-巴雷综合征", "contradiction": "先天性前尿道憩室"}
+{"origin": "周围神经病慢性格林巴雷急性发作", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "陈旧性腹腔结核"}
+{"origin": "双子宫双阴道", "entailment": "双阴道", "contradiction": "潜蚤病[沙蚤侵染]"}
+{"origin": "双子宫双阴道", "entailment": "双子宫", "contradiction": "分类于他处的疾病引起的脑的其他疾患"}
+{"origin": "胃早期癌", "entailment": "胃恶性肿瘤", "contradiction": "髂总动脉瘤"}
+{"origin": "胃早期癌", "entailment": "癌", "contradiction": "手部指伸肌损伤"}
+{"origin": "子宫颈癌2b", "entailment": "子宫颈恶性肿瘤", "contradiction": "电流引起电休克"}
+{"origin": "子宫颈癌2b", "entailment": "癌", "contradiction": "室管膜下神经胶质瘤"}
+{"origin": "桡骨骨折术后", "entailment": "桡骨骨折", "contradiction": "创伤性血胸"}
+{"origin": "桡骨骨折术后", "entailment": "骨折术后", "contradiction": "未特指的轻型货车或篷车乘员在轻型货车或篷车与两轮或三轮机动车碰撞非交通事故中的损伤"}
+{"origin": "双肾盂输尿管上段积液", "entailment": "输尿管积水", "contradiction": "髋周围神经和自主神经交界性肿瘤"}
+{"origin": "双肾盂输尿管上段积液", "entailment": "肾积水", "contradiction": "指甲一度腐蚀伤"}
+{"origin": "膀胱结石取石术后", "entailment": "膀胱结石", "contradiction": "心包破裂"}
+{"origin": "膀胱结石取石术后", "entailment": "膀胱术后", "contradiction": "甲状旁腺交界性肿瘤"}
+{"origin": "右侧中央型肺癌伴阻塞性肺炎", "entailment": "肺恶性肿瘤", "contradiction": "抗生素中毒"}
+{"origin": "右侧中央型肺癌伴阻塞性肺炎", "entailment": "阻塞性肺炎", "contradiction": "自发性血小板增多症"}
+{"origin": "右侧中央型肺癌伴阻塞性肺炎", "entailment": "癌", "contradiction": "阴道交界性肿瘤"}
+{"origin": "中耳炎(伴急性结膜炎)", "entailment": "中耳炎", "contradiction": "急性精神分裂样精神病性障碍"}
+{"origin": "中耳炎(伴急性结膜炎)", "entailment": "急性结膜炎", "contradiction": "子宫粘连闭锁综合征"}
+{"origin": "直肠中分化腺癌根治术后 3c期 pt4an2am0", "entailment": "直肠术后", "contradiction": "网状组织细胞瘤"}
+{"origin": "直肠中分化腺癌根治术后 3c期 pt4an2am0", "entailment": "直肠恶性肿瘤", "contradiction": "躯干浅表挫伤"}
+{"origin": "直肠中分化腺癌根治术后 3c期 pt4an2am0", "entailment": "腺癌", "contradiction": "未特指的氨基酸代谢紊乱"}
+{"origin": "直肠中分化腺癌根治术后 3c期 pt4an2am0", "entailment": "淋巴结继发恶性肿瘤", "contradiction": "躯干皮肤感染"}
+{"origin": "左颊部及右舌部扁平苔藓", "entailment": "口腔扁平苔癣", "contradiction": "用从高处推下进行加害, 在其他特指的场地"}
+{"origin": "左颊部及右舌部扁平苔藓", "entailment": "舌扁平苔癣", "contradiction": "乳头血性溢液"}
+{"origin": "右支气管肺恶性肿瘤", "entailment": "右肺恶性肿瘤", "contradiction": "点状角化病(掌跖)"}
+{"origin": "右乳乳腺纤维腺瘤", "entailment": "乳腺良性肿瘤", "contradiction": "钙质沉着症"}
+{"origin": "右乳乳腺纤维腺瘤", "entailment": "纤维腺瘤", "contradiction": "其他再植身体部位的并发症"}
+{"origin": "脑膜瘤放疗后", "entailment": "脑膜瘤", "contradiction": "扁平颅底"}
+{"origin": "脑膜瘤放疗后", "entailment": "恶性肿瘤放疗", "contradiction": "肋与肋软骨连接处综合征[Tietze综合征]"}
+{"origin": "卢滕巴赫综合征", "entailment": "卢滕巴赫综合征[卢滕巴赫综合征]", "contradiction": "颚骨恶性肿瘤"}
+{"origin": "右额颞顶部慢性硬膜下积液", "entailment": "硬脑膜下积液", "contradiction": "阿米巴感染"}
+{"origin": "传单反复扁桃体发炎", "entailment": "扁桃体炎", "contradiction": "从高处推下的谋害"}
+{"origin": "传单反复扁桃体发炎", "entailment": "传染性单核细胞增多症[腺性热]", "contradiction": "输精管狭窄"}
+{"origin": "右肾癌骨继发恶性肿瘤", "entailment": "肾恶性肿瘤", "contradiction": "脓毒症"}
+{"origin": "右肾癌骨继发恶性肿瘤", "entailment": "癌骨继发恶性肿瘤", "contradiction": "克里米亚-刚果出血热"}
+{"origin": "泌尿结石，软组织伤", "entailment": "泌尿系结石", "contradiction": "胸部结缔组织和软组织恶性肿瘤"}
+{"origin": "右肺鳞癌 ct4n3m1 4期", "entailment": "右肺恶性肿瘤", "contradiction": "慢性支气管炎慢性迁延期"}
+{"origin": "右肺鳞癌 ct4n3m1 4期", "entailment": "鳞状细胞癌", "contradiction": "粘膜皮肤淋巴结综合征[川崎病]"}
+{"origin": "右肺鳞癌 ct4n3m1 4期", "entailment": "淋巴结继发恶性肿瘤", "contradiction": "先天性眼外肌纤维化综合征"}
+{"origin": "第1趾末节部分缺血性坏死右足血供不足", "entailment": "下肢供血不足", "contradiction": "环形肉芽肿"}
+{"origin": "第1趾末节部分缺血性坏死右足血供不足", "entailment": "足坏死", "contradiction": "中心骨肉瘤"}
+{"origin": "眼眶骨瘤", "entailment": "眶骨良性肿瘤", "contradiction": "妊娠合并帆状胎盘"}
+{"origin": "胃淋巴肉瘤", "entailment": "胃淋巴瘤", "contradiction": "分类于他处的疾病引起的脑其他特指的疾患"}
+{"origin": "鼻咽癌放化疗术后6年复查", "entailment": "鼻咽恶性肿瘤", "contradiction": "胎儿和新生儿受臀位分娩和胎臀牵引术的影响"}
+{"origin": "鼻咽癌放化疗术后6年复查", "entailment": "癌", "contradiction": "肺嗜酸性粒细胞增多,不可归类在他处者"}
+{"origin": "鼻咽癌放化疗术后6年复查", "entailment": "恶性肿瘤放疗", "contradiction": "排便困难"}
+{"origin": "鼻咽癌放化疗术后6年复查", "entailment": "化学治疗", "contradiction": "肝胆管恶性肿瘤"}
+{"origin": "醣尿病肾功能轻度降低", "entailment": "未指糖尿病伴有肾的并发症", "contradiction": "免疫球蛋白反应"}
+{"origin": "粟粒疹", "entailment": "痱子", "contradiction": "与童年时失去所爱亲属有关"}
+{"origin": "右眼眼底黄斑变性", "entailment": "黄斑变性", "contradiction": "陈旧性膝关节软骨损伤"}
+{"origin": "颈45不稳伴退变", "entailment": "颈椎不稳定", "contradiction": "脊柱侧弯"}
+{"origin": "颈45不稳伴退变", "entailment": "颈椎退行性病变", "contradiction": "公共汽车乘员在公共汽车与行人或牲畜碰撞中的损伤"}
+{"origin": "右输尿管上段结石并积水", "entailment": "输尿管结石", "contradiction": "阴茎损伤"}
+{"origin": "右输尿管上段结石并积水", "entailment": "输尿管积水", "contradiction": "尿路上皮乳头状瘤"}
+{"origin": "左示指皮肤缺失伴小片甲床缺损", "entailment": "皮肤缺损", "contradiction": "精索囊肿"}
+{"origin": "右卵巢腺癌", "entailment": "卵巢恶性肿瘤", "contradiction": "背部脓肿"}
+{"origin": "右卵巢腺癌", "entailment": "腺癌", "contradiction": "气压和水压未特指的效应"}
+{"origin": "b0干骺软骨发育不良症b", "entailment": "干骺端发育不良", "contradiction": "铊意外中毒"}
+{"origin": "左膝关节内侧半月板后角附着点撕脱性骨折", "entailment": "膝关节骨折", "contradiction": "身体复合部位的损伤"}
+{"origin": "多脏器功能障碍衰竭急性呼吸窘迫综合征肾血液心脏胃肠", "entailment": "急性呼吸窘迫综合征", "contradiction": "类阿片和相关镇痛药的有害效应"}
+{"origin": "多脏器功能障碍衰竭急性呼吸窘迫综合征肾血液心脏胃肠", "entailment": "多脏器功能衰竭", "contradiction": "妊娠合并智力低下"}
+{"origin": "新生儿缺氧缺血性脑病并颅内出血", "entailment": "新生儿缺氧缺血性脑病", "contradiction": "后天性趾缺失"}
+{"origin": "新生儿缺氧缺血性脑病并颅内出血", "entailment": "颅内出血", "contradiction": "十二指肠憩室伴穿孔"}
+{"origin": "左髋关节骨关节炎", "entailment": "髋骨关节病", "contradiction": "胆囊瘘"}
+{"origin": "癫痫。运动发育落后", "entailment": "癫痫", "contradiction": "气管原位癌"}
+{"origin": "横结肠1管状腺瘤横结肠2管状腺瘤", "entailment": "管状腺瘤", "contradiction": "盘尾丝虫病"}
+{"origin": "横结肠1管状腺瘤横结肠2管状腺瘤", "entailment": "横结肠良性肿瘤", "contradiction": "含硅[矽]粉尘引起的肺尘埃沉着病"}
+{"origin": "右上腭及右扁桃体经典霍奇金淋巴瘤化疗后", "entailment": "经典型霍奇金淋巴瘤", "contradiction": "急性外耳炎,非感染性"}
+{"origin": "右上腭及右扁桃体经典霍奇金淋巴瘤化疗后", "entailment": "扁桃体淋巴瘤", "contradiction": "社交恐怖"}
+{"origin": "右上腭及右扁桃体经典霍奇金淋巴瘤化疗后", "entailment": "化学治疗", "contradiction": "急性肾炎伴坏死性肾小球肾炎损害"}
+{"origin": "面部双手多处划伤", "entailment": "面部开放性损伤", "contradiction": "累及体表40-49%的烧伤"}
+{"origin": "面部双手多处划伤", "entailment": "手部开放性损伤", "contradiction": "其他机动船(汽垫船)事故引起的其他损伤"}
+{"origin": "双侧骨性关节炎", "entailment": "骨关节病", "contradiction": "脑膜炎球菌感染"}
+{"origin": "肝内多发占位与肝硬化", "entailment": "肝硬化", "contradiction": "结核性大咯血"}
+{"origin": "肝内多发占位与肝硬化", "entailment": "肝占位性病变", "contradiction": "人工性痤疮"}
+{"origin": "右肺低分化鳞状细胞癌", "entailment": "右肺恶性肿瘤", "contradiction": "气管开放性损伤"}
+{"origin": "右肺低分化鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "新生儿病毒血症"}
+{"origin": "中度混合性听力下降", "entailment": "未指混合性传导性和感音神经性听觉丧失", "contradiction": "尿道膀胱三角炎"}
+{"origin": "左股骨骨质破坏区姑息性放疗后", "entailment": "骨质破坏", "contradiction": "肺真菌感染"}
+{"origin": "左股骨骨质破坏区姑息性放疗后", "entailment": "姑息医疗", "contradiction": "与有害事件有关的矫形外科装置,多用途装置,不可归类在他处者"}
+{"origin": "左股骨骨质破坏区姑息性放疗后", "entailment": "放射治疗", "contradiction": "睑腺炎和睑板腺囊肿"}
+{"origin": "多发骨质破坏原因代谢性骨病氟骨病肿瘤", "entailment": "骨质破坏", "contradiction": "肥厚性主动脉瓣下狭窄"}
+{"origin": "多发骨质破坏原因代谢性骨病氟骨病肿瘤", "entailment": "氟骨症", "contradiction": "从飞行器上跌落"}
+{"origin": "多发骨质破坏原因代谢性骨病氟骨病肿瘤", "entailment": "性质未指肿瘤", "contradiction": "暴露于未特指的烟、火和火焰下造成的损伤,在其他特指的场地"}
+{"origin": "左额硬膜下血肿非创伤性", "entailment": "非创伤性硬脑膜下血肿", "contradiction": "未特指的骑脚踏车人员在非交通事故中的损伤"}
+{"origin": "原发性甲状腺功能减退症（甲状腺囊肿术后甲减）", "entailment": "原发性甲状腺功能减退", "contradiction": "其他特指的关节紊乱"}
+{"origin": "原发性甲状腺功能减退症（甲状腺囊肿术后甲减）", "entailment": "甲状腺囊肿", "contradiction": "浅昏迷"}
+{"origin": "原发性甲状腺功能减退症（甲状腺囊肿术后甲减）", "entailment": "甲状腺功能减退", "contradiction": "结肠重复畸形"}
+{"origin": "右面部软组织挫裂伤", "entailment": "面部软组织挫伤", "contradiction": "眼底出血"}
+{"origin": "腰45右侧小关节异常改变请结合定位检查", "entailment": "腰椎小关节紊乱", "contradiction": "口腔黏膜开放性损伤"}
+{"origin": "右眼黄斑裂口", "entailment": "黄斑裂孔", "contradiction": "未特指的动物源性细菌性疾病"}
+{"origin": "智力语言发育差原因待查", "entailment": "言语和语言发育障碍", "contradiction": "多种药物和其他精神活性物质所致的遗忘综合征"}
+{"origin": "退行性心瓣膜病变", "entailment": "心脏瓣膜病", "contradiction": "原发性月经稀少"}
+{"origin": "双膝外侧盘状半月板", "entailment": "先天性盘状半月板", "contradiction": "肺脓肿伴肺炎"}
+{"origin": "胃食管结合部癌综合治疗后吻合口复发", "entailment": "食管胃连接部恶性肿瘤", "contradiction": "下肢开放性伤口,水平未特指"}
+{"origin": "胃食管结合部癌综合治疗后吻合口复发", "entailment": "癌", "contradiction": "季肋部结缔组织恶性肿瘤"}
+{"origin": "胃食管结合部癌综合治疗后吻合口复发", "entailment": "恶性肿瘤复发", "contradiction": "成熟的T-细胞淋巴瘤"}
+{"origin": "宫颈上皮内瘤样病变2-3级", "entailment": "子宫颈上皮内瘤变3级[宫颈上皮内瘤变3级]", "contradiction": "颈椎结核性截瘫"}
+{"origin": "宫颈上皮内瘤样病变2-3级", "entailment": "宫颈上皮瘤样病变[宫颈上皮内瘤变]2级", "contradiction": "皮肤阿米巴病"}
+{"origin": "双膝关节髌上滑膜皱襞综合症", "entailment": "膝关节滑膜皱襞综合征", "contradiction": "撞在体育设施上或被体育设施击中造成的损伤, 在家"}
+{"origin": "先天性胆道扩张症", "entailment": "先天性胆管扩张", "contradiction": "接触动力家庭用具"}
+{"origin": "下腹疼痛（盆腔炎？）", "entailment": "下腹痛", "contradiction": "未特指的淹溺和沉没, 在家"}
+{"origin": "下腹疼痛（盆腔炎？）", "entailment": "女性盆腔炎", "contradiction": "Ⅲ度压疮"}
+{"origin": "右足犬抓伤", "entailment": "足部开放性损伤", "contradiction": "输尿管术后"}
+{"origin": "右足犬抓伤", "entailment": "被狗抓伤", "contradiction": "家族性致死性睡眠症"}
+{"origin": "右髂动脉及股动脉支架置入术", "entailment": "血管支架植入术后状态", "contradiction": "鼻部恶性肿瘤"}
+{"origin": "左小脑半球血管网状细胞病", "entailment": "烟雾病[脑底异常血管网病]", "contradiction": "带状疱疹眼病"}
+{"origin": "名称子宫下段剖宫产术", "entailment": "无指征剖宫产的单胎分娩", "contradiction": "肾源性红细胞增多症"}
+{"origin": "腹膜后平滑肌肉瘤", "entailment": "腹膜后恶性肿瘤", "contradiction": "外阴鳞状上皮增生"}
+{"origin": "腹膜后平滑肌肉瘤", "entailment": "平滑肌肉瘤", "contradiction": "累及身体多个部位的骨折"}
+{"origin": "右眼急性视网膜坏死", "entailment": "急性视网膜坏死综合征", "contradiction": "肠病毒性淋巴结咽炎"}
+{"origin": "左额叶脑肿胀", "entailment": "脑水肿", "contradiction": "脾先天性畸形"}
+{"origin": "左枕部皮肤划伤", "entailment": "头皮开放性损伤", "contradiction": "实验室检查"}
+{"origin": "癌症化放疗", "entailment": "癌症", "contradiction": "鼠咬热"}
+{"origin": "癌症化放疗", "entailment": "恶性肿瘤放疗", "contradiction": "多发性神经纤维瘤病"}
+{"origin": "癌症化放疗", "entailment": "化学治疗", "contradiction": "高降钙素血症"}
+{"origin": "右手中指伸肌腱止点撕脱性骨折", "entailment": "指骨骨折", "contradiction": "膝挤压伤"}
+{"origin": "多发性周围神经运动支感觉支脱髓鞘异常", "entailment": "脱髓鞘病", "contradiction": "结晶体性关节病"}
+{"origin": "多发性周围神经运动支感觉支脱髓鞘异常", "entailment": "多发性神经病[多发性神经炎/周围神经炎]", "contradiction": "慢性淋巴细胞白血病"}
+{"origin": "完全流产", "entailment": "流产,完全性或未特指,无并发症", "contradiction": "白内障术后(大泡性无晶状体的)角膜病变"}
+{"origin": "停经236周b超提示胎儿心脏双主动脉弓", "entailment": "妊娠状态", "contradiction": "暴露于其他和未特指的无生命机械性力量下造成的损伤, 在居住的公共设施"}
+{"origin": "停经236周b超提示胎儿心脏双主动脉弓", "entailment": "先天性双主动脉弓", "contradiction": "全身炎症反应综合征"}
+{"origin": "停经236周b超提示胎儿心脏双主动脉弓", "entailment": "胎儿先天性心脏病", "contradiction": "妊娠合并肾结石"}
+{"origin": "双耳先天性极重度感音神经性聋", "entailment": "双侧感音神经性聋", "contradiction": "未特指的铁路事故中火车或铁路车辆乘员的损伤"}
+{"origin": "双耳先天性极重度感音神经性聋", "entailment": "先天性聋", "contradiction": "良性红细胞增多症"}
+{"origin": "1妊娠晚期胎盘伴灶片状钙化2胎膜大致正常", "entailment": "妊娠状态", "contradiction": "脐茸"}
+{"origin": "右眼戈尔登哈尔综合征", "entailment": "第1、2鳃弓综合征[戈尔登哈尔综合征]", "contradiction": "阑尾的类癌瘤"}
+{"origin": "急性粒细胞减少症", "entailment": "中性粒细胞减少症", "contradiction": "其他和未特指细菌疫苗类的有害效应"}
+{"origin": "4、右胫骨中段骨折术后骨愈合", "entailment": "胫骨骨折", "contradiction": "腱鞘囊肿"}
+{"origin": "4、右胫骨中段骨折术后骨愈合", "entailment": "骨折术后", "contradiction": "旋转斜视"}
+{"origin": "主动脉瓣换瓣术后", "entailment": "具有其他心脏瓣膜置换", "contradiction": "中位心"}
+{"origin": "鼻腔放化疗后", "entailment": "恶性肿瘤放疗", "contradiction": "在非碰撞性事故中骑手或乘员从牲畜或畜挽车辆上跌落或抛出"}
+{"origin": "鼻腔放化疗后", "entailment": "化学治疗", "contradiction": "被鼠咬伤, 在其他特指的场地"}
+{"origin": "鼻腔放化疗后", "entailment": "鼻腔恶性肿瘤", "contradiction": "消化系统的其他操作后疾患。不可归类在他处者"}
+{"origin": "特指手术后状态(右肝癌术后)", "entailment": "肝恶性肿瘤", "contradiction": "新生儿肺不张"}
+{"origin": "特指手术后状态(右肝癌术后)", "entailment": "癌", "contradiction": "喉蹼"}
+{"origin": "特指手术后状态(右肝癌术后)", "entailment": "肝术后", "contradiction": "骶部脊髓功能损伤"}
+{"origin": "特指手术后状态(右肝癌术后)", "entailment": "其他特指的手术后状态", "contradiction": "丘疹性血管增生"}
+{"origin": "重度骨质疏松(绝经期)", "entailment": "重度骨质疏松", "contradiction": "神经系统的其他疾患,不可归类在他处者"}
+{"origin": "重度骨质疏松(绝经期)", "entailment": "绝经期", "contradiction": "非酮病性高甘胺酸血症"}
+{"origin": "肝胆管粘液腺癌", "entailment": "肝胆管恶性肿瘤", "contradiction": "小肠阴道瘘"}
+{"origin": "肝胆管粘液腺癌", "entailment": "粘液腺癌", "contradiction": "大泡性角膜病变"}
+{"origin": "孕38+1周羊水偏少", "entailment": "孕38周", "contradiction": "口腔黏膜韦格纳肉芽肿"}
+{"origin": "孕38+1周羊水偏少", "entailment": "羊水过少", "contradiction": "坏疽性肉芽肿"}
+{"origin": "左侧下肢多发a-v瘘", "entailment": "动静脉瘘", "contradiction": "肩部良性肿瘤"}
+{"origin": "右肺周围型中分化腺癌", "entailment": "右肺恶性肿瘤", "contradiction": "唾液腺交界性肿瘤"}
+{"origin": "右肺周围型中分化腺癌", "entailment": "腺癌", "contradiction": "垂体瘢痕形成"}
+{"origin": "子宫腺肌病。增生期子宫内膜。子宫内膜息肉", "entailment": "子宫肌腺症", "contradiction": "精囊炎"}
+{"origin": "子宫腺肌病。增生期子宫内膜。子宫内膜息肉", "entailment": "子宫内膜息肉", "contradiction": "片吸虫病"}
+{"origin": "脑内多发缺血性脱髓鞘6双侧上颌窦少量积液", "entailment": "脱髓鞘性脑病", "contradiction": "双胎妊娠"}
+{"origin": "脑内多发缺血性脱髓鞘6双侧上颌窦少量积液", "entailment": "脑血管供血不足", "contradiction": "器质性抑郁障碍"}
+{"origin": "右胸壁脂肪坏死", "entailment": "脂肪坏死", "contradiction": "冠状动脉动静脉瘘"}
+{"origin": "残胃癌并梗阻", "entailment": "残胃恶性肿瘤", "contradiction": "人为热源效应"}
+{"origin": "残胃癌并梗阻", "entailment": "癌", "contradiction": "心导管插入术作为病人异常反应或以后并发症的原因,而在操作当时并未提及意外事故"}
+{"origin": "右肺上叶鳞癌", "entailment": "右肺上叶恶性肿瘤", "contradiction": "药物性自身免疫性溶血性贫血"}
+{"origin": "右肺上叶鳞癌", "entailment": "鳞状细胞癌", "contradiction": "颈椎棘突神经根的损伤"}
+{"origin": "待查重叠重合征低钾血征", "entailment": "低钾血症", "contradiction": "手术后脑脊液漏"}
+{"origin": "待查重叠重合征低钾血征", "entailment": "重叠综合征", "contradiction": "腹部管圆线虫病"}
+{"origin": "肝胃不和血脂高", "entailment": "高脂血症", "contradiction": "接触蝎子造成的损伤"}
+{"origin": "其他诊断完全性肺静脉异位引流——混合型", "entailment": "完全性肺静脉异位引流,混合型", "contradiction": "分类于他处的疾病引起的循环系统的其他疾患"}
+{"origin": "鼻咽分化型非角化癌", "entailment": "鼻咽恶性肿瘤", "contradiction": "局部相关性(局灶性)(部分)症状性癫痫和伴有复杂部分发作的癫痫综合征"}
+{"origin": "鼻咽分化型非角化癌", "entailment": "癌", "contradiction": "爱德华兹综合征和帕套综合征"}
+{"origin": "滑膜炎左膝滑膜皱襞综合症", "entailment": "滑膜炎", "contradiction": "新生儿双胎输血综合征"}
+{"origin": "滑膜炎左膝滑膜皱襞综合症", "entailment": "膝关节滑膜皱襞综合征", "contradiction": "接触其他热的金属造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "多点取材仅见少量高度变性癌细胞胃壁全", "entailment": "胃恶性肿瘤", "contradiction": "特指的运输事故"}
+{"origin": "多点取材仅见少量高度变性癌细胞胃壁全", "entailment": "癌", "contradiction": "接触热的取暖器具、散热器和管造成的损伤,在未特指场所"}
+{"origin": "糖尿病消化不良高尿酸高血脂", "entailment": "糖尿病", "contradiction": "在自然水域中淹溺和沉没, 在街道和公路"}
+{"origin": "糖尿病消化不良高尿酸高血脂", "entailment": "消化不良", "contradiction": "肉瘤样肾细胞癌"}
+{"origin": "糖尿病消化不良高尿酸高血脂", "entailment": "高尿酸血症", "contradiction": "中枢神经母细胞瘤"}
+{"origin": "糖尿病消化不良高尿酸高血脂", "entailment": "高脂血症", "contradiction": "高度房室传导阻滞"}
+{"origin": "胃底病变内镜粘膜下剥离术", "entailment": "胃和十2指肠未指疾病", "contradiction": "与有害事件有关的放射学装置,诊断和监测装置"}
+{"origin": "胸部腹部软组织肿瘤", "entailment": "腹部肿瘤", "contradiction": "屏气发作"}
+{"origin": "胸部腹部软组织肿瘤", "entailment": "胸部肿瘤", "contradiction": "单克隆免疫球蛋白沉积病"}
+{"origin": "系统性硬皮病并雷诺病", "entailment": "系统性硬化症", "contradiction": "乳头炎"}
+{"origin": "系统性硬皮病并雷诺病", "entailment": "雷诺综合征", "contradiction": "小儿肠炎"}
+{"origin": "结肠癌术后，化疗后", "entailment": "结肠恶性肿瘤", "contradiction": "其他库欣综合征"}
+{"origin": "结肠癌术后，化疗后", "entailment": "癌", "contradiction": "可卡因意外中毒"}
+{"origin": "结肠癌术后，化疗后", "entailment": "恶性肿瘤术后化疗", "contradiction": "泌乳抑制"}
+{"origin": "腰椎压缩性骨折l3", "entailment": "腰椎压缩性骨折", "contradiction": "施莫尔结"}
+{"origin": "腰椎压缩性骨折l3", "entailment": "腰椎骨折l3", "contradiction": "胰腺先天性囊肿"}
+{"origin": "右侧乳腺外上象限恶性肿瘤", "entailment": "乳腺外上象限恶性肿瘤", "contradiction": "混合性强迫思维和动作"}
+{"origin": "剖宫产后，低热", "entailment": "经未指剖宫产术分娩", "contradiction": "脊髓小脑性共济失调"}
+{"origin": "剖宫产后，低热", "entailment": "发热", "contradiction": "其他特指的对呼吸的威胁, 在居住的公共设施"}
+{"origin": "左小腿浅静脉血栓，软组织挫伤", "entailment": "下肢静脉血栓形成", "contradiction": "金属烟热"}
+{"origin": "外院cavccoa左心发育欠佳", "entailment": "左心发育不良综合征", "contradiction": "二尖瓣狭窄伴有关闭不全"}
+{"origin": "颅骨后天性缺损", "entailment": "后天性颅骨缺损", "contradiction": "睾丸一度腐蚀伤"}
+{"origin": "腰椎压缩性骨折术后", "entailment": "腰椎压缩性骨折", "contradiction": "原发皮肤B细胞淋巴瘤"}
+{"origin": "腰椎压缩性骨折术后", "entailment": "骨折术后", "contradiction": "甲横沟"}
+{"origin": "运动神经功能损害", "entailment": "运动神经元病", "contradiction": "复发心境[情感]障碍"}
+{"origin": "牙周炎a67牙本质过敏c2-d1楔缺", "entailment": "牙本质过敏症", "contradiction": "颈部未特指的损伤"}
+{"origin": "牙周炎a67牙本质过敏c2-d1楔缺", "entailment": "牙齿楔状缺损", "contradiction": "未特指的蛛网膜下出血"}
+{"origin": "牙周炎a67牙本质过敏c2-d1楔缺", "entailment": "牙周炎", "contradiction": "艾滋病痴呆综合征"}
+{"origin": "浸润性突眼", "entailment": "突眼性情况", "contradiction": "颈椎间盘疾患"}
+{"origin": "宫颈鳞状细胞癌3b期化疗后", "entailment": "子宫颈恶性肿瘤", "contradiction": "唾液分泌紊乱"}
+{"origin": "宫颈鳞状细胞癌3b期化疗后", "entailment": "鳞状细胞癌", "contradiction": "具有其他心脏瓣膜置换"}
+{"origin": "宫颈鳞状细胞癌3b期化疗后", "entailment": "化学治疗", "contradiction": "腓骨近端骨折"}
+{"origin": "2双下肢股骨头坏死", "entailment": "股骨头缺血性坏死", "contradiction": "缺氧性脑损害,不可归类在他处者"}
+{"origin": "腰骶筋膜炎", "entailment": "筋膜炎", "contradiction": "狼疮性周围神经病"}
+{"origin": "左眼角膜中央板层戳伤", "entailment": "角膜损伤", "contradiction": "神经根和神经丛疾患"}
+{"origin": "下唇疖肿", "entailment": "皮肤疖肿", "contradiction": "人类免疫缺陷病毒[HIV]病造成的不可归类在他处的血液学和免疫学的异常"}
+{"origin": "右乳错构瘤", "entailment": "乳房错构瘤", "contradiction": "分娩时会阴粘擦"}
+{"origin": "副乳腺", "entailment": "副乳", "contradiction": "胰体恶性肿瘤"}
+{"origin": "食道癌放疗后", "entailment": "食管恶性肿瘤", "contradiction": "膝关节外侧副韧带损伤"}
+{"origin": "食道癌放疗后", "entailment": "癌", "contradiction": "左心室双出口"}
+{"origin": "食道癌放疗后", "entailment": "恶性肿瘤放疗", "contradiction": "胫动脉瘤"}
+{"origin": "黏膜组织慢性炎伴淋巴组织增生", "entailment": "淋巴组织增生", "contradiction": "有机溶剂和卤素烃及其蒸气的意外中毒及暴露于该类物质, 在街道和公路"}
+{"origin": "黏膜组织慢性炎伴淋巴组织增生", "entailment": "淋巴组织增生病", "contradiction": "鼻窦血管瘤"}
+{"origin": "2型糖尿病合并2型糖尿病性周围神经病变", "entailment": "2型糖尿病", "contradiction": "口区发育性(非牙源性)囊肿"}
+{"origin": "2型糖尿病合并2型糖尿病性周围神经病变", "entailment": "2型糖尿病性周围神经病", "contradiction": "具有与家族和个人史以及影响健康状态的某些情况有关的潜在健康危害的人"}
+{"origin": "骶尾部穿透伤", "entailment": "骨盆开放性损伤", "contradiction": "圣路易斯脑炎"}
+{"origin": "卵巢恶性肿瘤伴腹水", "entailment": "卵巢恶性肿瘤", "contradiction": "与在公共机构居住有关"}
+{"origin": "卵巢恶性肿瘤伴腹水", "entailment": "腹水", "contradiction": "异物或物体经皮肤进入造成的损伤, 在贸易和服务区域"}
+{"origin": "上消化道出血待查：溃疡？", "entailment": "上消化道出血", "contradiction": "弹响髋"}
+{"origin": "上消化道出血待查：溃疡？", "entailment": "消化性溃疡", "contradiction": "重型运输车的车辆外人员在重型运输车与火车或铁路车辆碰撞交通事故中的损伤"}
+{"origin": "肝局灶增生血脂高", "entailment": "高脂血症", "contradiction": "胎盘纤维化"}
+{"origin": "双颈部淋巴结反应性增生", "entailment": "颈淋巴结肿大", "contradiction": "先天性腭裂"}
+{"origin": "侧脑室心房分流术后", "entailment": "脑脊液分流状态", "contradiction": "鸟-胞内复合分枝杆菌感染"}
+{"origin": "双侧输卵管高级别浆液性癌3c期", "entailment": "浆液性癌", "contradiction": "小纤维神经病"}
+{"origin": "双侧输卵管高级别浆液性癌3c期", "entailment": "输卵管恶性肿瘤", "contradiction": "接触热自来水造成的损伤, 在街道和公路"}
+{"origin": "左膝关节浅表肿物", "entailment": "膝关节肿物", "contradiction": "妊娠合并输卵管积水"}
+{"origin": "嗜酸细胞性支气管炎", "entailment": "支气管炎", "contradiction": "弥漫性皮肤肥大细胞增生病"}
+{"origin": "食管浅表溃疡型中分化鳞状细胞癌", "entailment": "食管恶性肿瘤", "contradiction": "轻型货车或篷车的车辆外人员在轻型货车或篷车与脚踏车碰撞交通事故中的损伤"}
+{"origin": "食管浅表溃疡型中分化鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "受压区褥疮"}
+{"origin": "双侧肾动脉支架植入术", "entailment": "血管支架植入术后状态", "contradiction": "2型糖尿病性结节性肾小球硬化症"}
+{"origin": "腹部左大腿打伤", "entailment": "腹部损伤", "contradiction": "副肿瘤型天疱疮"}
+{"origin": "腹部左大腿打伤", "entailment": "大腿损伤", "contradiction": "手枪发射造成的损伤, 意图不确定的, 在居住的公共设施"}
+{"origin": "阴道胚胎性横纹肌肉瘤", "entailment": "阴道恶性肿瘤", "contradiction": "后交通动脉的蛛网膜下出血"}
+{"origin": "阴道胚胎性横纹肌肉瘤", "entailment": "胚胎型横纹肌肉瘤", "contradiction": "肩和上臂多处开放性伤口"}
+{"origin": "右眼睑过敏", "entailment": "眼睑变应性皮炎", "contradiction": "肾动脉粥样硬化"}
+{"origin": "胎盘绒毛血管增多底板绒毛外滋养细胞增多", "entailment": "未指胎盘疾患", "contradiction": "血中存在酒精,水平未特指"}
+{"origin": "腘绳肌腱膜炎", "entailment": "肌腱炎", "contradiction": "慢性髓系白血病"}
+{"origin": "右侧肾盂粘膜炎性病变", "entailment": "肾盂炎", "contradiction": "烟火发射造成的损伤, 在农场"}
+{"origin": "心悸气短", "entailment": "心悸", "contradiction": "单纯疱疹病毒性脑炎"}
+{"origin": "心悸气短", "entailment": "气短", "contradiction": "速可眠中毒"}
+{"origin": "右侧输尿管切开取石术后", "entailment": "输尿管结石", "contradiction": "未特指无机物的毒性效应"}
+{"origin": "右侧输尿管切开取石术后", "entailment": "输尿管术后", "contradiction": "妊娠合并肾病"}
+{"origin": "念珠菌性外阴阴n9 600道炎", "entailment": "念球菌性外阴炎", "contradiction": "从旗杆上跌落"}
+{"origin": "口腔黏膜擦伤", "entailment": "口腔和咽喉部损伤", "contradiction": "其他特指病原体引起的急性支气管炎"}
+{"origin": "动脉粥样硬化(颈动脉斑块)", "entailment": "颈动脉粥样硬化", "contradiction": "眼球黑色素细胞瘤"}
+{"origin": "口咽鳞状细胞癌化疗后", "entailment": "口咽恶性肿瘤", "contradiction": "盆腔错构瘤"}
+{"origin": "口咽鳞状细胞癌化疗后", "entailment": "鳞状细胞癌", "contradiction": "毒物相关性肺动脉高压"}
+{"origin": "口咽鳞状细胞癌化疗后", "entailment": "化学治疗", "contradiction": "青春期延迟"}
+{"origin": "右颊粘膜右舌背扁平苔藓伴轻糜免疫异常", "entailment": "口腔扁平苔癣", "contradiction": "其他全身性抗生素中毒"}
+{"origin": "右颊粘膜右舌背扁平苔藓伴轻糜免疫异常", "entailment": "舌扁平苔癣", "contradiction": "前臂桡动脉损伤"}
+{"origin": "右侧陈旧性腔隙性脑梗死", "entailment": "腔隙性脑梗死", "contradiction": "合成植入物植入术后随诊医疗"}
+{"origin": "左足底裂伤伴感染", "entailment": "足裂伤", "contradiction": "软组织浆细胞瘤"}
+{"origin": "左足底裂伤伴感染", "entailment": "足软组织感染", "contradiction": "苔藓样药物反应"}
+{"origin": "痔疮术后出血", "entailment": "痔", "contradiction": "急性传染性淋巴细胞增多症"}
+{"origin": "痔疮术后出血", "entailment": "出血", "contradiction": "联体双胎"}
+{"origin": "高血压;a族高脂血症;心绞痛;支架植入术后状态;肺部感染", "entailment": "高血压", "contradiction": "根分歧病变"}
+{"origin": "高血压;a族高脂血症;心绞痛;支架植入术后状态;肺部感染", "entailment": "a族高脂血症", "contradiction": "三轮机动车乘客在三轮机动车与行人或牲畜碰撞中非交通事故的损伤"}
+{"origin": "高血压;a族高脂血症;心绞痛;支架植入术后状态;肺部感染", "entailment": "心绞痛", "contradiction": "周围循环衰竭"}
+{"origin": "高血压;a族高脂血症;心绞痛;支架植入术后状态;肺部感染", "entailment": "冠状动脉支架植入术后状态", "contradiction": "用大口径步枪发射方式故意自害"}
+{"origin": "高血压;a族高脂血症;心绞痛;支架植入术后状态;肺部感染", "entailment": "肺部感染", "contradiction": "肛门一度烧伤"}
+{"origin": "乳腺浸润性导管癌2-3级", "entailment": "乳腺恶性肿瘤", "contradiction": "产程和分娩期间麻醉的其他并发症"}
+{"origin": "乳腺浸润性导管癌2-3级", "entailment": "浸润性导管癌", "contradiction": "其他神经症性障碍"}
+{"origin": "出血性脑梗死后遗症继发癫痫发作", "entailment": "出血性脑梗死", "contradiction": "巴比妥盐类中毒"}
+{"origin": "出血性脑梗死后遗症继发癫痫发作", "entailment": "脑梗死后遗症", "contradiction": "腕和手指屈肌腱损伤"}
+{"origin": "出血性脑梗死后遗症继发癫痫发作", "entailment": "症状性癫痫[继发性癫痫]", "contradiction": "下肢脉管炎"}
+{"origin": "腰5-骶1病变伴双下肢不全瘫", "entailment": "截瘫[双下肢瘫痪]", "contradiction": "先天性睑外翻"}
+{"origin": "腰5-骶1病变伴双下肢不全瘫", "entailment": "不完全性瘫痪", "contradiction": "皮肤血管炎"}
+{"origin": "肿瘤性马尾神经不全损伤", "entailment": "马尾损伤", "contradiction": "原发皮肤弥漫性大B细胞淋巴瘤(其他型)"}
+{"origin": "左腕舟骨月骨3角骨缺血坏死", "entailment": "月骨缺血性坏死", "contradiction": "腮腺淋巴结结核"}
+{"origin": "左腕舟骨月骨3角骨缺血坏死", "entailment": "骨缺血性坏死", "contradiction": "(十二指肠)钩虫病"}
+{"origin": "鲍恩环状扁平苔藓", "entailment": "扁平苔癣", "contradiction": "先天性胰腺囊肿"}
+{"origin": "鲍恩环状扁平苔藓", "entailment": "鲍恩病", "contradiction": "1型糖尿病性前期肾小球系膜增殖性肾病"}
+{"origin": "念珠菌感染", "entailment": "念珠菌病", "contradiction": "手汗症"}
+{"origin": "右乳癌综合治疗后肝", "entailment": "乳腺恶性肿瘤", "contradiction": "后圆线虫病"}
+{"origin": "右乳癌综合治疗后肝", "entailment": "癌", "contradiction": "先天性上肢骨发育异常"}
+{"origin": "躯体化症状肝郁脾虚", "entailment": "躯体化障碍", "contradiction": "髂静脉栓塞"}
+{"origin": "腹腔镜保胆取石术后", "entailment": "胆囊术后", "contradiction": "地震受害者, 在工业和建筑区域"}
+{"origin": "腹腔镜保胆取石术后", "entailment": "胆石症", "contradiction": "意义未确定的单克隆丙球蛋白病"}
+{"origin": "荨麻疹，胃肠型", "entailment": "胃肠型荨麻疹", "contradiction": "膀胱息肉"}
+{"origin": "结肠管状腺瘤2结肠管状腺瘤", "entailment": "结肠良性肿瘤", "contradiction": "多发性脑神经炎"}
+{"origin": "结肠管状腺瘤2结肠管状腺瘤", "entailment": "管状腺瘤", "contradiction": "2型糖尿病性酮症酸中毒和乳酸性酸中毒"}
+{"origin": "膀胱移行上皮癌", "entailment": "膀胱恶性肿瘤", "contradiction": "NK细胞淋巴母细胞性白血病/淋巴瘤"}
+{"origin": "膀胱移行上皮癌", "entailment": "癌", "contradiction": "孤立性气管支气管结核"}
+{"origin": "游离体骨和软骨结构", "entailment": "关节游离体", "contradiction": "下牙龈恶性肿瘤"}
+{"origin": "意识丧失伴肢体抽搐", "entailment": "意识丧失", "contradiction": "梅毒性冠状动脉口狭窄"}
+{"origin": "意识丧失伴肢体抽搐", "entailment": "抽搐状态", "contradiction": "高胡萝卜素血症"}
+{"origin": "肝脏结合病史符合外伤性肝破裂", "entailment": "肝破裂", "contradiction": "家族性肝内胆汁淤积症"}
+{"origin": "神经症右下肺间质性损害", "entailment": "神经症性障碍", "contradiction": "混合型心绞痛"}
+{"origin": "神经症右下肺间质性损害", "entailment": "间质性肺病", "contradiction": "原发性月经稀少"}
+{"origin": "颈胸腰椎间盘退行性变", "entailment": "颈椎退行性病变", "contradiction": "泌尿道外口功能不良"}
+{"origin": "颈胸腰椎间盘退行性变", "entailment": "胸椎退行性病变", "contradiction": "暴露于其他特指的电流下造成的损伤, 在工业和建筑区域"}
+{"origin": "颈胸腰椎间盘退行性变", "entailment": "腰椎退行性病变", "contradiction": "椎动脉瘤"}
+{"origin": "单纯疱疹病毒感染症", "entailment": "单纯疱疹", "contradiction": "作战行动的后遗症"}
+{"origin": "2左胫骨远端骨不连", "entailment": "胫骨骨折不连接", "contradiction": "接触爆炸物造成的损伤, 意图不确定的, 在学校、其他机构和公共管理区域"}
+{"origin": "心c肌桥累及前降支", "entailment": "冠状动脉肌桥", "contradiction": "被其他爬行动物咬伤或压伤, 在未特指场所"}
+{"origin": "硬化性肾小球肾炎", "entailment": "硬化性肾炎", "contradiction": "失火事故的晚期效应"}
+{"origin": "子宫黏膜下肌瘤", "entailment": "子宫粘膜下平滑肌瘤", "contradiction": "椎间孔结缔组织和椎间盘狭窄"}
+{"origin": "子宫黏膜下肌瘤", "entailment": "子宫平滑肌瘤", "contradiction": "其他身体结构诊断性影像检查的异常所见"}
+{"origin": "左下叶开口非小细胞恶性肿瘤考虑鳞状细胞恶性肿瘤", "entailment": "左肺下叶恶性肿瘤", "contradiction": "骨髓纤维化(伴骨髓样化生)"}
+{"origin": "左下叶开口非小细胞恶性肿瘤考虑鳞状细胞恶性肿瘤", "entailment": "非小细胞癌", "contradiction": "输卵管妊娠合并宫内孕"}
+{"origin": "左下叶开口非小细胞恶性肿瘤考虑鳞状细胞恶性肿瘤", "entailment": "鳞状细胞癌", "contradiction": "迷路瘘管"}
+{"origin": "全身强直型发作", "entailment": "癫痫大发作[全身强直-阵挛性发作]", "contradiction": "缺血性视网膜病变"}
+{"origin": "产伤性1度会阴裂伤", "entailment": "分娩伴会阴裂伤1度", "contradiction": "孤立性纤维性瘤"}
+{"origin": "左侧结节性甲状腺肿物", "entailment": "甲状腺肿物", "contradiction": "腹壁和下背及骨盆冻伤"}
+{"origin": "1接触性皮炎2唇炎", "entailment": "接触性皮炎", "contradiction": "继发性溶血性贫血"}
+{"origin": "1接触性皮炎2唇炎", "entailment": "唇炎", "contradiction": "未特指的女性盆腔炎性疾病"}
+{"origin": "右侧颞顶骨折", "entailment": "顶骨骨折", "contradiction": "分类于他处的传染病和寄生虫病引起的结膜炎"}
+{"origin": "右侧颞顶骨折", "entailment": "颞骨骨折", "contradiction": "阴囊三度腐蚀伤"}
+{"origin": "骶尾部纤维脂肪组织化脓", "entailment": "软组织感染", "contradiction": "接触无动力手工工具造成的损伤, 在贸易和服务区域"}
+{"origin": "阴茎发育异常", "entailment": "先天性阴茎发育不全", "contradiction": "仅为抗流行性腮腺炎采取必要的免疫"}
+{"origin": "肝脏肿瘤：肝母细胞瘤？", "entailment": "肝恶性肿瘤", "contradiction": "用爆炸物进行加害, 在其他特指的场地"}
+{"origin": "肝脏肿瘤：肝母细胞瘤？", "entailment": "肝母细胞瘤", "contradiction": "非致依赖性物质滥用"}
+{"origin": "肝脏肿瘤：肝母细胞瘤？", "entailment": "肝母细胞瘤", "contradiction": "桥脑良性肿瘤"}
+{"origin": "高血酯病4高血酯病", "entailment": "高脂血症", "contradiction": "铁及其化合物中毒"}
+{"origin": "口腔血管瘤", "entailment": "口腔血管瘤", "contradiction": "鼻部腐蚀伤"}
+{"origin": "口腔血管瘤", "entailment": "血管瘤", "contradiction": "丘疹"}
+{"origin": "完全性房室间隔缺损左室发育小", "entailment": "完全型心内膜垫缺损", "contradiction": "其他气体和蒸气的意外中毒及暴露于该类物质, 在居住的公共设施"}
+{"origin": "左胫腓骨挫伤", "entailment": "胫骨骨折", "contradiction": "贝内特骨折"}
+{"origin": "左胫腓骨挫伤", "entailment": "腓骨骨折", "contradiction": "脑静脉畸形"}
+{"origin": "纵隔鳞癌", "entailment": "纵隔恶性肿瘤", "contradiction": "眼震和其他不规则眼运动"}
+{"origin": "纵隔鳞癌", "entailment": "鳞状细胞癌", "contradiction": "撞在其他物体上或被其他物体击中造成的损伤"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "乙状结肠恶性肿瘤", "contradiction": "三体性13,(同源)嵌合体(有丝分裂不分离)"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "肝继发恶性肿瘤", "contradiction": "酪氨酸尿症"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "化疗药物反应", "contradiction": "未特指的性心理发育障碍"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "白细胞减少", "contradiction": "先天性颈椎峡部裂"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "肝损害", "contradiction": "暴露于高气压、低气压和气压改变环境下造成的损伤, 在学校、其他机构和公共管理区域"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "消化不良", "contradiction": "晶状体的其他疾患"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "o", "contradiction": "拉埃奈克肝硬化[Laennec肝硬化]"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "癌", "contradiction": "静脉的其他疾患"}
+{"origin": "乙状结肠癌同时性肝转移4期，化疗白细胞低 肝损害，消化不良，腹泻", "entailment": "转移性癌", "contradiction": "新生儿脾破裂"}
+{"origin": "前纵裂及基底池血肿", "entailment": "蛛网膜下腔血肿", "contradiction": "胸腺淋巴管瘤"}
+{"origin": "前纵裂及基底池血肿", "entailment": "颅内血肿", "contradiction": "唇部烧伤"}
+{"origin": "直肠肛门松弛症", "entailment": "直肠脱垂", "contradiction": "尿路上皮癌"}
+{"origin": "直肠肛门松弛症", "entailment": "肛门括约肌松弛", "contradiction": "已知病毒的流感性咽炎"}
+{"origin": "贲门粘液腺癌", "entailment": "贲门恶性肿瘤", "contradiction": "沙尔科-玛丽-图斯病"}
+{"origin": "贲门粘液腺癌", "entailment": "粘液腺癌", "contradiction": "手掌三度烧伤"}
+{"origin": "胸髓病变t9完全横贯性损害梗死", "entailment": "脊髓病", "contradiction": "腓肌腱炎"}
+{"origin": "胸髓病变t9完全横贯性损害梗死", "entailment": "急性脊髓梗死", "contradiction": "产褥期肠梗阻"}
+{"origin": "双足腓骨肌萎缩", "entailment": "腓骨肌萎缩", "contradiction": "难治性血细胞减少伴多系病态造血"}
+{"origin": "中分化鳞形细胞癌", "entailment": "鳞状细胞癌", "contradiction": "未特指的细粒棘球蚴感染"}
+{"origin": "右肺中叶腺癌化学治疗后的随诊检查", "entailment": "右肺中叶恶性肿瘤", "contradiction": "腓神经损伤"}
+{"origin": "右肺中叶腺癌化学治疗后的随诊检查", "entailment": "腺癌", "contradiction": "泪腺萎缩"}
+{"origin": "右肺中叶腺癌化学治疗后的随诊检查", "entailment": "恶性肿瘤化学治疗后的随诊检查", "contradiction": "未特指的骑摩托车人员在摩托车与脚踏车碰撞非交通事故中的损伤"}
+{"origin": "乙状结肠癌（pt3n2amx）", "entailment": "乙状结肠恶性肿瘤", "contradiction": "腋动脉损伤"}
+{"origin": "乙状结肠癌（pt3n2amx）", "entailment": "癌", "contradiction": "其他特指疾病和疾患的特殊筛查"}
+{"origin": "乙状结肠癌（pt3n2amx）", "entailment": "淋巴结继发恶性肿瘤", "contradiction": "肛门二度腐蚀伤"}
+{"origin": "l1-2椎管内神经鞘瘤", "entailment": "神经鞘瘤", "contradiction": "肾缺如和肾的其他萎缩性缺陷"}
+{"origin": "l1-2椎管内神经鞘瘤", "entailment": "椎管内良性肿瘤", "contradiction": "发作性睡病"}
+{"origin": "左腘窝滑膜软瘤病", "entailment": "软骨瘤病", "contradiction": "1型糖尿病性酮症酸中毒和乳酸性酸中毒并昏迷"}
+{"origin": "左腘窝滑膜软瘤病", "entailment": "腘窝良性肿瘤", "contradiction": "垂体良性肿瘤"}
+{"origin": "咳喘原因待查", "entailment": "咳嗽", "contradiction": "眶内血肿"}
+{"origin": "咳喘原因待查", "entailment": "喘息", "contradiction": "腺瘤病"}
+{"origin": "右侧扁桃体鳞状细胞癌", "entailment": "鳞状细胞癌", "contradiction": "根尖肉芽肿"}
+{"origin": "右侧扁桃体鳞状细胞癌", "entailment": "扁桃体恶性肿瘤", "contradiction": "肌强直性疾患"}
+{"origin": "葡萄酒色痣", "entailment": "鲜红斑痣[葡萄酒色痣]", "contradiction": "房间隔缺损封堵术后残余分流"}
+{"origin": "纵膈积气颈胸部皮下气肿", "entailment": "纵隔气肿", "contradiction": "酒精性肝硬化伴食管静脉曲张"}
+{"origin": "左胸壁先天性鳃裂瘘管", "entailment": "鳃裂瘘", "contradiction": "先天性巨趾"}
+{"origin": "右腿麻软查因", "entailment": "肌无力", "contradiction": "肝肉芽肿"}
+{"origin": "左踝关节损伤", "entailment": "踝关节扭伤", "contradiction": "腿部凹陷整形"}
+{"origin": "右下肺癌、肺结核（-）", "entailment": "右肺下叶恶性肿瘤", "contradiction": "纵隔交界性肿瘤"}
+{"origin": "右下肺癌、肺结核（-）", "entailment": "癌", "contradiction": "在小腿水平的腓侧肌群的肌肉和肌腱损伤"}
+{"origin": "电弧烧伤面部", "entailment": "面部烧伤", "contradiction": "全垂体功能减退症"}
+{"origin": "电弧烧伤面部", "entailment": "电流引起烧伤", "contradiction": "多发性腺瘤样息肉"}
+{"origin": "左侧胸膜胸壁占位", "entailment": "胸壁占位", "contradiction": "泪腺脱垂"}
+{"origin": "左侧胸膜胸壁占位", "entailment": "胸膜占位", "contradiction": "流行性腮腺炎"}
+{"origin": "右膝关节外侧盘状半月板前交叉韧带止点血肿", "entailment": "先天性盘状半月板", "contradiction": "鱼类中毒"}
+{"origin": "胼胝体发育异常", "entailment": "胼胝体发育不全", "contradiction": "直肠良性肿瘤"}
+{"origin": "冠心病冠脉支架置入术后", "entailment": "冠状动脉粥样硬化性心脏病", "contradiction": "手术后胆管闭锁"}
+{"origin": "冠心病冠脉支架置入术后", "entailment": "冠状动脉支架植入术后状态", "contradiction": "贲门撕裂症"}
+{"origin": "左颌颈部肉芽肿性炎", "entailment": "肉芽肿", "contradiction": "泪道急性和未特指的炎症"}
+{"origin": "颅内多发腔隙性梗塞", "entailment": "腔隙性脑梗死", "contradiction": "颊粘膜恶性肿瘤"}
+{"origin": "颅内多发腔隙性梗塞", "entailment": "多发性脑梗死", "contradiction": "先天性眼外肌纤维化综合征"}
+{"origin": "肝门区囊性病灶右肝低密度性质待查", "entailment": "肝囊肿", "contradiction": "骨膜软骨瘤"}
+{"origin": "右上肺结节:肺癌", "entailment": "肺占位性病变", "contradiction": "结核性支气管扩张"}
+{"origin": "右上肺结节:肺癌", "entailment": "右肺上叶恶性肿瘤", "contradiction": "锅炉爆炸和破裂造成的损伤, 在街道和公路"}
+{"origin": "右上肺结节:肺癌", "entailment": "癌", "contradiction": "自我伤害个人史"}
+{"origin": "下腹部包块待查；双侧腹股沟疝气术后", "entailment": "腹部肿物", "contradiction": "髋和大腿未特指的浅表损伤"}
+{"origin": "下腹部包块待查；双侧腹股沟疝气术后", "entailment": "双侧腹股沟疝", "contradiction": "与多产有关的问题"}
+{"origin": "下腹部包块待查；双侧腹股沟疝气术后", "entailment": "腹股沟术后", "contradiction": "先天性视神经乳头发育不全"}
+{"origin": "腰5椎体病变伴双下肢不全瘫", "entailment": "不完全性瘫痪", "contradiction": "接触蒸气、热气和热物体造成的损伤, 意图不确定的, 在农场"}
+{"origin": "腰5椎体病变伴双下肢不全瘫", "entailment": "截瘫[双下肢瘫痪]", "contradiction": "髋和下肢二度烧伤,除外踝和足"}
+{"origin": "腰5椎体病变伴双下肢不全瘫", "entailment": "腰椎病", "contradiction": "胎儿和新生儿受臀位分娩和胎臀牵引术的影响"}
+{"origin": "左肾盂及上段输尿管扩张积水，左侧输尿管盆腔段狭窄", "entailment": "输尿管扩张", "contradiction": "肝纤维化"}
+{"origin": "左肾盂及上段输尿管扩张积水，左侧输尿管盆腔段狭窄", "entailment": "肾盂扩张", "contradiction": "膝关节内紊乱"}
+{"origin": "左肾盂及上段输尿管扩张积水，左侧输尿管盆腔段狭窄", "entailment": "输尿管积水", "contradiction": "面部软组织下垂"}

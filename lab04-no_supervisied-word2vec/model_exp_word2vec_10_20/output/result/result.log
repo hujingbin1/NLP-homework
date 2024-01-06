@@ -1,0 +1,9 @@
+Sun, Oct 22, 2023 10:02:18 PM
+数据中共有 52259 个单词
+词典大小为 9428
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 89, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 678. MiB for an array with shape (9428, 9428) and data type float64

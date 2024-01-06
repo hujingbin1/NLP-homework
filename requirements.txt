@@ -1,0 +1,25 @@
+pyaudio 
+baidu-aip
+chardet
+pygame
+seaborn
+jieba
+utils
+openpyxl
+pandas
+# yaml
+gensim==4.3.0
+keras==2.10.0
+numpy==1.26.0
+# pytorch==2.0.1
+# pytorch-cuda==11.8
+requests==2.31.0
+scipy==1.11.3
+setuptools==68.0.0
+tensorboard==2.10.0
+tensorboardx==2.2
+tensorflow==2.10.0
+torchaudio==2.0.2
+torchvision==0.15.2
+wheel==0.41.2
+yarl==1.8.1

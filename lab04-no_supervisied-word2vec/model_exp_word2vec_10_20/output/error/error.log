@@ -1,0 +1,82 @@
+Fri, Oct 20, 2023 2:53:17 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 94, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 678. MiB for an array with shape (9428, 9428) and data type float64
+Fri, Oct 20, 2023 2:55:17 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 94, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 215. MiB for an array with shape (5312, 5312) and data type float64
+Fri, Oct 20, 2023 2:56:24 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 94, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 117. MiB for an array with shape (3924, 3924) and data type float64
+Fri, Oct 20, 2023 2:57:05 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 94, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 41.1 MiB for an array with shape (2322, 2322) and data type float64
+Fri, Oct 20, 2023 2:57:36 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 94, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 18.5 MiB for an array with shape (1558, 1558) and data type float64
+Fri, Oct 20, 2023 2:58:06 PM
+Fri, Oct 20, 2023 3:02:08 PM\n
+Fri, Oct 20, 2023 3:10:54 PM
+Fri, Oct 20, 2023 3:13:35 PM
+Fri, Oct 20, 2023 3:14:13 PM
+Fri, Oct 20, 2023 3:45:21 PM
+Fri, Oct 20, 2023 3:50:07 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 11, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'
+Fri, Oct 20, 2023 3:54:50 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 11, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'
+Fri, Oct 20, 2023 3:55:00 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 11, in <module>
+    import yaml
+ModuleNotFoundError: No module named 'yaml'
+Fri, Oct 20, 2023 3:56:03 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 88, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 678. MiB for an array with shape (9428, 9428) and data type float64
+Fri, Oct 20, 2023 4:12:12 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 89, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 678. MiB for an array with shape (9428, 9428) and data type float64
+Sun, Oct 22, 2023 10:01:50 PM
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+Sun, Oct 22, 2023 10:02:18 PM
+Traceback (most recent call last):
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\main.py", line 89, in <module>
+    data_set, vocabulary, index_dict = get_data_set(data_path, config['window_width'], config['window_step'],
+  File "D:\Projects\NLP_Projects\nlp\model_exp_word2vec_10_20\dataset.py", line 48, in get_data_set
+    feature = np.zeros((len(vocabulary), len(vocabulary)))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 678. MiB for an array with shape (9428, 9428) and data type float64

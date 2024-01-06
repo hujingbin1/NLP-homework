@@ -1,0 +1,12 @@
+batch_size: 4
+device: cuda
+embedding_dim: 3
+n_epochs: 20
+negative_sample_num: 10
+optim_hyper_paras:
+  lr: 0.001
+optimizer: Adam
+seed: 666
+window_step: 1
+window_width: 2
+data_path: '.\\process_txt\\train-text.txt'
